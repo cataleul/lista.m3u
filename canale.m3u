@@ -1,318 +1,248 @@
 #EXTM3U
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/MusicChannel.ro.png" group-title="Undefined",1 Music Channel
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70894?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/64d5444cbe812bd639ff51c359b20e98.jpg" group-title="Undefined",A7 TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/24970?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",1 Music Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36209?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ACASA
 http://red.ipfox.org:8080/osama2022/osama2023/48849?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ACASA GOLD
 http://red.ipfox.org:8080/osama2022/osama2023/48851?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AGRO TV SD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15089?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ALEPH NEWS
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19375?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ALFA OMEGA TV
 http://comag.rip:8000/00159101576765/61790209632447/165990?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ALFA OMEGA TV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15263?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ALFA OMEGA TV
 http://topstb.com:8000/50656250782258/27115840859269/165990?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/caeb5aab52a02ecd3b88bb5a98b44a00.png" group-title="Undefined",AMC
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/14854?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AMC
 http://red.ipfox.org:8080/osama2022/osama2023/48822?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/38a88fdd881f5379695d1c18ed537169.png" group-title="Undefined",ANIMAL PLANET
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9839?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/29f4c82eacf32a8e073c6012a08b3b13.png" group-title="Undefined",AXN
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2234?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AMC RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23297?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN BLACK
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19373?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/37152d5dc95ba0c387516e89cb11dca4.png" group-title="Undefined",AXN Black
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/6157?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN Black
 http://red.ipfox.org:8080/osama2022/osama2023/48847?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN Black
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.black.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN HD
-http://topstb.com:8000/50656250782258/27115840859269/166057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN Black RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36198?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://stvron.com/canale/512/axn.png" group-title="Undefined",AXN FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36197?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN HD
 http://comag.rip:8000/00159101576765/61790209632447/166057?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1577?checkedby:iptvcat.com
+http://topstb.com:8000/50656250782258/27115840859269/166057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23294?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN SPIN
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.spin.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN SPIN
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19372?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fd1cd24844e8ccb4755ca88c27013f47.png" group-title="Undefined",AXN Spin
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9809?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN Spin RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36195?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN WITH
 http://topstb.com:8000/50656250782258/27115840859269/166014?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN WITH
 http://comag.rip:8000/00159101576765/61790209632447/166014?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN WITH
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15108?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0d13e3630c28c7cbfc370178d96047fa.png" group-title="Undefined",AXN White
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2640?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN White
 http://red.ipfox.org:8080/osama2022/osama2023/48848?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN White
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.white.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/df40b8d678e90ff2902295be63f99832.png" group-title="Undefined",Acasa
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/15265?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/3174d589756ffc73acbb15ae531c5a08.png" group-title="Undefined",Acasa Gold
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/19913?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/57f48a3c8bcdb5cfcc4370fb84ec9a8d.png" group-title="Undefined",Agro TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2232?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN White RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23293?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Agro TV
 http://red.ipfox.org:8080/osama2022/osama2023/48840?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Agro TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36204?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AgroTV (404p) [Not 24/7]
 https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/dce3c89d5670043f378e5cf47ed6224f.png" group-title="Undefined",Aleph News
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/276012?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Alfa & Omega RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36203?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://www.tvchannellists.com/images/7/7c/Alfa_Omega_TV.png" group-title="Undefined",Alfa & Omega Tv
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70899?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Alfa Omega
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/alfa.omega.tv.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/65c74b8011bd4d055d8c885c953a2993.png" group-title="Undefined",Alfa Omega TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/6999?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/AnimalPlanet.ro.png" group-title="Undefined",Animal Planet HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70902?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Antena1.ro.png" group-title="Undefined",Antena  1
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70909?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4659d2bca898e371660103eb401e30fd.png" group-title="Undefined",Antena 1
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2233?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/antena.1.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 1 FHD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1568?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 1 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16720?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Antena1.ro.png" group-title="Undefined",Antena 1 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70903?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/005336823ae4f7df48b6b597818713bf.png" group-title="Undefined",Antena 3
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2641?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 1 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37350?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 3
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/antena.3.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Antena3.ro.png" group-title="Undefined",Antena 3 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 3 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16719?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 3 HD
 http://topstb.com:8000/50656250782258/27115840859269/166065?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 3 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1569?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 3 HD
-http://comag.rip:8000/00159101576765/61790209632447/166065?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Antena3.ro.png" group-title="Undefined",Antena 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 3 HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36201?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/AntenaStars.ro.png" group-title="Undefined",Antena STARS / Cook & Play
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71082?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e81c6fc65df112b64432d509a6f5d125.png" group-title="Sport",Antena Sport
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/284778?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8adaaa4c7939104570f885a0badc88a9.png" group-title="Undefined",Antena Stars
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2227?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Stars
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/antena.stars.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Stars HD
-http://topstb.com:8000/50656250782258/27115840859269/166063?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Stars HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1571?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Stars FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23296?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Stars HD
 http://comag.rip:8000/00159101576765/61790209632447/166063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Stars HD
+http://topstb.com:8000/50656250782258/27115840859269/166063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Stars RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16721?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/AntenaStars.ro.png" group-title="Undefined",Antenna Stars
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70910?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0ccbcd6253f11b8a77f3483b7067f938.png" group-title="Undefined",Arcadia World
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/199048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Arcadia World FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110655?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Auto Motor Sport
 http://red.ipfox.org:8080/osama2022/osama2023/48818?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Auto Motor Sport RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36164?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/AXNBlack.ro.png" group-title="Undefined",Axn Black HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70915?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/AXN.ro.png" group-title="Undefined",Axn HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71084?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/AXNWhite.ro.png" group-title="Undefined",Axn White HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70918?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/94b38ea988bb66613e658409d07a54e8.png" group-title="Undefined",B1
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2228?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="Undefined",B1
-https://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
+http://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1
 https://ch.iptvmate.net/f971a1699633eca2551d622a7e168e25.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="Undefined",B1
-http://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="Undefined",B1
 http://stream.adunity.com/b1/b1_640-.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="Undefined",B1
+https://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/B1.ro.png" group-title="Undefined",B1 Channel
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70919?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1 TV
 http://topstb.com:8000/50656250782258/27115840859269/166059?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1 TV
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/b1.tv.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1 TV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1575?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1 TV
 http://red.ipfox.org:8080/osama2022/osama2023/48856?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1 TV
-http://comag.rip:8000/00159101576765/61790209632447/166059?checkedby:iptvcat.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/b1.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1 TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23292?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",BBC EARTH HD
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15087?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f6284a78d087bda05936fc5c78f4c180.png" group-title="Undefined",BBC Earth
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/19910?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",BBC Earth FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36194?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",BBC Earth HD
 http://red.ipfox.org:8080/osama2022/osama2023/48799?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df0b0361359eb84bee0045617ad1e370.png" group-title="Undefined",Bollywood
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12021?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9a42c17795bd75e3576c5aa4ef112ff3.jpg" group-title="Undefined",Bollywood Classic
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/67021?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bollywood TV
 http://red.ipfox.org:8080/osama2022/osama2023/48850?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bollywood TV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15110?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1234659854b81ea4af21bd87412fdb78.png" group-title="Undefined",Boomerang
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5742?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Boomerang.ro.png" group-title="Undefined",Boomerang
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70922?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bollywood TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36192?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Boomerang
 http://red.ipfox.org:8080/osama2022/osama2023/48807?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Boomerang
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1587?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Boomerang
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/boomerang.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/6b8b1e4e8208fdfade6106e5a62a7439.png" group-title="Undefined",Bucovina TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/73446?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucovina TV
-https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Undefined",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Boomerang.ro.png" group-title="Undefined",Boomerang
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70922?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Boomerang RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36190?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Undefined",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucovina TV
 https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/c6565b9a787264326ded971b715695a8.png" group-title="Undefined",CBS Reality
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9810?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucovina TV
+https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Undefined",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucovina TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36189?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucuresti TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36188?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CBS Reality
 http://red.ipfox.org:8080/osama2022/osama2023/48843?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CBS Reality
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.reality.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CBS Reality HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15086?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CINEMA RATON
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15102?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CNBC Europe
 http://red.ipfox.org:8080/osama2022/osama2023/48788?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b6ad3d4ac543b4946cf96cefe69eb25d.png" group-title="Undefined",CNN
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/66472?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CNN
 http://red.ipfox.org:8080/osama2022/osama2023/48790?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d6bbea85f344e5522246cef596be55be.png" group-title="Undefined",Cartoon Network
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5741?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Canal 33 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110654?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cartoon Network
 http://red.ipfox.org:8080/osama2022/osama2023/48810?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/CartoonNetwork.ro.png" group-title="Undefined",Cartoon Network HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71089?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cartoon Network RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23290?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cartoon Network RO
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/CBSReality.ro.png" group-title="Undefined",Cbs Reality
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70925?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3c68213a4d0af33e9ddd097d31ac7af2.png" group-title="Undefined",CineMaraton
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/24974?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b5be3bd29ca846fd4d775a395acfe078.png" group-title="Undefined",Cinemax
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2237?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemaraton RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36181?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax
 http://red.ipfox.org:8080/osama2022/osama2023/48829?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cinemax.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax 1 HD
 http://topstb.com:8000/50656250782258/27115840859269/166054?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax 1 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1580?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax 1 HD
-http://comag.rip:8000/00159101576765/61790209632447/166054?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b62b88e2ea35d13d27d7f3ab062240f9.png" group-title="Undefined",Cinemax 2
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2236?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cinemax.2.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax 2
 http://red.ipfox.org:8080/osama2022/osama2023/48828?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Cinemax2.ro.png" group-title="Undefined",Cinemax 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70926?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cinemax.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36185?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36183?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Cinemax.ro.png" group-title="Undefined",Cinemax HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70927?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/733ae45011e5aaf56fae446de78fdd24.png" group-title="Undefined",Cinethronix
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/66463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinethronix RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36182?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Club MTV
 http://red.ipfox.org:8080/osama2022/osama2023/48795?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/591d3f116fc3855789953fa24413b214.png" group-title="Undefined",Comedy Central
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12023?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Comedy Central
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/comedy.central.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Comedy Central
 http://red.ipfox.org:8080/osama2022/osama2023/48774?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Comedy Central
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/comedy.central.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Comedy Central RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36180?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Comedy Central Romania
 http://red.ipfox.org:8080/osama2022/osama2023/48844?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/11eed7c3061ca32c8229c0bedb4d18bf.png" group-title="Undefined",Credo TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12716?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Credo TV HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110657?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Credo tv
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15262?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/dc64775fcb754d50758eec04699fe52f.png" group-title="Undefined",Crime+ Investigation
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/57964?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Crime Investigation RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36178?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Crime+Investigation
 http://red.ipfox.org:8080/osama2022/osama2023/48838?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DA VINCI LEARNING SD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19367?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.24.ro.m3u8?checkedby:iptvcat.com
+http://topstb.com:8000/50656250782258/27115840859269/179640?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24
 http://comag.rip:8000/00159101576765/61790209632447/179640?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24
-http://topstb.com:8000/50656250782258/27115840859269/179640?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24 Craiova
-http://comag.rip:8000/00159101576765/61790209632447/179645?checkedby:iptvcat.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.24.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24 Craiova
 http://topstb.com:8000/50656250782258/27115840859269/179645?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI ANIMAL WORLD
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.animal.world.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24 Craiova
+http://comag.rip:8000/00159101576765/61790209632447/179645?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI ANIMAL WORLD
 http://topstb.com:8000/50656250782258/27115840859269/179641?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI ANIMAL WORLD
-http://comag.rip:8000/00159101576765/61790209632447/179641?checkedby:iptvcat.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.animal.world.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI ANIMAL WORLD FHD
 http://topstb.com:8000/50656250782258/27115840859269/166015?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI ANIMAL WORLD FHD
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15107?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI ANIMAL WORLD FHD
-http://comag.rip:8000/00159101576765/61790209632447/166015?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI LIFE
-http://comag.rip:8000/00159101576765/61790209632447/179643?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI LIFE
 http://topstb.com:8000/50656250782258/27115840859269/179643?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI Life
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.life.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 1
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19363?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="Sport",DIGI SPORT 1
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/71457?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 1
-http://comag.rip:8000/00159101576765/61790209632447/179647?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 1
 http://topstb.com:8000/50656250782258/27115840859269/179647?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="Sport",DIGI SPORT 2
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/71459?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 2
-http://comag.rip:8000/00159101576765/61790209632447/179648?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 2
 http://topstb.com:8000/50656250782258/27115840859269/179648?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 2
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19364?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 3
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19365?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" group-title="Sport",DIGI SPORT 3
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2243?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 3
-http://comag.rip:8000/00159101576765/61790209632447/179649?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 3
 http://topstb.com:8000/50656250782258/27115840859269/179649?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" group-title="Sport",DIGI SPORT 4
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4219?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 3
+http://comag.rip:8000/00159101576765/61790209632447/179649?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 4
 http://topstb.com:8000/50656250782258/27115840859269/179650?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 4
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19366?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI SPORT 4
 http://comag.rip:8000/00159101576765/61790209632447/179650?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 1
@@ -324,129 +254,97 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sp
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 4
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.4.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI WORLD
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.world.ro.m3u8?checkedby:iptvcat.com
+http://topstb.com:8000/50656250782258/27115840859269/179644?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI WORLD
 http://topstb.com:8000/50656250782258/27115840859269/179646?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI WORLD
-http://comag.rip:8000/00159101576765/61790209632447/179646?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI WORLD
-http://comag.rip:8000/00159101576765/61790209632447/179644?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI WORLD
-http://topstb.com:8000/50656250782258/27115840859269/179644?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI WORLD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19368?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DISCOVERY ID
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15091?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3e7d43bedbb508318fbef3d99aa56732.png" group-title="Undefined",Da Vinci Kids
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9811?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8df884d8377f042b16748d10b7ff27e5.png" group-title="Undefined",Digi 24
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2637?checkedby:iptvcat.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.world.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DaVinci Learning RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36174?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi 24
 http://red.ipfox.org:8080/osama2022/osama2023/48853?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi 24 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36171?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi 24 HD
 http://topstb.com:8000/50656250782258/27115840859269/166058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Digi24.ro.png" group-title="Undefined",Digi 24 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70937?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi 24 HD
 http://comag.rip:8000/00159101576765/61790209632447/166058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi 24 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1576?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1835356746488e132ae5b2ba6762d638.png" group-title="Undefined",Digi 4K
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/90750?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Digi24.ro.png" group-title="Undefined",Digi 24 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70937?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi 4K
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15099?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/31cffaef011729ac5bfc76bb64b77fe6.png" group-title="Undefined",Digi Animal World
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2238?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi 4K UHD RO [Only For 4K Devices]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/90814?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi Animal World FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36170?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DigiAnimalworld.ro.png" group-title="Undefined",Digi Animal World HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70939?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/264f9df5d2f67dafc5e7810080b81d3b.png" group-title="Undefined",Digi Life
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2240?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi Life FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36169?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 1 FHD RO [Multi-Audio]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16731?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group-title="Sport",Digi Sport 1 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70943?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36167?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="Sport",Digi Sport 2 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70944?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="Sport",Digi Sport 3 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70945?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="Sport",Digi Sport 4 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70947?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e2a9eb660ea5526a0a4d05b6624f17a3.png" group-title="Undefined",Digi World
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2244?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 4 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36165?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Digi World FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16732?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DigiWorld.ro.png" group-title="Undefined",Digi World HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70948?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Discovery Channel
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Discovery Channel
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1593?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryChannel.ro.png" group-title="Undefined",Discovery Channel HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70949?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/582370ec71ef87665deb0ad698993ab8.png" group-title="Undefined",Discovery Science
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12026?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Discovery RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36162?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Discovery Science FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36161?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DiscoveryScience.ro.png" group-title="Undefined",Discovery Science HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70950?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Discovery Science HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1592?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/c381600b92f358393007bf287db35c59.png" group-title="Undefined",Discovery Turbo Xtra
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/41558?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b71e4aceee440375a7ce9433b093e079.png" group-title="Undefined",Discovery World
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9814?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Discovery Showcase FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16758?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney
 http://red.ipfox.org:8080/osama2022/osama2023/48813?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/15f808f9213567f746a00327cd5d54e0.png" group-title="Undefined",Disney Channel
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4220?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Channel
 http://topstb.com:8000/50656250782258/27115840859269/166008?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Channel
-http://comag.rip:8000/00159101576765/61790209632447/166008?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Channel
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15114?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Channel
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36159?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Jr
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.junior.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DisneyJunior.ro.png" group-title="Undefined",Disney Junior
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71100?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Junior
-http://comag.rip:8000/00159101576765/61790209632447/166048?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9f41d945b3512bfa5e1f64fe4ce188f8.png" group-title="Undefined",Disney Junior
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2245?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Junior
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1586?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Junior
 http://topstb.com:8000/50656250782258/27115840859269/166048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DisneyJunior.ro.png" group-title="Undefined",Disney Junior
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71100?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://iptvw0rld.ga/disneyjr.png" group-title="Undefined",Disney Junior RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16733?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Junior Romania
 http://red.ipfox.org:8080/osama2022/osama2023/48805?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/41b8534e7d3a9645c9bbb3f5aa9f0102.png" group-title="Undefined",Diva
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9816?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Diva
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/diva.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/DivaUniversal.ro.png" group-title="Undefined",Diva Channel
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71101?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ca0fdd30abe2de8896f43ac8c5558197.png" group-title="Undefined",DocuBox
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/121127?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Diva Universal RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31208?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Docubox
 http://red.ipfox.org:8080/osama2022/osama2023/48833?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a2dcce67b80075302ae0d0f790af8fb3.png" group-title="Undefined",Duck TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/45915?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Duck TV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/13174?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Duck TV
 http://red.ipfox.org:8080/osama2022/osama2023/48809?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd0bb75e37e2738cdfeaab190eca6b6d.png" group-title="Undefined",E!
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/19925?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",E! ENTERTAIMENT
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15121?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",E! Entertainment
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/e.entertainment.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ETNO TV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19377?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/820299f77efed8d360574e7f51427b03.png" group-title="Sport",EUROSPORT 1
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4221?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fdcc5cd18396240d141cb87caa9f6b06.png" group-title="Sport",EUROSPORT 2
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4222?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",E! Entertainment FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36155?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Ento
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/etno.tv.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2651f110bec5b2a0766063eb98543eed.png" group-title="Undefined",Epic Drama
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/19918?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Epic Drama
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/epic.drama.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Epic Drama HD
@@ -455,138 +353,120 @@ http://red.ipfox.org:8080/osama2022/osama2023/48821?checkedby:iptvcat.com
 http://red.ipfox.org:8080/osama2022/osama2023/48796?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Etno.ro.png" group-title="Undefined",Etno HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70959?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e1bf561ac757a5d2d3073aeb4f1325df.png" group-title="Undefined",Etno TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2636?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Etno RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36150?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://www.etnictv.ro/images/logo-etnictv.png" group-title="Undefined",Etno Tv
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70958?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.tr.png" group-title="Sport",Eurosport 1 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70960?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 1 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1250?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 1 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36148?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 1 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36147?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 2
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36146?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 2 HD
 http://comag.rip:8000/00159101576765/61790209632447/166072?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 2 HD
 http://topstb.com:8000/50656250782258/27115840859269/166072?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 2 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1251?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.tr.png" group-title="Sport",Eurosport 2 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70961?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Extreme Sport
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/extreme.sports.channel.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Extreme Sports
 http://red.ipfox.org:8080/osama2022/osama2023/48819?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Extreme Sports Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/103508?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Fashion TV
 http://red.ipfox.org:8080/osama2022/osama2023/48791?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Fashion TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fashion.tv.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Favorit
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/favorit.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3690da9fc56f4d66d80a29eafcf7fdeb.png" group-title="Undefined",Favorit TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/12017?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Favorit TV
 http://red.ipfox.org:8080/osama2022/osama2023/48797?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2f36a11ba8b2391e1cad91c6df5fb5ca.png" group-title="Undefined",Film Cafe
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4223?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FightBox RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36141?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Cafe
 http://topstb.com:8000/50656250782258/27115840859269/166051?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Cafe
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/film.cafe.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Cafe
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1583?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Cafe
-http://comag.rip:8000/00159101576765/61790209632447/166051?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Cafe
 http://red.ipfox.org:8080/osama2022/osama2023/48846?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/03fe40f3d7df6f903b5f31a0cb564c47.png" group-title="Undefined",Film Now
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2239?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Cafe
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/film.cafe.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Cafe RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16762?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Now
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/film.now.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Now HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1582?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/875fc9f5042e232590f62ed7bce77806.png" group-title="Undefined",FilmBox
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/67031?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19449?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/89f638aea321f50e1c26cd97f4afe99d.png" group-title="Undefined",FilmBox Extra
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/67029?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Extra
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.extra.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/FilmBoxExtra.ro.png" group-title="Undefined",FilmBox Extra HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71104?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Extra HD
-http://red.ipfox.org:8080/osama2022/osama2023/48824?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Extra FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36138?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Extra HD
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19450?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/88e2d02264e41a171c3188e546fc0ba0.png" group-title="Undefined",FilmBox Family
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9822?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Extra HD
+http://red.ipfox.org:8080/osama2022/osama2023/48824?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/FilmBoxExtra.ro.png" group-title="Undefined",FilmBox Extra HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71104?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Family
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.family.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Family RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36137?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Plus
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.plus.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/6582002b5265533fc95117e419ed9ab1.png" group-title="Undefined",FilmBox Premium
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9824?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Premium
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.premium.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Premium
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19374?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Plus RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36136?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Premium
 http://red.ipfox.org:8080/osama2022/osama2023/48823?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/90a6426932fdaeeaebbef64d659fd942.png" group-title="Undefined",FilmBox Stars
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/291173?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Premium
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.premium.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Stars INT
 http://red.ipfox.org:8080/osama2022/osama2023/48827?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Filmbox Basic
 http://red.ipfox.org:8080/osama2022/osama2023/48826?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Filmbox Family
 http://red.ipfox.org:8080/osama2022/osama2023/48825?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Filmbox Premium RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36135?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Filmbox RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36134?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Fine Living
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fine.living.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/FishingHunting.ro.png" group-title="Undefined",Fishing & Hunting HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70972?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/278a0698bf82ebc6b4c4624b69088378.png" group-title="Undefined",Food Network
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/19900?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Food Network HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15112?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Fishing & Hunting RO [Multi-Audio]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30740?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",France 24
 http://red.ipfox.org:8080/osama2022/osama2023/48787?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",H!T Music Channel
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hit.music.channel.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4f25e70f40ec524c0fcbe1ab3110172b.png" group-title="Undefined",HBO
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2226?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 2
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 2  HD
-http://comag.rip:8000/00159101576765/61790209632447/166056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 2  HD
 http://topstb.com:8000/50656250782258/27115840859269/166056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36131?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 2 HD
 http://red.ipfox.org:8080/osama2022/osama2023/48831?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 3
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.3.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 3 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36130?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 3 HD
 http://red.ipfox.org:8080/osama2022/osama2023/48830?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO HD
 http://red.ipfox.org:8080/osama2022/osama2023/48832?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1578?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7a990e86532bbe80a8eec1ecfca666f5.png" group-title="Undefined",Happy Channel
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36129?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Happy Channel
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/happy.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Happy Channel FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36132?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/HappyChannel.ro.png" group-title="Undefined",Happy Channel HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70976?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/HappyChannel.ro.png" group-title="Undefined",Hbo 1 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70977?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/HBO2.ro.png" group-title="Undefined",Hbo 2
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70982?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/HBO3.ro.png" group-title="Undefined",Hbo 3
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70983?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/HappyChannel.ro.png" group-title="Undefined",Hbo HD
@@ -595,84 +475,90 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70980?checkedby:iptvcat.com
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70984?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",History Channel HD
 http://topstb.com:8000/50656250782258/27115840859269/166053?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",History Channel HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1581?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",History Channel HD
-http://comag.rip:8000/00159101576765/61790209632447/166053?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/HistoryChannel.tr.png" group-title="Undefined",History Channel HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70985?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",History Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36128?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",History FHD RO [Multi-Sub]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16745?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",History HD
 http://red.ipfox.org:8080/osama2022/osama2023/48802?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",Hit Music RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36127?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Hora
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hora.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Hora TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36126?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Inedit TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36122?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Intermedia TV
 https://ch.iptvmate.net/7e92d15f00213b7f4a48960350ab7db1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="Undefined",Intermedia TV
 http://46.4.14.12:9999/intermedia1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Investigation Discovery HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1595?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",JIMJAM
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19370?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Investigation Discovery RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36119?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",JimJam
 http://red.ipfox.org:8080/osama2022/osama2023/48811?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",JimJam RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36118?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.ro.png" group-title="Undefined",Kanal D
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/106667?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kanal.d.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D HD
+http://topstb.com:8000/50656250782258/27115840859269/166064?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D HD
 http://red.ipfox.org:8080/osama2022/osama2023/48863?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1570?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D HD
-http://comag.rip:8000/00159101576765/61790209632447/166064?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.ro.png" group-title="Undefined",Kanal D HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70998?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D HD
-http://topstb.com:8000/50656250782258/27115840859269/166064?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36117?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kiss TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kiss.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kiss TV HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36115?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kiss TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31209?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/KissTV.ro.png" group-title="Undefined",Kiss Tv HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70999?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",LOOK PLUS SD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15088?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
-http://red.ipfox.org:8080/osama2022/osama2023/48783?checkedby:iptvcat.com
+http://red.ipfox.org:8080/osama2022/osama2023/48780?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
 http://red.ipfox.org:8080/osama2022/osama2023/48784?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
 http://red.ipfox.org:8080/osama2022/osama2023/48779?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
-http://red.ipfox.org:8080/osama2022/osama2023/48777?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
-http://red.ipfox.org:8080/osama2022/osama2023/48780?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
-http://red.ipfox.org:8080/osama2022/osama2023/48782?checkedby:iptvcat.com
+http://red.ipfox.org:8080/osama2022/osama2023/48781?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
 http://red.ipfox.org:8080/osama2022/osama2023/48775?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
 http://red.ipfox.org:8080/osama2022/osama2023/48776?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
-http://red.ipfox.org:8080/osama2022/osama2023/48781?checkedby:iptvcat.com
+http://red.ipfox.org:8080/osama2022/osama2023/48777?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
+http://red.ipfox.org:8080/osama2022/osama2023/48783?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Local Channel
+http://red.ipfox.org:8080/osama2022/osama2023/48782?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Look Plus
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/look.plus.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/LookPlus.ro.png" group-title="Undefined",Look Plus HD+
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71001?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/look.sport.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport 2
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15095?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport 3
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15096?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/90951?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport 3 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/90952?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16747?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Ls-o-alb.png" group-title="Sport",Look Sport HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71111?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport+ FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/103507?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Love Nature HD
 http://red.ipfox.org:8080/osama2022/osama2023/48862?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MAGIC TV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15097?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MINIMAX
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19369?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MOOZ Dance
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MOOZ Dance RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36112?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV 00s
 http://red.ipfox.org:8080/osama2022/osama2023/48794?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV 80s
@@ -681,58 +567,58 @@ http://red.ipfox.org:8080/osama2022/osama2023/48793?checkedby:iptvcat.com
 http://red.ipfox.org:8080/osama2022/osama2023/48798?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV Hits
 http://red.ipfox.org:8080/osama2022/osama2023/48792?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV LIVE
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15118?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://img11.lostpic.net/2018/08/16/b9ef8355d5c2d348f2366097ea9b42c4.png" group-title="Undefined",Magic TV HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71112?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Mediaset Italia
 http://red.ipfox.org:8080/osama2022/osama2023/48786?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Minimax
 http://red.ipfox.org:8080/osama2022/osama2023/48812?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Mooz Dance
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15115?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/MusicChannel.ro.png" group-title="Undefined",Music Channel
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71119?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Music Channel
-http://comag.rip:8000/00159101576765/61790209632447/166005?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Minimax RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36110?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Mooz HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36107?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Music Channel
 http://topstb.com:8000/50656250782258/27115840859269/166005?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/MusicChannel.ro.png" group-title="Undefined",Music Channel
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71119?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",Music Channel
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/music.channel.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NASUL TV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15104?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NICKTOONS
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19371?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nasul TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36104?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/NatGeo.ro.png" group-title="Undefined",Nat Geo HD+
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71012?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nat Geo Wild
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.wild.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
-http://red.ipfox.org:8080/osama2022/osama2023/48800?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/NatGeoWild.ro.png" group-title="Undefined",Nat Geo Wild HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71013?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National 24 Plus
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.24.plus.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
+http://red.ipfox.org:8080/osama2022/osama2023/48800?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://chanlogos.xmltv.se/wildhd.natgeo.de.png" group-title="Undefined",Nat Geo Wild HD RO [Multi-Sub]
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30511?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NatGeo Wild FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36102?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Na%C8%9Bional_24_Plus.png" group-title="Undefined",National 24 Plus
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71120?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National 24+
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15130?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National 24 Plus
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.24.plus.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National 24 Plus HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23289?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National Geographic
 http://red.ipfox.org:8080/osama2022/osama2023/48801?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National Geographic
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.geographic.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National Geographic FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36103?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National Geographic HD
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1590?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National Geographic Wild HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1591?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National Geographic Wild HD
-http://comag.rip:8000/00159101576765/61790209632447/166043?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National Geographic Wild HD
 http://topstb.com:8000/50656250782258/27115840859269/166043?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National TV
-http://red.ipfox.org:8080/osama2022/osama2023/48852?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National TV
+http://red.ipfox.org:8080/osama2022/osama2023/48852?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36101?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/NationalTV.ro.png" group-title="Undefined",National Tv
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71016?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nick Jr
@@ -741,26 +627,28 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr
 http://red.ipfox.org:8080/osama2022/osama2023/48804?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",NickToons
 http://red.ipfox.org:8080/osama2022/osama2023/48814?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Nickelodeon.ro.png" group-title="Undefined",Nickelodeon
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71022?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nickelodeon
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1584?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nickelodeon
 http://topstb.com:8000/50656250782258/27115840859269/166050?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nickelodeon
-http://comag.rip:8000/00159101576765/61790209632447/166050?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nickelodeon
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Nickelodeon.ro.png" group-title="Undefined",Nickelodeon
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71022?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nickelodeon RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36097?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nickelodeon Romania
 http://red.ipfox.org:8080/osama2022/osama2023/48808?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 1 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1246?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 2 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 3 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1248?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 4 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1249?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nicktoons RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36096?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 1 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 3 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 3 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28015?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 4 HD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36067?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Orange Sport 4 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/28014?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",PRIMA SPORT 1 HD
 http://red.ipfox.org:8080/osama2022/osama2023/48860?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",PRIMA SPORT 2 HD
@@ -775,98 +663,100 @@ http://red.ipfox.org:8080/osama2022/osama2023/48861?checkedby:iptvcat.com
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15129?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRIMA TV SD
 http://topstb.com:8000/50656250782258/27115840859269/165996?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRIMA TV SD
-http://comag.rip:8000/00159101576765/61790209632447/165996?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO 2
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.2.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Pro2.ro.png" group-title="Undefined",PRO 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/70897?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO 2 HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1572?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO ARENA
 http://red.ipfox.org:8080/osama2022/osama2023/48820?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO Arena RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36087?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO CINEMA
 http://red.ipfox.org:8080/osama2022/osama2023/48855?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO Cinema
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1574?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO GOLD
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.gold.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV HD
 http://topstb.com:8000/50656250782258/27115840859269/166067?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/48864?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1567?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV HD
-http://comag.rip:8000/00159101576765/61790209632447/166067?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO X HD
-http://comag.rip:8000/00159101576765/61790209632447/166061?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO X HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1573?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO X HD
 http://topstb.com:8000/50656250782258/27115840859269/166061?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/ParamountChannel.ro.png" group-title="Undefined",Paramount Channel
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71024?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Paramount Channel
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Prima RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36091?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Prima TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/prima.tv.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/PrimaTV.ro.png" group-title="Undefined",Prima Tv
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71025?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/Pro2.ro.png" group-title="Undefined",Pro 2
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71028?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro 2 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30101?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro Cinema
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.cinema.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/ProCinema.ro.png" group-title="Undefined",Pro Cinema HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71027?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro Cinema RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro Gold RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36089?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.tv.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV Chisinau
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15119?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV International RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/59425?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/ProTV.ro.png" group-title="Undefined",Pro Tv HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71126?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro X
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.x.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/ProTV.ro.png" group-title="Undefined",Pro X HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71032?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Profit.ro
-https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ProTV FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36085?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://stvron.com/canale/512/pro-tv.png" group-title="Undefined",ProTV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51177?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/xM1dw57.png" group-title="Undefined",Profit.ro
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Profit.ro
+https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Profit.ro (404p)
 https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",REALITATEA TV PLUS SD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15132?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",REALITATEA TV PLUS SD
 http://comag.rip:8000/00159101576765/61790209632447/165993?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",REALITATEA TV PLUS SD
 http://topstb.com:8000/50656250782258/27115840859269/165993?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ROMANIA TV SD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15131?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",REALITATEA TV PLUS SD
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15132?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ROMANIA TV SD
 http://topstb.com:8000/50656250782258/27115840859269/165994?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ROMANIA TV SD
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15131?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/RealitateaTV.ro.png" group-title="Undefined",Realitatea HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71038?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Realitatea Plus RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36081?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Realitatea TV
 http://red.ipfox.org:8080/osama2022/osama2023/48854?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Realitatea TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/realitatea.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Realitatea TV FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110652?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Romania TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/romania.tv.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Romania Tv
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15109?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Romania TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36078?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/RomaniaTv.ro.png" group-title="Undefined",Romania Tv
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",SUCEAVA TV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Sangeorz TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110658?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Sky News
 http://red.ipfox.org:8080/osama2022/osama2023/48789?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Skynet Net Filme Religioase
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15101?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://panel.tivix.eu:8000/logo1/romania/as_tv_ro.png" group-title="Undefined",Speranta TV
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71040?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Speranta Tv RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36076?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Stingray CMusic
 http://red.ipfox.org:8080/osama2022/osama2023/48837?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Stingray Classica
@@ -876,41 +766,37 @@ http://red.ipfox.org:8080/osama2022/osama2023/48816?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CN;CO;DK;EG;FI;FR;GE;DE;GR;HK;HU;IS;IN;ID;IR;IQ;IL;IT;JP;KW;MY;MX;MN;MA;NL;NZ;NO;OM;PK;PS;PA;PE;PH;PL;PT;QA;RO;SA;RS;SG;SK;ES;SD;SE;CH;TH;TR;UA;AE;GB;US;VN;YE" tvg-logo="" group-title="Undefined;FRANCE;ITALY;MEXICO;PAKISTAN;SPAIN;CHINA",Super Radyo DZBB,Super Radyo DZBB (720p) [Not 24/7]
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TARAF TV HD
-http://comag.rip:8000/00159101576765/61790209632447/166016?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TARAF TV HD
 http://topstb.com:8000/50656250782258/27115840859269/166016?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TARAF TV HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15106?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TDC
 http://red.ipfox.org:8080/osama2022/osama2023/48839?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TLC.ro.png" group-title="Undefined",TLC
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TLC
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TNT
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19376?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TLC.ro.png" group-title="Undefined",TLC
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71055?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TLC RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23291?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TNT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TNT.ro.png" group-title="Undefined",TNT HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71136?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV 1000
-http://comag.rip:8000/00159101576765/61790209632447/166055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV 1000
 http://topstb.com:8000/50656250782258/27115840859269/166055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV PAPRIKA
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15113?checkedby:iptvcat.com
+http://topstb.com:8000/50656250782258/27115840859269/166009?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV PAPRIKA
 http://comag.rip:8000/00159101576765/61790209632447/166009?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV PAPRIKA
-http://topstb.com:8000/50656250782258/27115840859269/166009?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV Paprika
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv.paprika.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV Paprika RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36061?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV Paprika RO
 http://red.ipfox.org:8080/osama2022/osama2023/48841?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV1000
 http://red.ipfox.org:8080/osama2022/osama2023/48845?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV1000
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv1000.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV1000 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36060?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV5 MONDE
 http://red.ipfox.org:8080/osama2022/osama2023/48785?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVPlus Suceava
@@ -918,93 +804,81 @@ https://ch.iptvmate.net/0a00fed7fb7f4e9049d36b64391bfe96.m3u8?checkedby:iptvcat.
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="Undefined",TVPlus Suceava
 http://85.186.146.34:8080?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvr.1.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1
 http://red.ipfox.org:8080/osama2022/osama2023/48866?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvr.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvr.1.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1 FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36057?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
 http://topstb.com:8000/50656250782258/27115840859269/166069?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
-http://comag.rip:8000/00159101576765/61790209632447/166069?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1565?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
 http://red.ipfox.org:8080/osama2022/osama2023/48865?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvr.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36056?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 3
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1566?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 3
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvr.3.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 3 RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR HD
 http://topstb.com:8000/50656250782258/27115840859269/166070?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1564?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR HD
-http://comag.rip:8000/00159101576765/61790209632447/166070?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR INT
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15127?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR INT HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15133?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR International
-http://comag.rip:8000/00159101576765/61790209632447/166028?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR International
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15094?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR International
 http://topstb.com:8000/50656250782258/27115840859269/166028?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR Targu Mures HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15124?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR International RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Taraf
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/taraf.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Taraf TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/34534?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TeenNick Romania
 http://red.ipfox.org:8080/osama2022/osama2023/48806?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Telekom Sport 1 HD
 http://topstb.com:8000/50656250782258/27115840859269/166077?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport1.ro.png" group-title="Sport",Telekom Sport 1 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71050?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Telekom Sport 1 HD
 http://comag.rip:8000/00159101576765/61790209632447/166077?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport2.ro.png" group-title="Sport",Telekom Sport 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71051?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Telekom Sport 2 HD
-http://comag.rip:8000/00159101576765/61790209632447/166076?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport1.ro.png" group-title="Sport",Telekom Sport 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71050?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Telekom Sport 2 HD
 http://topstb.com:8000/50656250782258/27115840859269/166076?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Telekom Sport 3 HD
-http://comag.rip:8000/00159101576765/61790209632447/166075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport2.ro.png" group-title="Sport",Telekom Sport 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71051?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Telekom Sport 3 HD
 http://topstb.com:8000/50656250782258/27115840859269/166075?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport3.ro.png" group-title="Sport",Telekom Sport 3 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71052?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport4.ro.png" group-title="Sport",Telekom Sport 4 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71053?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Telekom Sport 4 HD
-http://comag.rip:8000/00159101576765/61790209632447/166074?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Telekom Sport 4 HD
 http://topstb.com:8000/50656250782258/27115840859269/166074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TelekomSport4.ro.png" group-title="Sport",Telekom Sport 4 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71053?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Travel Chanel HD
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1594?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Travel MIX HD
-http://comag.rip:8000/00159101576765/61790209632447/166040?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Travel Channel RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36063?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Travel MIX HD
 http://topstb.com:8000/50656250782258/27115840859269/166040?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Travel Mix RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36075?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Travel XP HD
 http://red.ipfox.org:8080/osama2022/osama2023/48803?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Trinitas
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/trinitas.tv.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Trinitas
 http://red.ipfox.org:8080/osama2022/osama2023/48842?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Trinitas
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/trinitas.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Trinitas RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/110656?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TV1000.ro.png" group-title="Undefined",Tv 1000 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71060?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/TVR1.ro.png" group-title="Undefined",Tvr 1 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71139?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",UTV
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",U TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16764?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",UTV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/utv.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="http://worldiptv.xyz/chlogos/UTV.ro.png" group-title="Undefined",Utv HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71071?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",VH1 Classic
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15093?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Vh1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vh1.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Explore
@@ -1013,20 +887,16 @@ http://red.ipfox.org:8080/osama2022/osama2023/48836?checkedby:iptvcat.com
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.explorer.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Explore HD
 http://topstb.com:8000/50656250782258/27115840859269/166045?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Explore HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1589?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Explore HD
-http://comag.rip:8000/00159101576765/61790209632447/166045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Explore RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36049?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History
 http://red.ipfox.org:8080/osama2022/osama2023/48835?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.history.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History HD
 http://topstb.com:8000/50656250782258/27115840859269/166046?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History HD
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1588?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History HD
-http://comag.rip:8000/00159101576765/61790209632447/166046?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36048?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Nature
 http://red.ipfox.org:8080/osama2022/osama2023/48834?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Nature
@@ -1035,12 +905,11 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71078?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Warner TV
 http://red.ipfox.org:8080/osama2022/osama2023/48817?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Warner TV RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36065?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ZU TV FHD
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ZU TV FHD RO
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36045?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Zu TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/zu.tv.ro.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d0e19f1b42cf4a274fd2c6f620b3b42c.jpg" group-title="Undefined",bucuresti TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/73445?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Undefined",euronews
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296362?checkedby:iptvcat.com
-
