@@ -1,2291 +1,277 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TVR1.ro">
-    <display-name lang="ro">TVR1</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-1-hd.jpg" />
-    <url>http://www.cinemagia.ro</url>
+  <channel id="PRO TV HD">
+    <display-name lang="ro">PRO TV HD</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv_station/pro-tv-hd.jpg" />
+    <url>http://www.programetv.ro</url>
   </channel>
-  <channel id="KanalD2.ro">
-    <display-name lang="ro">KANALD2</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d2.jpg" />
-    <url>http://www.cinemagia.ro</url>
+  <channel id="Prima TV HD">
+    <display-name lang="ro">Prima TV HD</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv_station/prima-tv-hd.jpg" />
+    <url>http://www.programetv.ro</url>
   </channel>
-  <channel id="ProTV.ro">
-    <display-name lang="ro">PRO_TV</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-tv.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Antena3.ro">
-    <display-name lang="ro">ANTENA3</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-3-cnn-hd.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Antena1.ro">
-    <display-name lang="ro">ANTENA1</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-1.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="TVR2.ro">
-    <display-name lang="ro">TVR2</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-2.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="TVR3.ro">
-    <display-name lang="ro">TVR3</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-3.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="KanalD.ro">
-    <display-name lang="ro">KANALD</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="antenastar.ro">
-    <display-name lang="ro">ANTENA_STARS</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-stars.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="PrimaTV.ro">
-    <display-name lang="ro">PRIMA_TV</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-tv.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Pro Arena.ro">
-    <display-name lang="ro">PRO_ARENA</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-arena.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Digi24.ro">
-    <display-name lang="ro">Digi24.ro</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-24-hd.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="B1TV.ro">
-    <display-name lang="ro">B1TV.ro</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/b1-tv.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Acasa.ro">
-    <display-name lang="ro">ACASA</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="AcasaGold.ro">
-    <display-name lang="ro">ACASA_GOLD</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa-gold-hd.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="H!TMusic.ro">
-    <display-name lang="ro">H!TMusic.ro</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hit-music-channe.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="MTVHits.ro">
-    <display-name lang="ro">MTVHits.ro</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-hits.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="history">
-    <display-name lang="ro">history</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/history.jpg" />
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <programme start="20230717070000 +0300" stop="20230717094500 +0300" channel="TVR1.ro">
-    <title lang="ro">3 ceasuri bune</title>
-    <desc lang="ro">* Matinal * Ştiri * SportPrezintă Maria Smarandache şi Bogdan MuzgociProducător Andreea VişanTransmisiune directă.(n)</desc>
-  </programme>
-  <programme start="20230717094500 +0300" stop="20230717100000 +0300" channel="TVR1.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717110000 +0300" channel="TVR1.ro">
-    <title lang="ro">Agrostrategia</title>
-    <desc lang="ro">Producator Vlad Macovei.(n)</desc>
-  </programme>
-  <programme start="20230717110000 +0300" stop="20230717120000 +0300" channel="TVR1.ro">
-    <title lang="ro">Câştigă România!</title>
-    <desc lang="ro">(redifuzare) Emisiune-concurs de cultură generalăPrezintă Virgil Ianţu Producători: Diana Pascal, Vanda LicheQuiz manager Cătălina FilipRegizor Aurel Badea.(n)</desc>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717123000 +0300" channel="TVR1.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717123000 +0300" stop="20230717130000 +0300" channel="TVR1.ro">
-    <title lang="ro">Istorii incredibile</title>
-    <desc lang="ro">(BUTTERFLY EFFECT-POINTS DE REPÈRES, Franţa, 2016-2019) Sezonul 2 Scenariul şi regia Pierre Lergenmüller * Documentar. Cursul istoriei este o înşiruire de evenimente incredibile, care depind de multe ori de bătaia din aripi a unui fluture sau de mutarea unui grăunte de nisip. Cum ar fi lumea de azi fără Alexandru cel Mare sau Copernic ? Cum ar arăta azi Europa dacă Churchill nu intra în război împotriva Germaniei naziste sau dacă nu ar fi fost dărâmat Zidul Berlin-ului ? Având ca motto, „cunoaşterea trecutului ajută la prevederea viitorului”, seria documentară reconstituie istoria planetei analizând evenimentele-cheie care au schimbat faţa lumii.Episodul 11: Căderea oraşului Quebec1756. Începutul Războiului de 7 ani, în care se înfruntă, printre alţii, Franţa şi Imperiul Britanic. Conflictul se propagă în întreaga Europă, în India şi în America de Nord, unde britanicii vor să elimine prezenţa franceză. În 1759, după câteva luni de asediu, oraşul Quebec cade în mâinile britanicilor; aceeaşi soartă are şi Montreal, câteva luni mai târziu. Redactor Laura Bălan.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717140000 +0300" channel="TVR1.ro">
-    <title lang="ro">Oamenii şi legea</title>
-    <desc lang="ro">(redifuzare) Emisiune de educaţie juridicăModerator av. Mihaela OlaruJurnalişti Tv: Raluca Amzăr,Delia Apostol,Rareș CotinghiuRealizator Ileana GaițăProducător Mihaela Grecu Grădinaru.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717145500 +0300" channel="TVR1.ro">
-    <title lang="ro">Telejurnal</title>
-    <desc lang="ro">* Ştiri * Sport * MeteoPrezintă: Loredana Iordache, Andra SoceanuTranslator mimico gestual Laura IoanaTransmisiune directăACEST PROGRAM SE ADRESEAZĂ ŞI PERSOANELOR CU DEFICIENŢE DE AUZ.(n)</desc>
-  </programme>
-  <programme start="20230717145500 +0300" stop="20230717150000 +0300" channel="TVR1.ro">
-    <title lang="ro">Vorbeşte corect!</title>
-    <desc lang="ro">(redifuzare)Vrei să înveţi corect şi nu ai timp să răsfoieşti dicţionarele? Te ajutăm noi! In doar 5 minute învăţăm împreună să vorbim şi să comunicăm corect! „Vorbeşte corect!” este cel mai longeviv proiect de televiziune dedicat limbii române din mass-media românească. A fost lansat în iulie 1999 ca prima emisiune-concurs de limbă română adresată telespectatorilor, având un prezentator în vârstă de numai 9 ani, Cosmin Ionescu. Concursul „O greşeală, o scrisoare, 1 milion” aducea în redacţie nenumăraţi saci de scrisori conţinând semnalări de greşeli de limbă română. Graţie formatului dinamic şi interactiv, dar şi graficii originale, a devenit un adevărat brand TVRJurnalist Iulia Ioaniţoaia Producători si realizatori: Radu Dănilă, Cristina Dănilă.(n)</desc>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717155500 +0300" channel="TVR1.ro">
-    <title lang="ro">Maghiara de pe unu</title>
-    <desc lang="ro">(I) Calea brusturelui-Munţii Hăşmaşul-MareRedactor: Bartha Ágnes (redifuzare)Cetăţi şi drumuri medievale-Cetatea „Csicsó” din CiceuRedactor: Bartha ÁgnesTeatrul Şură din Călugăreni-reportajRedactor: Kacsó SándorAvanpremiera emisiunilor viitoareRedactor coordonatorSzilágyi Gödri IldikóProducător Kacsó SándorTransmisiune directă + înregistrare.(n)</desc>
-  </programme>
-  <programme start="20230717155500 +0300" stop="20230717164500 +0300" channel="TVR1.ro">
-    <title lang="ro">Maghiara de pe unu</title>
-    <desc lang="ro">(II) Redactor coordonatorSzilágyi Gödri IldikóProducător Kacsó SándorTransmisiune directă + înregistrare.(n)</desc>
-  </programme>
-  <programme start="20230717164500 +0300" stop="20230717165000 +0300" channel="TVR1.ro">
-    <title lang="ro">Zi de zi cu părintele Constantin Necula</title>
-    <desc lang="ro">. Producător Victor Dochia.(n)</desc>
-  </programme>
-  <programme start="20230717165000 +0300" stop="20230717174500 +0300" channel="TVR1.ro">
-    <title lang="ro">Care pe care</title>
-    <desc lang="ro">(redifuzare)Prezentator Ruxandra Gheorghe Negrea Prima emisiune concurs dedicată exclusiv limbii române, după un format tv 100% românesc, CARE PE CARE este prezentată de Ruxandra Gheorghe Negrea al cărei nume este legat de emisiunile despre cum vorbim și scriem corect. Titlul emisiunii face trimitere la una dintre cele mai întâlnite greșeli în vorbirea curentă, dar în același timp este un indicator către competiția de limba și literatura română care va avea loc în platoul de televiziune CARE PE CARE. În fiecare ediție a concursului, patru concurenți se întrec în cinci runde spectaculoase, care nu sunt formate numai din întrebări și răspunsuri, ci și din probe incitante, clipuri video cu greșeli gramaticale culese din presă și de pe internet. Emisiunea aduce în atenţia concurenților și telespectatorilor cele mai întâlnite greșeli gramaticale, capcanele în care cad jurnaliștii, politicienii, influencerii, expresiile străzii și englezismele."Limba noastră-i o comoară" reală, concurenții având şansa să plece acasă cu premii substanţiale. Învingătorul își va dubla câștigurile. Regia Dan ManoliuFormat Marius Toder (Media Factory)Producător Elena Stirbescu.(n)</desc>
-  </programme>
-  <programme start="20230717174500 +0300" stop="20230717190000 +0300" channel="TVR1.ro">
-    <title lang="ro">Legendele palatului: Furtună la palat</title>
-    <title lang="en">Yi San</title>
-    <desc lang="ro">"Furtună La Palat" sau "Lee San, Wind of the Palace " este o dramă istorică coreeană produsă de MBC în anul 2007. Drama a avut mare succes în Coreea și nu numai, obținând numeroase premii și înregistrând rating-uri foarte mari. Serial sud-coreean istoric ce prezintă viața prințului Lee San devenit ulterior Jeongjo, al 22-lea rege al dinastiei Joseon. Acesta a rămas în amintirea oamenilor ca fiind un monarh înțelept, care a militat pentru valorile democratice. Jeongjo s-a dovedit a fi un lider… citeşte.(n)</desc>
-    <credits>
-      <director>Lee-byung Hoon</director>
-      <actor role="Sung Song-Yeon">Han Ji-min</actor>
-      <actor role="King Jeong Jo">Seo-jin Lee</actor>
-      <actor role="regina Hyo-Eui">Eun-hye Park</actor>
-      <actor role="regina Jung-sun">Kim Yeo-jin</actor>
-      <actor role="lady Hye-kyeong">Mi-ri Gyeon</actor>
-      <actor role="prințesa Ha-won">Hyun-Ah Sung</actor>
-      <producer>Lee-byung Hoon</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Istoric</category>
-    <category lang="ro">Război</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/48/96/64/yi-san-464268l-175x0-w-49245de8.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717194500 +0300" channel="TVR1.ro">
-    <title lang="ro">Dincolo de alb şi negru</title>
-    <desc lang="ro">Moderator Cătălin ŞtefănescuInvitat Ion Chirescu-arhitect, Muzeul Recordurilor româneştiProducători: Ioana Mureşan, Livia Serban-Iancu.(n)</desc>
-  </programme>
-  <programme start="20230717194500 +0300" stop="20230717200000 +0300" channel="TVR1.ro">
-    <title lang="ro">Sport</title>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717205600 +0300" channel="TVR1.ro">
-    <title lang="ro">Telejurnal</title>
-    <desc lang="ro">* Ştiri * Prezintă: Alina Stancu, Eugen RusuTransmisiune directă.(n)</desc>
-  </programme>
-  <programme start="20230717205600 +0300" stop="20230717210000 +0300" channel="TVR1.ro">
-    <title lang="ro">Meteo</title>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717224500 +0300" channel="TVR1.ro">
-    <title lang="ro">Întoarcerea eroului</title>
-    <title lang="en">Le retour du héros</title>
-    <desc lang="ro">În Franţa începutului de secol 19, şarmantul căpitan Neuville (Jean Dujardin) se pregăteşte să se însoare cu tânăra şi naiva Pauline, când Napoleon îl cheamă la datorie. Viitoarea mireasă, cu inima frântă, rămâne fără veşti luni de zile, aşa că sora ei Elisabeth (Melanie Laurent) născoceşte o soluţie disperată: începe să-i trimită scrisori duioase semnate cu numele lui Neuville, crezând că, oricum, căpitanul a murit în război. Dar, surpriză, acesta se întoarce acasă pe neaşteptate şi este… citeşte.(n)</desc>
-    <credits>
-      <director>Laurent Tirard</director>
-      <actor role="Elisabeth Beaugrand">Mélanie Laurent</actor>
-      <actor role="Capitaine Neuville">Jean Dujardin</actor>
-      <actor role="Général Mortier-Duplessis">Féodor Atkine</actor>
-      <actor role="Pauline">Noémie Merlant</actor>
-      <actor>Christian Bujeau</actor>
-      <actor>Laurent Bateau</actor>
-      <producer>Marc Dujardin</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Istoric</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/22/35/731/le-retour-du-heros-545569l-175x0-w-f19aa186.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>6.6</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717224500 +0300" stop="20230717234000 +0300" channel="TVR1.ro">
-    <title lang="ro">Soția perfectă</title>
-    <title lang="en">The Good Wife</title>
-    <desc lang="ro">SOȚIA PERFECTĂ este o dramă cu Julianna Margulies, câștigătoare a Premiului Emmy, soție și mamă care își asumă cu curaj întreaga responsabilitate pentru familia sa și reintră în câmpul muncii după ce scandalul sexual și de corupție politică al soțului ei îl trimite în spatele gratiilor. Trecând peste trădare și umilința publică cauzată de soțul ei, Peter, Alicia Florrick își urmează cariera inițială de avocat al apărării. Un serial care a cucerit America,… citeşte.(n)</desc>
-    <credits>
-      <director>Charles McDougall</director>
-      <actor role="Ramona Lytton">Connie Nielsen</actor>
-      <actor role="Alexis Symanski">Liliane Gloria Sobieski</actor>
-      <actor role="Jason Crouse">Jeffrey Dean Morgan</actor>
-      <actor role="Finn Polmar">Matthew Goode</actor>
-      <actor role="Madeline Smulders">Bridget Regan</actor>
-      <actor role="Mike Kresteva">Matthew Perry</actor>
-      <producer>Ron Binkowski</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/04/47/04/the-good-wife-842733l-175x0-w-1b045dba.jpg" />
-    <rating system="RO">
-      <value>12</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.6</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717234000 +0300" stop="20230718003500 +0300" channel="TVR1.ro">
-    <title lang="ro">Câştigă România!</title>
-    <desc lang="ro">Emisiune-concurs de cultură generalăPrezintă Virgil Ianţu Producători: Diana Pascal, Vanda LicheQuiz manager Cătălina FilipRegizor Aurel Badea.(n)</desc>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717100000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Dimineața pe 2 cu Greeg și Cernat</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717103000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717103000 +0300" stop="20230717111500 +0300" channel="KanalD2.ro">
-    <title lang="ro">Vacanţa Mare: Leana s-a întors!</title>
-    <desc lang="ro">În viaţa liniştită a locuitorilor satului oltenesc Sadova îşi fac apariţia Investitorul (Daniel Lazăr) şi Profesoara (Ramona Olteanu), cele două personaje atrăgând atenţia tuturor. Leana (Mugur Mihaescu) şi Urinela (Ani Creţu) vor face tot ce le stă în putinţă pentru a o îndepărta pe frumoasa Profesoară din calea cuceririi inimii Investitorului, cel mai frumos, cel mai deştept şi bogat bărbat din sat.
-
-Axinte (Florin Petrescu) devine bulibaşă iar Lila (Mirela Stoian) este permanent lângă el pentru a-i încurca viaţa. Popa (Cristian Boeriu) se dovedeşte a fi agent CIA sub acoperire, rolul lui real în Sadova fiind de a spiona extratereştrii care ameninţă să atace satul. Serialul Elodia va fi reluat de coloratele personaje din sat, în manieră Vacanţa Mare.
-
-Scenariul poartă semnătura Radu Pietreanu care promite că noul produs Vacanţa Mare va creea dependenţă şi că telespectatorii nu se vor putea dezlipi de ecrane şi vor număra minutele până la următorul episod.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717111500 +0300" stop="20230717114500 +0300" channel="KanalD2.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717114500 +0300" stop="20230717140000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Instinct de mama</title>
-    <title lang="en">Hicran</title>
-    <desc lang="ro">Eroina serialului este Hicran (Elçin Zehra İrem), o tânără care încearcă să-şi refacă viaţa după pierderea copilului ei, chiar la naşterea acestuia. Desi i s-a spus ca fiica ei a murit la venirea pe lume, tânăra mama are convingerea că micuţa trăieşte. Neliniştea ei se transformă într-o continuă luptă pentru găsirea copilului pierdut, în ciuda intrigilor şi a haosului care îi împresoară familia. Povestea emoţionantă despre iubire necondiţionată şi sacrificiu are în centrul ei lupta neîncetată a… citeşte.(n)</desc>
-    <credits>
-      <director>Gürsel Ates</director>
-      <actor>Nisa Sofiya Aksongur</actor>
-      <actor>Sinan Bengier</actor>
-      <actor>Yasar Üzer</actor>
-      <actor>Melda Arat Mutlu</actor>
-      <actor>Nusret Senay</actor>
-      <actor>Elçin Zehra Irem</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/32/83/013/hicran-996334l-175x0-w-965ee920.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717150000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Yanxi, palatul suspinelor</title>
-    <title lang="en">Yan xi gong lüe</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>De-Guang Wen</director>
-      <actor>Yuan Nie</actor>
-      <actor>Lan Qin</actor>
-      <actor>Charmaine Sheh</actor>
-      <actor>Jinyan Wu</actor>
-      <actor>Zhuo Tan</actor>
-      <actor>Anna Fang</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Istoric</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/25/36/155/yan-xi-gong-lue-454808l-175x0-w-90604764.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.3</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717153000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Moldovenii</title>
-    <desc lang="ro">Pe colbul ulițelor, în interioarele caselor bătrânești sau ale celor recent construite, moldovenii pun cap la cap secventele menite să îi facă să râdă cu lacrimi pe români. Dincolo de comicul de situație, cel de limbaj derivă din accentul specific inconfundabil și din expresiile neaoșe, pline de haz. Lumea satului, atinsa de „vraja” celor mai noi tehnologii, dar și de interese instituționale oculte și de obiceiuri împrumutate de la oraș se zguduie de râs, rămâne mută de uimire, se mișcă în… citeşte.(n)</desc>
-    <credits>
-      <actor role="Ghiță Șpăgoveanu">Radu Ţibulcă</actor>
-      <actor role="Aurica">Andreea Lodbă</actor>
-      <actor role="Mitică">Petronel Gabriel Gongeanu</actor>
-      <actor role="Cornel">Iulian Mehedinț</actor>
-      <actor role="părintele Vasile">Vasile Panțiru</actor>
-      <actor role="Laurentiu">Sebastian Badarau</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/27/48/071/moldovenii-328213l-175x0-w-ab20f437.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.6</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>4.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717153000 +0300" stop="20230717170000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Pe banii părinţilor</title>
-    <desc lang="ro">În prim plan-ul show-ului se află adolescenți care doresc să își sărbătorească majoratul, tineri care își doresc o petrecere de vis, ca de vedetă. Să primească mașini de fițe și carduri cu fonduri nelimitate, să petreacă în localuri luxoase, sunt doar cîteva din “micile” pretenții ale adolescenților. 
-
-Ernest va fi alături de tineri de la început, încă de la primele etape ale organizării petrecerii de majorat, analizînd evoluția lucrurilor. Prietenii, frații și bunicii acestora vor condimenta show-ul dezvăluindu-ne poveşti impresionante și întîmplări amuzante din viaţa sărbătoriților.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717170000 +0300" stop="20230717180000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Yanxi, palatul suspinelor</title>
-    <title lang="en">Yan xi gong lüe</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>De-Guang Wen</director>
-      <actor>Yuan Nie</actor>
-      <actor>Lan Qin</actor>
-      <actor>Charmaine Sheh</actor>
-      <actor>Jinyan Wu</actor>
-      <actor>Zhuo Tan</actor>
-      <actor>Anna Fang</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Istoric</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/25/36/155/yan-xi-gong-lue-454808l-175x0-w-90604764.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.3</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717180000 +0300" stop="20230717190000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Instinct de mama</title>
-    <title lang="en">Hicran</title>
-    <desc lang="ro">Eroina serialului este Hicran (Elçin Zehra İrem), o tânără care încearcă să-şi refacă viaţa după pierderea copilului ei, chiar la naşterea acestuia. Desi i s-a spus ca fiica ei a murit la venirea pe lume, tânăra mama are convingerea că micuţa trăieşte. Neliniştea ei se transformă într-o continuă luptă pentru găsirea copilului pierdut, în ciuda intrigilor şi a haosului care îi împresoară familia. Povestea emoţionantă despre iubire necondiţionată şi sacrificiu are în centrul ei lupta neîncetată a… citeşte.(n)</desc>
-    <credits>
-      <director>Gürsel Ates</director>
-      <actor>Nisa Sofiya Aksongur</actor>
-      <actor>Sinan Bengier</actor>
-      <actor>Yasar Üzer</actor>
-      <actor>Melda Arat Mutlu</actor>
-      <actor>Nusret Senay</actor>
-      <actor>Elçin Zehra Irem</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/32/83/013/hicran-996334l-175x0-w-965ee920.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717200000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Dragoste si speranta</title>
-    <title lang="en">Ask ve Umut</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Gürsel Ates</director>
-      <actor>Oguzhan Karbi</actor>
-      <actor>Hakan Dinçkol</actor>
-      <actor>Arda Esen</actor>
-      <actor>Duygu Keser</actor>
-      <actor>Burcu Almeman</actor>
-      <actor>Serap Ãnder</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717210000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Newstime</title>
-    <desc lang="ro">Prezinta: Radu Andrei Tudor.(n)</desc>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717223000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Pe banii părinţilor</title>
-    <desc lang="ro">În prim plan-ul show-ului se află adolescenți care doresc să își sărbătorească majoratul, tineri care își doresc o petrecere de vis, ca de vedetă. Să primească mașini de fițe și carduri cu fonduri nelimitate, să petreacă în localuri luxoase, sunt doar cîteva din “micile” pretenții ale adolescenților. 
-
-Ernest va fi alături de tineri de la început, încă de la primele etape ale organizării petrecerii de majorat, analizînd evoluția lucrurilor. Prietenii, frații și bunicii acestora vor condimenta show-ul dezvăluindu-ne poveşti impresionante și întîmplări amuzante din viaţa sărbătoriților.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717223000 +0300" stop="20230718000000 +0300" channel="KanalD2.ro">
-    <title lang="ro">Destăinuiri</title>
-    <title lang="en">Kirmizi Oda</title>
-    <desc lang="ro">Acțiunea serialului "Destăinuiri" se desfășoară într-un cabinet pshihologic din Istanbul, un loc încărcat de emoție și de destăinuiri, unde vin să-și găsească împăcarea și vindecarea persoane vulnerabile, cu istorii de viață încurcate, marcate de traume, de încercări teribile. Nilüfer (Binnur Kaya) este terapeutul șef, o femeie puternică și încrezătoare, respectată de colegi și de clienții cabinetului. Misiunea ei este de a-i ajuta pe cei care îi calcă pragul cabinetului să își deschidă… citeşte.(n)</desc>
-    <credits>
-      <director>Cem Karci</director>
-      <actor>Burcu Kara</actor>
-      <actor>Erkan Petekkaya</actor>
-      <actor>Tolga Güleç</actor>
-      <actor>Ayça Bingöl</actor>
-      <actor>Demet Ozdemir</actor>
-      <actor>Sezin Akbasogullari</actor>
-      <producer>Onur Güvenatam</producer>
-    </credits>
-    <date>2020</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/32/71/655/kirmizi-oda-544706l-175x0-w-c487adce.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717103000 +0300" channel="ProTV.ro">
+  <programme start="20230717070000 +0300" stop="20230717102959 +0300" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717103000 +0300" stop="20230717130000 +0300" channel="ProTV.ro">
+  <programme start="20230717103000 +0300" stop="20230717125959 +0300" channel="PRO TV HD">
     <title lang="ro">Vorbeşte lumea</title>
     <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://www.programetv.ro/img/shows/c6/81/vorbeste-lumea.jpg" />
   </programme>
-  <programme start="20230717130000 +0300" stop="20230717140000 +0300" channel="ProTV.ro">
+  <programme start="20230717130000 +0300" stop="20230717135959 +0300" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717140000 +0300" stop="20230717150000 +0300" channel="ProTV.ro">
+  <programme start="20230717140000 +0300" stop="20230717145959 +0300" channel="PRO TV HD">
     <title lang="ro">Lecţii de viaţă</title>
     <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/8d/35/lectii-de-viata.png" />
   </programme>
-  <programme start="20230717150000 +0300" stop="20230717170000 +0300" channel="ProTV.ro">
+  <programme start="20230717150000 +0300" stop="20230717165959 +0300" channel="PRO TV HD">
     <title lang="ro">La Maruţă</title>
     <desc lang="ro">O emisiune de divertisment în care telespectatorii se pot delecta cu invitați din lumea mondenă, vedete și celebrități, artiști, personalități publice și nu numai. Nu lipsesc nici concursurile, competițiile și farsele, tonul emisiunii fiind unul vesel și energic.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://www.programetv.ro/img/shows/2a/19/la-maruta.jpg" />
   </programme>
-  <programme start="20230717170000 +0300" stop="20230717180000 +0300" channel="ProTV.ro">
+  <programme start="20230717170000 +0300" stop="20230717175959 +0300" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717180000 +0300" stop="20230717190000 +0300" channel="ProTV.ro">
+  <programme start="20230717180000 +0300" stop="20230717185959 +0300" channel="PRO TV HD">
     <title lang="ro">Ce spun românii</title>
     <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://www.programetv.ro/img/shows/73/9e/ce-spun-romanii.jpg" />
   </programme>
-  <programme start="20230717190000 +0300" stop="20230717203000 +0300" channel="ProTV.ro">
+  <programme start="20230717190000 +0300" stop="20230717202959 +0300" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717203000 +0300" stop="20230717213000 +0300" channel="ProTV.ro">
+  <programme start="20230717203000 +0300" stop="20230717212959 +0300" channel="PRO TV HD">
     <title lang="ro">Las fierbinți</title>
-    <desc lang="ro">Acțiunea se petrece în satul Fierbinți, acolo unde existența locuitorilor se desfășoară lent, într-un paradis rural care s-a adaptat, în stil pur românesc, la vremurile moderne. Viceprimarul Vasile vrea să îi ia locul actualului primar și se bazează pe sprijinul cârciumarului Bobiță și al prietenului acestuia, Giani, șmecherașul tipic de provincie. Celentano, Firicel a lu' Cimpoaie, Ardiles și Moș Peleus, bețivii satului, sunt apariții colorate și pline de umor.(n)</desc>
+    <desc lang="ro">Acțiunea se petrece în satul Fierbinți. Viceprimarul Vasile vrea să îi ia locul actualului primar și se bazează pe sprijinul cârciumarului Bobiță și al prietenului acestuia, Giani, șmecherașul tipic de provincie.(n)</desc>
     <credits>
       <director>Dragoș Buliga</director>
-      <actor role="Gianina / Geanina">Anca Dumitra</actor>
-      <actor role="Rapidoaica">Maia Morgenstern</actor>
-      <actor role="deținută">Olimpia Melinte</actor>
-      <actor>Răzvan Vasilescu</actor>
-      <actor>Pavel Bartoș</actor>
-      <actor role="Firicel">Cuzin Toma</actor>
-      <producer>Emilia Vlad</producer>
+      <director>Constantin Popescu</director>
+      <director>Gabriel de Achim</director>
+      <actor>Mihai Bobonete</actor>
+      <actor>Gheorghe Ifrim</actor>
+      <actor>Anca Dumitra</actor>
     </credits>
     <date>2012</date>
+    <category lang="ro">Serial</category>
     <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/56/72/70/las-fierbinti-578584l-175x0-w-be74c623.jpg" />
+    <icon src="https://www.programetv.ro/img/shows/75/33/las-fierbinti.jpg" />
+    <country lang="ro">Romania</country>
     <rating system="RO">
       <value>12</value>
     </rating>
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.7</value>
+    <star-rating system="IMDb">
+      <value>8.70</value>
     </star-rating>
   </programme>
-  <programme start="20230717213000 +0300" stop="20230717231500 +0300" channel="ProTV.ro">
+  <programme start="20230717213000 +0300" stop="20230717231459 +0300" channel="PRO TV HD">
     <title lang="ro">Capturat</title>
     <title lang="en">Seized</title>
     <desc lang="ro">Fiul unui fost agent al forțelor speciale este răpit. El trebuie să distrugă acum trei sindicale periculoase, dacă vrea să-și vadă din nou fiul.(n)</desc>
     <credits>
       <director>Isaac Florentine</director>
-      <actor role="Nero">Scott Adkins</actor>
-      <actor role="Mzamo">Mario Van Peebles</actor>
-      <actor role="Omar">Luis Gatica</actor>
-      <actor role="Hugo">David Fernandez Jr.</actor>
-      <actor role="Hacker">Justin Nesbitt</actor>
-      <actor role="Donovan">Steven Elder</actor>
-      <producer>Elias Axume</producer>
+      <actor>Matthew Garbacz</actor>
+      <actor>James P. Bennett</actor>
+      <actor>Mario Van Peebles</actor>
     </credits>
     <date>2020</date>
+    <category lang="ro">Film</category>
     <category lang="ro">Acţiune</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/22/38/219/rizk-137373l-175x0-w-b1232403.jpg" />
+    <icon src="https://www.programetv.ro/img/shows/24/34/capturat.jpg" />
+    <country lang="ro">SUA</country>
     <rating system="RO">
       <value>12</value>
     </rating>
-    <star-rating system="Nota Film">
-      <value>5.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>5.3</value>
+    <star-rating system="IMDb">
+      <value>5.30</value>
     </star-rating>
   </programme>
-  <programme start="20230717231500 +0300" stop="20230717234500 +0300" channel="ProTV.ro">
+  <programme start="20230717231500 +0300" stop="20230717234459 +0300" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717234500 +0300" stop="20230718021500 +0300" channel="ProTV.ro">
+  <programme start="20230717234500 +0300" stop="20230718021459 +0300" channel="PRO TV HD">
     <title lang="ro">Jack Reacher. Un glonț la țintă</title>
     <title lang="en">Jack Reacher</title>
-    <desc lang="ro">Jack Reacher, eroul seriei bestseller care îi poartă numele, creat de Lee Childs, trece granița genurilor și își face debutul pe marele ecran în JACK REACHER. UN GLONȚ LA ȚINTĂ. Fostul investigator militar Jack Reacher (Tom Cruise) este pe urmele unui ucigaș care a omorât șase oameni, fiecare dintr-un singur foc. Când polițiștii sunt siguri că a pus mâna pe suspect, acesta refuză să scoată o vorbă, în schimb le dă o hârtie pe care scrie atât: "Aduceți-l pe Jack Reacher!". Așa… citeşte.(n)</desc>
+    <desc lang="ro">Fostul investigator militar Jack Reacher e pe urmele unui ucigaş care a omorât şase oameni, dintr-un singur foc. Când poliţiştii sunt siguri că a pus mâna pe suspect, acesta le cere să i-l aducă pe Jack Reacher!(n)</desc>
     <credits>
       <director>Christopher McQuarrie</director>
-      <actor role="Jack Reacher">Tom Cruise</actor>
-      <actor role="Helen">Rosamund Pike</actor>
-      <actor role="Sandy">Alexia Fast</actor>
-      <actor role="Cash">Robert Duvall</actor>
-      <actor role="Charlie">Jai Courtney</actor>
-      <actor role="The Zec">Werner Herzog</actor>
-      <producer>Tom Cruise</producer>
+      <actor>Tom Cruise</actor>
+      <actor>Rosamund Pike</actor>
+      <actor>Robert Duvall</actor>
     </credits>
     <date>2012</date>
+    <category lang="ro">Film</category>
     <category lang="ro">Acţiune</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/48/77/22/jack-reacher-968802l-175x0-w-3d9fcc6d.jpg" />
+    <icon src="https://www.programetv.ro/img/shows/73/92/jack-reacher-un-glont-la-tinta.jpg" />
+    <country lang="ro">SUA</country>
     <rating system="RO">
       <value>12</value>
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.6</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
+    <star-rating system="IMDb">
+      <value>7.00</value>
     </star-rating>
   </programme>
-  <programme start="20230717070000 +0300" stop="20230717100000 +0300" channel="Antena3.ro">
-    <title lang="ro">Știrile dimineții</title>
-    <desc lang="ro">Noul matinal este tonic, alert, și va furniza oamenilor toate informațiile utile înainte de a pleca la serviciu. Vor fi prezentate știri interne și externe relevante, din zone de interes variate. Astfel, pe lângă informațiile din sfera socială, economică și politică, telespectatorii vor fi la curent și cu cele mai proaspete știri din domeniile high tech, știință, entertainment, sport, auto. Rubricile meteo și informațiile din trafic vor fi detaliate și se vor axa pe ziua în curs, urmând ca de joi să furnizeze și noutăți utile pentru weekend.(n)</desc>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717110000 +0300" channel="Antena3.ro">
-    <title lang="ro">Ştiri</title>
-    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.(n)</desc>
-  </programme>
-  <programme start="20230717110000 +0300" stop="20230717120000 +0300" channel="Antena3.ro">
-    <title lang="ro">NewsRoom cu Berta Popescu</title>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717130000 +0300" channel="Antena3.ro">
-    <title lang="ro">Ştiri</title>
-    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.(n)</desc>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717140000 +0300" channel="Antena3.ro">
-    <title lang="ro">NewsRoom cu Andreea Dumitrache</title>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717150000 +0300" channel="Antena3.ro">
-    <title lang="ro">Ştiri</title>
-    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.(n)</desc>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717180000 +0300" channel="Antena3.ro">
-    <title lang="ro">Decisiv</title>
-  </programme>
-  <programme start="20230717180000 +0300" stop="20230717190000 +0300" channel="Antena3.ro">
-    <title lang="ro">News Hour with CNN</title>
-    <desc lang="ro">News Hour with CNN este un program de știri interne și externe, prima emisiune din România în parteneriat cu CNN.(n)</desc>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717210000 +0300" channel="Antena3.ro">
-    <title lang="ro">În faţa naţiunii</title>
-    <desc lang="ro">În faţa naţiunii este emisiunea care, seară de seară, de luni până vineri, prezintă cele mai importante evenimente ale zilei, ştirile de ultimă oră despre viaţa politică şi cotidiană din România, dar şi din lume. Sabina Iosub este gazda emisiunii şi aduce, de fiecare dată, cele mai noi şi utile informaţii în faţa naţiunii.(n)</desc>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717233000 +0300" channel="Antena3.ro">
-    <title lang="ro">Sinteza zilei</title>
-    <desc lang="ro">"Sinteza zilei" s-a impus ca emisiunea in care se fac cele mai importante dezvaluiri din actualitatea cotidiana. Mihai Gadea alaturi de invitatii din platou ofera publicului toate punctele de vedere asupra evenimentelor celor mai importante de peste zi.(n)</desc>
-  </programme>
-  <programme start="20230717233000 +0300" stop="20230718003000 +0300" channel="Antena3.ro">
-    <title lang="ro">În gura presei</title>
-    <desc lang="ro">O emisiune pamflet prezentată de Mircea Badea. Realizatorul reuşeşte să transforme prezentarea formală a conţinutului ziarelor într-o emisiune dinamică, cu umor, dar şi cu replici acide şi teorii noi.(n)</desc>
-  </programme>
-  <programme start="20230717080000 +0300" stop="20230717120000 +0300" channel="Antena1.ro">
-    <title lang="ro">Neatza cu Răzvan şi Dani</title>
-    <desc lang="ro">Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.(n)</desc>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717140000 +0300" channel="Antena1.ro">
-    <title lang="ro">Observator</title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717170000 +0300" channel="Antena1.ro">
-    <title lang="ro">Provocarea destinului</title>
-    <desc lang="ro">Provocarea destinului este singurul reality show din România dedicat poveștilor de dragoste care se pot înfiripa între protagoniști cu experiență de viață, gata să ia totul de la capăt, lăsând în urmă orice dezamăgire, relație nefastă sau ajunsă la sfârșit de drum. Aceasta este provocarea lansată în noua emisiune, care va fi prezentată de Dianna Rotaru, din 11 iulie, la Antena 1.(n)</desc>
-  </programme>
-  <programme start="20230717170000 +0300" stop="20230717180000 +0300" channel="Antena1.ro">
-    <title lang="ro">Observator</title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-  </programme>
-  <programme start="20230717180000 +0300" stop="20230717190000 +0300" channel="Antena1.ro">
-    <title lang="ro">Prețul cel bun</title>
-    <desc lang="ro">Prețul cel bun este o emisiune de divertisment, de tip concurs, în care participanții concurează pentru a câștiga premii în bani și produse, aproximând sau ghicind exact prețul unor produse prezentate.(n)</desc>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717203000 +0300" channel="Antena1.ro">
-    <title lang="ro">Observator</title>
-    <sub-title lang="ro">Sport/Meteo</sub-title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-  </programme>
-  <programme start="20230717203000 +0300" stop="20230717233000 +0300" channel="Antena1.ro">
-    <title lang="ro">Poftiți pe la noi: Poftiți prin țară</title>
-    <sub-title lang="ro">run)</sub-title>
-    <desc lang="ro">Nea Mărin și-a unit forțele, alături de vedete, în sezonul Poftiți pe la noi: Poftiți prin țară.
-
-Desigur, pe lângă munca depusă, distracția și voia bună nu au lipsit din meniu.
-
-Vezi pe unde au colindat vedetele și nea Mărin!(n)</desc>
-  </programme>
-  <programme start="20230717233000 +0300" stop="20230718003000 +0300" channel="Antena1.ro">
-    <title lang="ro">Narcos</title>
-    <desc lang="ro">Serialul de la Netflix este povestea adevărată a expansiunii și a creșterii influenței cartelurilor drogurilor în lume și de asemenea a eforturilor autorităților de a le ține piept în cadrul unui conflict sângeros.Serialul surprinde numeroasele forțe implicate în lupta antidrog - sistemul judiciar, poliția, factorul politic, armata, societatea civilă - și luptele pentru controlul cocainei, una dintre cele mai prețioase mărfuri din lume.(n)</desc>
-    <credits>
-      <director>José Padilha</director>
-      <actor role="Elisa Alvaro">Ana de la Reguera</actor>
-      <actor role="Gustavo Gaviria">Juan Pablo Raba</actor>
-      <actor>Paulina Gaitan</actor>
-      <actor role="José Rodríguez Gacha">Luis Guzmán</actor>
-      <actor role="Eduardo Sandoval">Manolo Cardona</actor>
-      <actor role="Javier Peña">Pedro Pascal</actor>
-      <producer>Tim King</producer>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Biografic</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/59/44/83/narcos-953894l-175x0-w-c94e6008.jpg" />
-    <rating system="RO">
-      <value>15</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>9.0</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717073000 +0300" channel="TVR2.ro">
-    <title lang="ro">Generaţia Fit</title>
-    <desc lang="ro">Producător: Iulia PopescuCoproducţie TVR şi Federaţia Română de Culturism şi Fitness.(n)</desc>
-  </programme>
-  <programme start="20230717073000 +0300" stop="20230717080000 +0300" channel="TVR2.ro">
-    <title lang="ro">România…în bucate</title>
-    <desc lang="ro">TVR Moldova Gatim romanesteEmisiune realizată de TVR MoldovaJurnalist: Cătălin BlebeaProducător: Cristina MurguProducător delegat: Alexandra Tiniche.(n)</desc>
-  </programme>
-  <programme start="20230717080000 +0300" stop="20230717085000 +0300" channel="TVR2.ro">
-    <title lang="ro">Mic dejun cu un campion</title>
-    <desc lang="ro">Producător: Ileana Ploscaru Panait.(n)</desc>
-  </programme>
-  <programme start="20230717085000 +0300" stop="20230717090000 +0300" channel="TVR2.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717090000 +0300" stop="20230717100000 +0300" channel="TVR2.ro">
-    <title lang="ro">Hudson și Rex</title>
-    <title lang="en">Hudson &amp; Rex</title>
-    <desc lang="ro">Charlie Hudson este detectiv la Brigada Omucideri a Poliției din St. John's si a crescut citind romane pline de mister. Drept urmare, și-a dorit întotdeauna să fie polițist. El devine partener cu Rex după ce Grace Lindsay, fostul partener al ciobănescului german, a fost ucisă. Nasul și urechile ascuțite ale lui Rex sunt esențiale pentru a-l ajuta pe detectivul Hudson să avanseze în investigațiile sale. În colectarea și interpretarea dovezilor, cei doi primesc asistență din partea şefului departamentului de… citeşte.(n)</desc>
-    <credits>
-      <director>Alison Reid</director>
-      <actor>Lauren Lee Smith</actor>
-      <actor role="Holland Sharma">Agam Darshi</actor>
-      <actor>Joanne Kelly</actor>
-      <actor>Victoria Pratt</actor>
-      <actor role="Rosalynn Evans">Cindy Sampson</actor>
-      <actor>Zoie Palmer</actor>
-      <producer>Paul Pope</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/27/63/123/hudson-rex-536788l-175x0-w-4fb12909.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717110000 +0300" channel="TVR2.ro">
-    <title lang="ro">Atelier de sanatate</title>
-    <desc lang="ro">Redifuzare"Atelier de sănătate"-emisiune de tip magazin, pe teme de sănătate și actualitate medicală. În fiecare zi, de luni până vineri, profesionisti din domeniul medical prezintă informatii, recomandări șsi solutii pentru sănătatea noastră. Reportaje, sfaturi șsi recomandări practice, demonstratii live, răspunsuri la întrebările adresate de telespectatori completează formatul dinamic al emisiunii. * Personalitati: Smaranda Vornicu Shalitdr. Marian Stamate-medic primar ORL-dr. in Stiinte Medicale conf.univ.dr. Ana Maria Oproiu-medic primar chirurgie estetica si microchirurgie reconstructivaDragos Ifrim-optometristSubiect: MIC DICTIONAR de termeni MEDICALI-URECHEA INTERNA Discutam despre implantul cohlear (singura sansa pentru cei cu hipoacuzie neurosenzoriala severa, pana la profunda)Reportaj-DE STIUT-VertijulDiscutam despre interventii la nivelul fetei, recomandate a fi facute in apropierea sezonului caldSECRETELE PLANTELOR-Plante care ajuta memoria (Ginko, Ginseng, cimbru, rozmarin) UN MAR PE ZI: Discutam despre cum se aplica corect si cum se intretin lentilele de contactProducator Florenta DascalescuRealizator Smaranda Vornicu-ShalitEchipa: Dana Armasu, Beatrice Cioba, Dana Deac, Dana Iancu, Anca Mazilu, Mircea Mitrofan, Grigore Virsta.(n)</desc>
-  </programme>
-  <programme start="20230717110000 +0300" stop="20230717113000 +0300" channel="TVR2.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717113000 +0300" stop="20230717120000 +0300" channel="TVR2.ro">
-    <title lang="ro">Levintza prezintă</title>
-    <desc lang="ro">* In cel de-al treilea sezon al emisiunii LEVINTZA PREZINTA, de la TVR2, doamna Doina Levintza, creatoare si realizatoare celebra de costume, prezinta o emisiune dedicata celor mai creativi designeri, tendintelor, istoriei si meseriilor modei. Emisiunea este o incursiune in culisele modei, cu colectii pline de creativitate, portrete de designer si manechine, tendinte si istoria modei. “Levintza prezinta” este singura emisiune de moda din Romania, un spatiu video dedicat celor mai importante si creative colectii, saptamanilor modei de la Paris, Londra, New York sau Milano. Vizionare placuta!Prezentator: Doina LevintzaRealizator: Doina LevintzaProducator: Claudia NicolauCoproducție TVR-SC Levintza costume designer SRL.(n)</desc>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717124000 +0300" channel="TVR2.ro">
-    <title lang="ro">Telejurnal TVR 2</title>
-    <desc lang="ro">Translator mimico-gestual Lena Dermengiu ACEST PROGRAM SE ADRESEAZĂ ŞI PERSOANELOR CU DEFICIENŢE DE AUZTransmisiune directă.(n)</desc>
-  </programme>
-  <programme start="20230717124000 +0300" stop="20230717130000 +0300" channel="TVR2.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717133000 +0300" channel="TVR2.ro">
-    <title lang="ro">Cultura minorităţilor</title>
-    <desc lang="ro">* La Portile Orientului Premiera * Semnificaţia sărbătorii de Tepreş la tătarii din România Producător: Dana Ionita.(n)</desc>
-  </programme>
-  <programme start="20230717133000 +0300" stop="20230717143000 +0300" channel="TVR2.ro">
-    <title lang="ro">Educatie la inaltime</title>
-    <desc lang="ro">Redifuzare * Producător: Alice SăceanuCoproducţie TVR-SC Media Factory Unit SRL.(n)</desc>
-  </programme>
-  <programme start="20230717143000 +0300" stop="20230717150000 +0300" channel="TVR2.ro">
-    <title lang="ro">Magazin Deutsche Welle</title>
-    <sub-title lang="ro">Azi despre mâine</sub-title>
-    <desc lang="ro">TOMORROW TODAY-Magazin ştiinţific, Germania, 2023
-PREMIERĂ * Fascinanta lume a ştiinţei, în special misiunile spaţiale care dezvăluie tot mai multe dintre secretele Universului, constituie subiectele programului-magazin Azi despre mâine. Redactor: Cristina Crăciun.(n)</desc>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717153000 +0300" channel="TVR2.ro">
-    <title lang="ro">Nebuni şi haioşi</title>
-    <desc lang="ro">(Crazy and Funny Clip Collection, SUA, 2014) * Ep.9Redactor:.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717153000 +0300" stop="20230717163000 +0300" channel="TVR2.ro">
-    <title lang="ro">Documentar 360° Geo</title>
-    <sub-title lang="ro">salvarea puilor de focă</sub-title>
-    <desc lang="ro">Mer du nord, sauvons les bébés phoques, Franţa-Germania, 2020
-Redifuzare * Anual, sute de pui de focă se nasc pe plajele Mării Nordului. Turiştii atraşi de spectacol se apropie uneori prea mult de ei, ceea ce duce la abandonarea micuţilor de către mame. În acel moment intervin echipele de salvatori defoci !Redactor: Corina FeleagăRealizator: Michael J. Schumacher.(n)</desc>
-  </programme>
-  <programme start="20230717163000 +0300" stop="20230717170000 +0300" channel="TVR2.ro">
-    <title lang="ro">România…în bucate</title>
-    <desc lang="ro">Redifuzare TVR Timişoara * Sarea în bucate * Localitatea Apateu din judetul Arad era cunoscută înainte ca fiind “patria pudrei de boia”. Astăzi, doar câtiva agricultori mai seamănă în câmp piparca de boia, încăpătânându-se să nu piardă reteta traditională, desi munca nu e răsplătită căci condimentul vine din Ungaria șsi China șsi se vinde la preturi mult mai mici. Din câmp si până în farfurie, recuperăm reteta acestui condiment nelipsit din gastronomia bănăteanului care musai trebuie să dea gust mâncării cu boia de rântaș.Emisiune realizată de TVR TimişoaraPrezentator: Dan LiuțRealizator: Veronica MihocProducător: Florin MihocJurnalist: Cătălin BlebeaProducător: Cristina MurguProducător delegat: Alexandra Tiniche.(n)</desc>
-  </programme>
-  <programme start="20230717170000 +0300" stop="20230717180000 +0300" channel="TVR2.ro">
-    <title lang="ro">Vara amintirilor</title>
-  </programme>
-  <programme start="20230717180000 +0300" stop="20230717185000 +0300" channel="TVR2.ro">
-    <title lang="ro">Ora de ştiri</title>
-  </programme>
-  <programme start="20230717185000 +0300" stop="20230717190500 +0300" channel="TVR2.ro">
-    <title lang="ro">E vremea ta!</title>
-    <desc lang="ro">Prezintă: Cristina Soare şi Andrei Bărbulescu E vremea ta să primești date despre timpul probabil, climă, mediu și alte domenii conexe. Vei afla informații de la specialiști, curiozități, sfaturi utile și previziuni astrologice și vei ști cum îți influențează viața starea vremii.Redactori:Laurenţiu Mandu, Cristina Dănilă, Adrian Bănută, Mirela Goldic, Claudia Nicolau şi Roxana Iordache Producători: Raluca Brumariu.(n)</desc>
-  </programme>
-  <programme start="20230717190500 +0300" stop="20230717200000 +0300" channel="TVR2.ro">
-    <title lang="ro">Hudson și Rex</title>
-    <title lang="en">Hudson &amp; Rex</title>
-    <desc lang="ro">Charlie Hudson este detectiv la Brigada Omucideri a Poliției din St. John's si a crescut citind romane pline de mister. Drept urmare, și-a dorit întotdeauna să fie polițist. El devine partener cu Rex după ce Grace Lindsay, fostul partener al ciobănescului german, a fost ucisă. Nasul și urechile ascuțite ale lui Rex sunt esențiale pentru a-l ajuta pe detectivul Hudson să avanseze în investigațiile sale. În colectarea și interpretarea dovezilor, cei doi primesc asistență din partea şefului departamentului de… citeşte.(n)</desc>
-    <credits>
-      <director>Alison Reid</director>
-      <actor>Lauren Lee Smith</actor>
-      <actor role="Holland Sharma">Agam Darshi</actor>
-      <actor>Joanne Kelly</actor>
-      <actor>Victoria Pratt</actor>
-      <actor role="Rosalynn Evans">Cindy Sampson</actor>
-      <actor>Zoie Palmer</actor>
-      <producer>Paul Pope</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/27/63/123/hudson-rex-536788l-175x0-w-4fb12909.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717210000 +0300" channel="TVR2.ro">
-    <title lang="ro">Reţeaua de idoli</title>
-    <desc lang="ro">Redifuzare Maria Ploae si Nicolae MargineanProducător: Irina Păcurariu.(n)</desc>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717220000 +0300" channel="TVR2.ro">
-    <title lang="ro">Memorialul Durerii</title>
-    <desc lang="ro">Redifuzare Redactor: Doina TeodoruProducător: Alexandru MunteanuUn film de Lucia Hossu LonginO coproducţie TVR-APTR.(n)</desc>
-  </programme>
-  <programme start="20230717220000 +0300" stop="20230717230000 +0300" channel="TVR2.ro">
-    <title lang="ro">Deadwood</title>
-    <desc lang="ro">Producatorul Executiv David Milch aduce Deadwood, un nou serial dramatic care se concentreaza pe nasterea unui oras situat la frontiera Americana si asupra luptei sangeroase pentru putere care are loc intre granitele sale stapanite de faradelege. Povestea incepe la doua saptamani dupa infrangerea lui Custer de la Little Big Town si combina personaje ale vietii reale cu personajele de fictiune si evenimente intr-o povestire epica despre moralitate. Asezat pe teritoriul cesionat indienilor din Black Hills, "orasul"… citeşte.(n)</desc>
-    <credits>
-      <director>David Milch</director>
-      <actor role="Flora Anderson">Kristen Bell</actor>
-      <actor role="Seth Bullock">Timothy Olyphant</actor>
-      <actor role="Carrie">Izabella Miko</actor>
-      <actor role="Al Swearengen">Ian McShane</actor>
-      <actor role="Sol Star">John Hawkes</actor>
-      <actor role="Jack Langrishe">Brian Cox</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Western</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/01/35/36/deadwood-489615l-175x0-w-6ca57ed6.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.5</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717230000 +0300" stop="20230718000000 +0300" channel="TVR2.ro">
-    <title lang="ro">Vara amintirilor</title>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717075500 +0300" channel="TVR3.ro">
-    <title lang="ro">Telematinal</title>
-    <desc lang="ro">(I) (simultan TVR Moldova)Moderatori: Anatol Guzic, Mihaela Rudenco Producător Luminița PopaTransmisiune directă.(n)</desc>
-  </programme>
-  <programme start="20230717075500 +0300" stop="20230717080000 +0300" channel="TVR3.ro">
-    <title lang="ro">Maşina timpului</title>
-    <desc lang="ro">* Studioul teritorial Iaşi * Aniversări, comemorări, evenimente care au rămas în memoria colectivă au, pentru fiecare dintre noi, o semnificație aparte. “Maşina timpului” vă prezintă detalii mai puțin cunoscute, anecdotice pe alocuri, dar și fragmente din marile opere muzicale, citate care au făcut istorie sau interpretări subiective ale unor fapte din trecut.Producător Daniel Trofin.(n)</desc>
-  </programme>
-  <programme start="20230717080000 +0300" stop="20230717085500 +0300" channel="TVR3.ro">
-    <title lang="ro">Telematinal</title>
-    <desc lang="ro">(II) (simultan TVR Moldova)Moderatori: Anatol Guzic, Mihaela Rudenco Producător Luminița PopaTransmisiune directă.(n)</desc>
-  </programme>
-  <programme start="20230717085500 +0300" stop="20230717090000 +0300" channel="TVR3.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717090000 +0300" stop="20230717095500 +0300" channel="TVR3.ro">
-    <title lang="ro">Telematinal</title>
-    <desc lang="ro">(II) (simultan TVR Moldova)Moderatori: Anatol Guzic, Mihaela Rudenco Producător Luminița PopaTransmisiune directă.(n)</desc>
-  </programme>
-  <programme start="20230717095500 +0300" stop="20230717100000 +0300" channel="TVR3.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717105500 +0300" channel="TVR3.ro">
-    <title lang="ro">Toate pânzele sus!</title>
-    <desc lang="ro">Peripetiile velierului romanesc "Speranta" prin Constantinopole, Pireu, Marsilia, Port Said, Montevideo, Buenos Aires, Tara de Foc, etc. "In numele solidaritatii, al devotamentului si al prieteniei, expeditia ii va purta pe eroii nostri prin aventuri pline de neprevazut, de greutati, dar si de poezie". Serial TV in 12 episoade, ecranizare dupa romanul de aventuri "Toate panzele sus!" de Radu Tudoran: 1. "Speranta", 2. "Secretul epavei", 3. "Bazarul desertaciunilor si Omul negru", 4. "Cine… citeşte.(n)</desc>
-    <credits>
-      <director>Mircea Mureșan</director>
-      <actor role="Ismail">Jean Constantin</actor>
-      <actor role="Pedro">Gheorghe Visu</actor>
-      <actor role="Ieremia">Sebastian Papaiani</actor>
-      <actor role="Gherasim">Ilarion Ciobanu</actor>
-      <actor role="Adnana">Julieta Szönyi</actor>
-      <actor role="sotia lui Al Calaf">Tamara Buciuceanu</actor>
-      <composer>Radu Șerban</composer>
-    </credits>
-    <date>1977</date>
-    <category lang="ro">Aventuri</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/72/93/toate-panzele-sus-697567l-175x0-w-4a614668.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717105500 +0300" stop="20230717110000 +0300" channel="TVR3.ro">
-    <title lang="ro">Memoria tiparului</title>
-    <desc lang="ro">* Studioul teritorial Tg.Mureş * Revista presei vechi prezintă, prin tema fiecărei ediții, realitatea din România interbelică, surprinsă prin intermediul fragmentelor extrase din ziarele centrale, regionale sau locale ale epocii, și ilustrate vizual prin imagini de arhiva, fotografii vechi și dramatizări.Producător Angela Precup.(n)</desc>
-  </programme>
-  <programme start="20230717110000 +0300" stop="20230717125000 +0300" channel="TVR3.ro">
-    <title lang="ro">Toţi împreună</title>
-    <desc lang="ro">* Emisiune în limba germană * Studioul teritorial Timişoara (55’)Producător Daniel Spătaru * Magazin interetnic în limbile minorităţilor * Studioul teritorial Cluj * Alte minorităţi/ Cluj (55’)Producător Izabella VeibelTransmisiune in regim de direct.(n)</desc>
-  </programme>
-  <programme start="20230717125000 +0300" stop="20230717130500 +0300" channel="TVR3.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717130500 +0300" stop="20230717135500 +0300" channel="TVR3.ro">
-    <title lang="ro">Cult@art</title>
-    <desc lang="ro">* Studioul teritorial Cluj * Interviurile Festivalului TIFF 2023Invitat Cristi Puiu, regizor (prima parte)Producător si realizator Vasile Hotea-Fernezan.(n)</desc>
-  </programme>
-  <programme start="20230717135500 +0300" stop="20230717140000 +0300" channel="TVR3.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717150000 +0300" channel="TVR3.ro">
-    <title lang="ro">Tableta de sănătate</title>
-    <desc lang="ro">(redifuzare) * Studioul teritorial Timișoara * Teme medicale de interes și invitați interesanți. Nu ne scapă nici o informație de ultimă oră și nu ne este frică să abordăm subiecte pe probleme medicale dintre cele mai controversate!Prezentator Ica SecoşanProducător Veronica Mihoc.(n)</desc>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717160000 +0300" channel="TVR3.ro">
-    <title lang="ro">Cântec şi poveste</title>
-    <desc lang="ro">(redifuzare) * Studioul teritorial Tg.Mures * Ediție specială de varăModerator Cristian Ţăran Producător Vasile Braic.(n)</desc>
-  </programme>
-  <programme start="20230717160000 +0300" stop="20230717165500 +0300" channel="TVR3.ro">
-    <title lang="ro">Vară pentru voi</title>
-    <desc lang="ro">* Studioul teritorial Cluj * O emisiune magazin cu informaţii, ştiri, evenimente din Transilvania !O emisiune informativa si de entertainment, care prezinta subiecte de actualitate, stiri si informatii utile din regiunea N-V. Formatul este de talk show cu unul sau mai multi invitati in platou si cu interventii in direct de pe teren ale reporterilor de la stiri si ale corespondentilor TVR din regiune, precum si cu interventii telefonice pe subiecte care sunt in derulare la ora difuzarii emisiunii. De asemenea, emisiunea contine rubrici de interes din domeniul culturii, stiintei etc.Prezinta Loredana CorchisProducător Luminţa Cotuţiu.(n)</desc>
-  </programme>
-  <programme start="20230717165500 +0300" stop="20230717170000 +0300" channel="TVR3.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717170000 +0300" stop="20230717173000 +0300" channel="TVR3.ro">
-    <title lang="ro">Telejurnal regional</title>
-    <desc lang="ro">* Studioul teritorial Cluj * La TVR 3 adunăm cele mai importante ştiri locale într-un jurnal naţional. Din Oltenia în Transilvania, din Banat în Moldova, dăm românilor ce este al românilor: ştirile lor despre viaţa lor.Producatori: Nicoleta Moldovan, Andrei BiroTransmisiune directă.(n)</desc>
-  </programme>
-  <programme start="20230717173000 +0300" stop="20230717175500 +0300" channel="TVR3.ro">
-    <title lang="ro">Lumea de aproape</title>
-    <desc lang="ro">(redifuzare) * Studioul teritorial Cluj * Alina Ciceo si Radu Domsa, coregrafi. Doi straluciti ambasadori ai dansului contemporan romanesc.Producător si moderator Ovidiu Damian.(n)</desc>
-  </programme>
-  <programme start="20230717175500 +0300" stop="20230717180000 +0300" channel="TVR3.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717180000 +0300" stop="20230717195500 +0300" channel="TVR3.ro">
-    <title lang="ro">Se întâmplă acum</title>
-    <desc lang="ro">(ed.67/80) * Este analiza situaţiei economice cu impactul ei social. Este dezbaterea subiectelor fierbinţi ale zilei. Este dialogul necenzurat prin care românii sunt ascultaţi de televiziunea lor naţională. Este emisiunea celor mulţi, la care cei care intră în direct devin reporterii, redactorii şi invitaţii unui talk show… pe bune! Un brand lansat de TVR acum 23 de ani revine în casele românilor, la ei acasă… la TVR 3, televiziunea care UNEŞTE ROMÂNII!Moderator Tudor BarbuProducător Miruna MoraruTransmisiune directă.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717195500 +0300" stop="20230717200000 +0300" channel="TVR3.ro">
-    <title lang="ro">Art pass</title>
-    <desc lang="ro">(ed.21/25) * Emisiune dedicată vieţii culturale externe; sunt prezentate expoziţii, concerte, spectacole, muzee, festivaluri, tradiţii, urbanism şi alte subiecte legate de zona culturală internaţională.Producător Miruna Moraru.(n)</desc>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717210000 +0300" channel="TVR3.ro">
-    <title lang="ro">Din arhiva TVR</title>
-    <desc lang="ro">(redifuzare) * Emisiunea vă invită să vă bucurați de o serie de întâlniri memorabile cu oameni excepţionali, oameni care au lăsat ceva în urma lor, în teatru, în artă, în literatură, în muzică, în toate domeniile culturale.Astfel, fiecare ediție a emisiunii vă aduce un strop de cultură, însă acel strop fără de care viaţa fiecăruia ar fi lipsită de substanţă. Şi nu în ultimul rând, cuprinde momente memorabile din Arhiva de Aur a Televiziunii Române, aceasta cutie cu amintiri unde timpul încetează să mai curgă.Producător Irninis Miricioiu.(n)</desc>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717215500 +0300" channel="TVR3.ro">
-    <title lang="ro">Căsătorie imposibilă</title>
-    <desc lang="ro">Teleplay in 12 episoade scris de Alexandru Stefanescu si prezentat de TVR in 1999-2000. "Colaborarea cu scenaristul Alex. Stefanescu este deosebita, fiecare nou episod aduce pe langa dialogul inteligent, situatii noi care sunt convins ca vor incanta telespectatorii”. (Silviu Jicman) "Vreau sa scriu 12 noi episoade din serialul Tv "Casatorie imposibila", ale carui prime 12 episoade (in regia lui Silviu Jicman) s-au bucurat de succes datorita, fara indoiala, inainte de toate,… citeşte.(n)</desc>
-    <credits>
-      <director>Silviu Jicman</director>
-      <director>Lidia Danciu
- regizor muzical</director>
-      <actor>Maia Morgenstern</actor>
-      <actor role="Gina Cantuniari">Daniela Nane</actor>
-      <actor role="Titi">Horațiu Mălăele</actor>
-      <actor>Ion Besoiu</actor>
-      <actor>Magda Catone</actor>
-      <actor role="Fane Bancorex">Mircea Albulescu</actor>
-      <producer>Doina Teodoru</producer>
-      <composer>Lidia Danciu
- regizor l</composer>
-    </credits>
-    <date>2004</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>6.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717215500 +0300" stop="20230717220000 +0300" channel="TVR3.ro">
-    <title lang="ro">Memoria tiparului</title>
-    <desc lang="ro">* Studioul teritorial Tg.Mureş * Revista presei vechi prezintă, prin tema fiecărei ediții, realitatea din România interbelică, surprinsă prin intermediul fragmentelor extrase din ziarele centrale, regionale sau locale ale epocii, și ilustrate vizual prin imagini de arhiva, fotografii vechi și dramatizări.Producător Angela Precup.(n)</desc>
-  </programme>
-  <programme start="20230717220000 +0300" stop="20230718000000 +0300" channel="TVR3.ro">
-    <title lang="ro">Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor</title>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717090000 +0300" channel="KanalD.ro">
-    <title lang="ro">Lacrimi la Marea Neagră</title>
-    <title lang="en">Sen Anlat Karadeniz</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Yusuf Ömer Sinav</director>
-      <actor role="Ferhat Kilic">Ali Ersan Duru</actor>
-      <actor role="Mustafa Kaleli">Sinan Tuzcu</actor>
-      <actor role="Eysan Sayar">Gözde Kansu</actor>
-      <actor role="Nefes Kaleli">Irem Helvacioglu</actor>
-      <actor role="Tahir Kaleli">Ulas Tuna Astepe</actor>
-      <actor role="Vedat Sayar">Mehmet Ali Nuroglu</actor>
-      <producer>Osman Sinav</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/22/92/117/sen-anlat-karadeniz-897990l-175x0-w-36bf9e10.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>9.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>5.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717090000 +0300" stop="20230717100000 +0300" channel="KanalD.ro">
-    <title lang="ro">Știrile Kanal D</title>
-    <desc lang="ro">Știrile Kanal D conectează zi de zi telespectatorii la realitățile sociale, economice, politice și mondene, din perspectiva omului și pentru omul obișnuit.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717120000 +0300" channel="KanalD.ro">
-    <title lang="ro">Casa iubirii</title>
-    <desc lang="ro">14 concurenţi, 7 fete şi 7 baieti, vor intra în Casa iubirii pentru a-şi găsi dragostea, iar Andreea Mantea le va fi alături pe tot parcursul show-ului, ghidându-i cu empatie, pe drumul sinuos al descoperirii de sine şi a celuilalt. La capătul acestei experienţe cu totul speciale vor exista doi câştigători, o fată şi un băiat, fiecare dintre aceştia intrand în posesia premiului de 10.000 de Euro.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717130000 +0300" channel="KanalD.ro">
-    <title lang="ro">Știrile Kanal D</title>
-    <desc lang="ro">Știrile Kanal D conectează zi de zi telespectatorii la realitățile sociale, economice, politice și mondene, din perspectiva omului și pentru omul obișnuit.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717150000 +0300" channel="KanalD.ro">
-    <title lang="ro">În căutarea adevărului</title>
-    <desc lang="ro">“În căutarea adevărului” prezintă o serie de dramatizări realiste care vor aduce în atenția publicului situații pe care fiecare dintre noi le-ar putea experimenta. După ce a fost considerat un adevarat detectiv, Ernest va fi atât naratorul, cât și mediatorul conflictelor din fiecare episod.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717163000 +0300" channel="KanalD.ro">
-    <title lang="ro">Jocul cuvintelor cu Dan Negru</title>
-    <desc lang="ro">În fiecare ediție a emisiunii, 5 concurenți se află față în față cu Dan Negru, pentru a-și testa vocabularul și spontaneitatea. Înțelegerea sensurilor şi uşurinţa de a face conexiunile potrivite sunt acele ingrediente care îi oferă oricărui participant şansa găsirii cuvântului corect. Pentru că Dan Negru dă definiţia, iar concurenţii găsesc soluţia! Participanții “Jocul cuvintelor cu Dan Negru” au la dispoziție 4 minute pentru a afla 14 cuvinte, în urma definițiilor primite chiar de la prezentatorul show-ului. Efortul concurenților va fi răsplătit cu premii importante în bani, dacă aceștia reușesc să afle răspunsurile corecte.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717163000 +0300" stop="20230717190000 +0300" channel="KanalD.ro">
-    <title lang="ro">Casa iubirii</title>
-    <desc lang="ro">14 concurenţi, 7 fete şi 7 baieti, vor intra în Casa iubirii pentru a-şi găsi dragostea, iar Andreea Mantea le va fi alături pe tot parcursul show-ului, ghidându-i cu empatie, pe drumul sinuos al descoperirii de sine şi a celuilalt. La capătul acestei experienţe cu totul speciale vor exista doi câştigători, o fată şi un băiat, fiecare dintre aceştia intrand în posesia premiului de 10.000 de Euro.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717200000 +0300" channel="KanalD.ro">
-    <title lang="ro">Știrile Kanal D</title>
-    <desc lang="ro">Știrile Kanal D conectează zi de zi telespectatorii la realitățile sociale, economice, politice și mondene, din perspectiva omului și pentru omul obișnuit.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717230000 +0300" channel="KanalD.ro">
-    <title lang="ro">Melek</title>
-    <title lang="en">Benim Adim Melek</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Cem Akyoldas</director>
-      <actor>Zeynep Özder</actor>
-      <actor>Mehmet Cevik</actor>
-      <actor>Kutsi</actor>
-      <actor>Zeyno Eracar</actor>
-      <actor>Rabia Soyturk</actor>
-      <actor>Ece Ozdikici</actor>
-      <producer>Jelica Kovacevic</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>5.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717230000 +0300" stop="20230718013000 +0300" channel="KanalD.ro">
-    <title lang="ro">Roata norocului</title>
-    <desc lang="ro">Câștiguri substanțiale, în bani și produse, divertisment, tensiune, umor și nu în ultimul rând un prezentator charismatic sunt ingredientele de baza ale acestei emisiuni prin care Kanal D își propune să descrețească frunțile romanilor și să umple buzunarele celor care au curajul sa își încerce șansa. Prezintă: Liviu Vârciu alături de Ana Maria Barnoschi.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717080000 +0300" stop="20230717114500 +0300" channel="antenastar.ro">
-    <title lang="ro">Showbiz report</title>
-  </programme>
-  <programme start="20230717114500 +0300" stop="20230717120000 +0300" channel="antenastar.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717140000 +0300" channel="antenastar.ro">
-    <title lang="ro">Te Iubesc De Nu Te Vezi - Dublu Sau Nimic!</title>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717154500 +0300" channel="antenastar.ro">
-    <title lang="ro">Star Magazin</title>
-    <desc lang="ro">"Star Magazine" este doar unul dintre noile show-uri propuse de canalul Antena Stars, care îşi propune să pună bazele tabloidului modern.(n)</desc>
-  </programme>
-  <programme start="20230717154500 +0300" stop="20230717160000 +0300" channel="antenastar.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20230717160000 +0300" stop="20230717190000 +0300" channel="antenastar.ro">
-    <title lang="ro">Acces direct</title>
-    <desc lang="ro">O emisiune cu vedete, intrigi şi scandal, ce reuşeşte să aducă zilnic în atenţia publicului subiecte inedite şi de actualitate.(n)</desc>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717210000 +0300" channel="antenastar.ro">
-    <title lang="ro">Te Iubesc De Nu Te Vezi - Dublu Sau Nimic!</title>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717220000 +0300" channel="antenastar.ro">
-    <title lang="ro">Români De Ocazie</title>
-  </programme>
-  <programme start="20230717220000 +0300" stop="20230718000000 +0300" channel="antenastar.ro">
-    <title lang="ro">Xtra Night Show</title>
-    <desc lang="ro">cu Dan Capatos.(n)</desc>
-    <rating system="RO">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717080000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717070000 +0300" stop="20230717075959 +0300" channel="Prima TV HD">
     <title lang="ro">Iubiri vinovate</title>
     <title lang="en">Perdona Nuestros Pecados</title>
-    <desc lang="ro">La începutul anilor ´50, Maria, fiica unei familii puternice din înalta aristocraţie chiliană se îndrăgosteşte, nepermis, de fiul unei servitoare! Preotul Reynaldo Suarez, nou venit în localitate, se îndrăgosteşte, la rândul său, de Maria! Pe cine să aleagă el? Credinţa sau iubirea? În această lume închistată în reguli şi prejudecăţi, dragostea, e singurul sentiment care circulă liber printre oameni şi care dărâmă prejudecăţi, provocând însă drame şi suferinţe.(n)</desc>
+    <desc lang="ro">Maria, fiica unei familii puternice din înalta aristocraţie chiliană se îndrăgosteşte, nepermis, de fiul unei servitoare! Preotul Reynaldo Suarez se îndrăgosteşte, la rândul său, de Maria! Pe cine să aleagă el? Credinţa sau iubirea?(n)</desc>
     <credits>
       <director>Nicolás Alemparte</director>
-      <actor role="Silvia Corcuera">Francisca Gavilán</actor>
-      <actor>José Antonio Raffo(role= Carlitos Möller
- / ...)</actor>
-      <actor role="María Elsa Quiroga">Mariana Di Girólamo</actor>
-      <actor role="Estela Undurraga">Patricia Rivadeneira</actor>
-      <actor role="Armando Quiroga">Álvaro Rudolphy</actor>
-      <actor role="Antonieta Fuentes">Constanza Araya</actor>
+      <actor>Álvaro Rudolphy</actor>
+      <actor>Paola Volpato</actor>
+      <actor>Mario Horton</actor>
     </credits>
     <date>2017</date>
+    <category lang="ro">Serial</category>
     <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/20/68/509/perdona-nuestros-pecados-408329l-175x0-w-2e5c2271.jpg" />
+    <icon src="https://www.programetv.ro/img/shows/df/d2/iubiri-vinovate.jpg" />
+    <country lang="ro">Chile</country>
     <rating system="RO">
-      <value>AP</value>
+      <value>ap</value>
     </rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
+    <star-rating system="IMDb">
+      <value>7.00</value>
     </star-rating>
   </programme>
-  <programme start="20230717080000 +0300" stop="20230717090000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717080000 +0300" stop="20230717085959 +0300" channel="Prima TV HD">
     <title lang="ro">Focus</title>
     <desc lang="ro">Emisiunea Focus este setată pe ştiri relevante pentru fiecare, pe informaţia esenţială, corectă şi obiectivă, pe poveşti şi fapte generatoare de plus-valoare în societate.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/eb/97/focus.jpg" />
   </programme>
-  <programme start="20230717090000 +0300" stop="20230717110000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717090000 +0300" stop="20230717105959 +0300" channel="Prima TV HD">
     <title lang="ro">Schimb de mame</title>
     <desc lang="ro">Emisiunea "Schimb de mame" aduce în prim plan experienţele inedite trăite de soțiile-mame care au curajul să își schimbe viaţa pentru șapte zile. În fiecare săptămînă, două soții-mame vor face "schimb de vieți", vor avea o familie, prieteni și o slujbă complet noi, într-o localitate și o casa cu totul necunoscute. La final, protagoniștii se vor întâlni pentru a-și împărtăși experienţele trăite în răstimpul celor șapte zile și vor fi premiați.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://www.programetv.ro/img/shows/d7/ba/schimb-de-mame.jpg" />
     <rating system="RO">
-      <value>AP</value>
+      <value>ap</value>
     </rating>
   </programme>
-  <programme start="20230717110000 +0300" stop="20230717130000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717110000 +0300" stop="20230717125959 +0300" channel="Prima TV HD">
     <title lang="ro">Teleshopping</title>
+    <category lang="ro">Diverse</category>
   </programme>
-  <programme start="20230717130000 +0300" stop="20230717140000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717130000 +0300" stop="20230717135959 +0300" channel="Prima TV HD">
     <title lang="ro">Iubiri vinovate</title>
     <title lang="en">Perdona Nuestros Pecados</title>
-    <desc lang="ro">La începutul anilor ´50, Maria, fiica unei familii puternice din înalta aristocraţie chiliană se îndrăgosteşte, nepermis, de fiul unei servitoare! Preotul Reynaldo Suarez, nou venit în localitate, se îndrăgosteşte, la rândul său, de Maria! Pe cine să aleagă el? Credinţa sau iubirea? În această lume închistată în reguli şi prejudecăţi, dragostea, e singurul sentiment care circulă liber printre oameni şi care dărâmă prejudecăţi, provocând însă drame şi suferinţe.(n)</desc>
+    <desc lang="ro">Maria, fiica unei familii puternice din înalta aristocraţie chiliană se îndrăgosteşte, nepermis, de fiul unei servitoare! Preotul Reynaldo Suarez se îndrăgosteşte, la rândul său, de Maria! Pe cine să aleagă el? Credinţa sau iubirea?(n)</desc>
     <credits>
       <director>Nicolás Alemparte</director>
-      <actor role="Silvia Corcuera">Francisca Gavilán</actor>
-      <actor>José Antonio Raffo(role= Carlitos Möller
- / ...)</actor>
-      <actor role="María Elsa Quiroga">Mariana Di Girólamo</actor>
-      <actor role="Estela Undurraga">Patricia Rivadeneira</actor>
-      <actor role="Armando Quiroga">Álvaro Rudolphy</actor>
-      <actor role="Antonieta Fuentes">Constanza Araya</actor>
+      <actor>Álvaro Rudolphy</actor>
+      <actor>Paola Volpato</actor>
+      <actor>Mario Horton</actor>
     </credits>
     <date>2017</date>
+    <category lang="ro">Serial</category>
     <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/20/68/509/perdona-nuestros-pecados-408329l-175x0-w-2e5c2271.jpg" />
+    <icon src="https://www.programetv.ro/img/shows/df/d2/iubiri-vinovate.jpg" />
+    <country lang="ro">Chile</country>
     <rating system="RO">
-      <value>AP</value>
+      <value>ap</value>
     </rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
+    <star-rating system="IMDb">
+      <value>7.00</value>
     </star-rating>
   </programme>
-  <programme start="20230717140000 +0300" stop="20230717153000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717140000 +0300" stop="20230717152959 +0300" channel="Prima TV HD">
     <title lang="ro">Focus</title>
     <desc lang="ro">Emisiunea Focus este setată pe ştiri relevante pentru fiecare, pe informaţia esenţială, corectă şi obiectivă, pe poveşti şi fapte generatoare de plus-valoare în societate.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/eb/97/focus.jpg" />
   </programme>
-  <programme start="20230717153000 +0300" stop="20230717180000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717153000 +0300" stop="20230717175959 +0300" channel="Prima TV HD">
     <title lang="ro">Exclusiv VIP</title>
-    <desc lang="ro">Lumea mondenă îşi deschide larg uşile şi îi invită în culisele ei pe telespectatorii Prima TV. Moderatorul emisiunii este pregătit să îi descoasă pe invitaţi şi să le afle toate secretele. Exclusivităţi, momente emoţionante, discuţii între prieteni, voie bună şi relaxare!(n)</desc>
+    <desc lang="ro">Lumea mondenă îşi deschide larg uşile şi îi invită în culisele ei pe telespectatorii Prima TV. Moderatorul emisiunii  este pregătit să îi descoasă pe invitaţi şi să le afle toate secretele. Exclusivităţi, momente emoţionante, discuţii între prieteni, voie bună şi relaxare!(n)</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/c0/21/exclusiv-vip.png" />
     <rating system="RO">
-      <value>AP</value>
+      <value>ap</value>
     </rating>
   </programme>
-  <programme start="20230717180000 +0300" stop="20230717190000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717180000 +0300" stop="20230717185959 +0300" channel="Prima TV HD">
     <title lang="ro">Focus 18</title>
-    <desc lang="ro">La Focus 18, cel mai important jurnal de stiri, telespectatorii pot urmări, in fiecare zi, atât materiale în exclusivitate, cât şi rubrici dedicate sau reportaje speciale.(n)</desc>
+    <desc lang="ro">La Focus 18, cel mai important jurnal de ştiri, telespectatorii pot urmări, în fiecare zi, atât materiale în exclusivitate, cât şi rubrici dedicate sau reportaje speciale.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/bd/bf/focus-18.jpg" />
   </programme>
-  <programme start="20230717190000 +0300" stop="20230717200000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717190000 +0300" stop="20230717195959 +0300" channel="Prima TV HD">
     <title lang="ro">Mama mea gătește mai bine</title>
     <desc lang="ro">Emisiune prezentată de îndrăgitul cântăreț de muzică populară, Valentin Sanfira. Cuptoarele sunt încinse, ingredientele sunt pregătite iar concurenții abia așteaptă să se înfrunte sub privirea atentă a maestrului bucătar, Horia Vîrlan.(n)</desc>
+    <category lang="ro">Culinar</category>
+    <icon src="https://www.programetv.ro/img/shows/76/a8/mama-mea-gateste-mai-bine.jpg" />
     <rating system="RO">
-      <value>AP</value>
+      <value>ap</value>
     </rating>
   </programme>
-  <programme start="20230717200000 +0300" stop="20230717220000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717200000 +0300" stop="20230717215959 +0300" channel="Prima TV HD">
     <title lang="ro">Domnul Piluk, un pistolar timid</title>
     <title lang="en">Giurò... e li uccise ad uno ad uno... Piluk il timido</title>
     <desc lang="ro">Un șerif este ucis de liderul răufăcătorilor locali, iar tatăl șerifului nu este prea încântat. Tatăl, domnul Piluk, este antreprenorul local de pompe funebre și cântă la vioară atunci când este într-o dispoziție proastă.(n)</desc>
     <credits>
       <director>Guido Celano</director>
-      <actor role="Rol de o replică">Fabio Testi</actor>
-      <actor role="Piluk">Edmund Purdom</actor>
+      <actor>Edmund Purdom</actor>
+      <actor>Fabio Testi</actor>
       <actor>Livio Lorenzon</actor>
-      <writer>Guido Celano</writer>
-      <producer>Guido Celano</producer>
     </credits>
     <date>1968</date>
+    <category lang="ro">Film</category>
     <category lang="ro">Western</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/10/87/11/giuro-e-li-uccise-ad-uno-ad-uno-306041l-175x0-w-1223def1.jpg" />
+    <icon src="https://www.programetv.ro/img/shows/01/cb/domnul-piluk-un-pistolar-timid.jpg" />
+    <country lang="ro">Italia</country>
     <rating system="RO">
       <value>12</value>
     </rating>
-    <star-rating system="Imdb">
-      <value>5.6</value>
+    <star-rating system="IMDb">
+      <value>5.60</value>
     </star-rating>
   </programme>
-  <programme start="20230717220000 +0300" stop="20230717230000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717220000 +0300" stop="20230717225959 +0300" channel="Prima TV HD">
     <title lang="ro">Focus</title>
     <desc lang="ro">Emisiunea Focus este setată pe ştiri relevante pentru fiecare, pe informaţia esenţială, corectă şi obiectivă, pe poveşti şi fapte generatoare de plus-valoare în societate.(n)</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/eb/97/focus.jpg" />
   </programme>
-  <programme start="20230717230000 +0300" stop="20230718000000 +0300" channel="PrimaTV.ro">
+  <programme start="20230717230000 +0300" stop="20230717235959 +0300" channel="Prima TV HD">
     <title lang="ro">Sfântul Maik</title>
     <title lang="en">Sankt Maik</title>
-    <desc lang="ro">Cine este Maik Schäfer? Un mărunt şi simpatic hoţ! Încercând să scape de o urmărire şi de o arestare sigură, Maik reuşeşte să fure sutana unui preot adevărat! Astfel, vrând, nevrând, simpaticul pungaş ajunge în parohia catolică din Läuterberg, în locul vicarului Sanman. Noul venit se implică în problemele membrilor parohiei, într-o manieră neconvenţională, dar justă! Pe lângă problemele personale, Maik trebuie să-şi ajute şi fratele, blocat la Berlin, din cauza unei afaceri cu droguri şi o datorie!… citeşte.(n)</desc>
     <credits>
       <director>Sven Fehrensen</director>
-      <actor>Leon Seidel</actor>
-      <actor>Martin Hentschel</actor>
-      <actor>Franziska Arndt</actor>
-      <actor>Nadja Becker</actor>
-      <actor>Janina Flieger</actor>
-      <actor role="Elisabeth Kruse">Elisabeth Baulitz</actor>
-      <producer>Ulrike Leibfried</producer>
+      <director>Ulrike Hamacher</director>
+      <actor>Daniel Donskoy</actor>
+      <actor>Christian Skibinski</actor>
+      <actor>Vincent Krüger</actor>
     </credits>
     <date>2018</date>
+    <category lang="ro">Serial</category>
     <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/22/85/113/sankt-maik-846833l-175x0-w-6327c5db.jpg" />
+    <icon src="https://www.programetv.ro/img/shows/4a/cb/sfantul-maik.jpg" />
+    <country lang="ro">Germania</country>
     <rating system="RO">
-      <value>AP</value>
+      <value>ap</value>
     </rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
+    <star-rating system="IMDb">
+      <value>7.00</value>
     </star-rating>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717073000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
-  </programme>
-  <programme start="20230717073000 +0300" stop="20230717083000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.
-
-Un serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-  </programme>
-  <programme start="20230717083000 +0300" stop="20230717093000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
-  </programme>
-  <programme start="20230717093000 +0300" stop="20230717103000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">Inventivi și mereu puși pe glume, fizicienii Leonard Hofstadter (Johnny Galecki) și Sheldon Cooper (Jim Parsons) trăiesc într-o realitate doar a lor, încercând totuși să se adapteze unei lumi pe care, se pare, că nu prea o înțeleg. Inteligența celor doi contrastează puternic cu sociabilitatea și veleitățile de vedetă ale superbei lor vecine, Penny (Kaley Cuoco), de unde și o serie de întâmplări de-a dreptul amuzante într-o comedie care nu trebuie ratată.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor role="Charlie Sheen">Charlie Sheen</actor>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Alex Jensen">Margo Harshman</actor>
-      <actor role="dr. Oliver Lorvis">Billy Bob Thornton</actor>
-      <actor role="dr. Elizabeth Plimpton">Judy Greer</actor>
-      <actor role="Mikayla">Jodi Lyn O'Keefe</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/63/33/the-big-bang-theory-342047l-175x0-w-31c538fc.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717103000 +0300" stop="20230717113000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <actor role="Adam Sandler">Adam Sandler</actor>
-      <actor role="Sophia Perez / Sophia">Eva Longoria</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor role="Milton">Ryan Phillippe</actor>
-      <actor>Eric Roberts</actor>
-      <actor>Danny Trejo</actor>
-      <producer>David Hyman</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/58/99/25/brooklyn-nine-nine-322683l-175x0-w-3108c397.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717113000 +0300" stop="20230717123000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri..(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Will Smith / Self">Will Smith</actor>
-      <actor role="Michelle Michaels">Stacey Dash</actor>
-      <actor role="Maurice Perry / Jasmine Perry">Chris Rock</actor>
-      <actor role="Tiny">Michael Clarke Duncan</actor>
-      <actor role="Janet">Vivica A. Fox</actor>
-      <actor role="Dee Dee">Queen Latifah</actor>
-      <producer>Quincy Jones</producer>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/17/29/the-fresh-prince-of-bel-air-692776l-175x0-w-af811107.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717123000 +0300" stop="20230717130000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717140000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717150000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.
-
-Un serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717160000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
-  </programme>
-  <programme start="20230717160000 +0300" stop="20230717170000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">Inventivi și mereu puși pe glume, fizicienii Leonard Hofstadter (Johnny Galecki) și Sheldon Cooper (Jim Parsons) trăiesc într-o realitate doar a lor, încercând totuși să se adapteze unei lumi pe care, se pare, că nu prea o înțeleg. Inteligența celor doi contrastează puternic cu sociabilitatea și veleitățile de vedetă ale superbei lor vecine, Penny (Kaley Cuoco), de unde și o serie de întâmplări de-a dreptul amuzante într-o comedie care nu trebuie ratată.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor role="Charlie Sheen">Charlie Sheen</actor>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Alex Jensen">Margo Harshman</actor>
-      <actor role="dr. Oliver Lorvis">Billy Bob Thornton</actor>
-      <actor role="dr. Elizabeth Plimpton">Judy Greer</actor>
-      <actor role="Mikayla">Jodi Lyn O'Keefe</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/63/33/the-big-bang-theory-342047l-175x0-w-31c538fc.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717170000 +0300" stop="20230717180000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <actor role="Adam Sandler">Adam Sandler</actor>
-      <actor role="Sophia Perez / Sophia">Eva Longoria</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor role="Milton">Ryan Phillippe</actor>
-      <actor>Eric Roberts</actor>
-      <actor>Danny Trejo</actor>
-      <producer>David Hyman</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/58/99/25/brooklyn-nine-nine-322683l-175x0-w-3108c397.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717180000 +0300" stop="20230717190000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri..(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Will Smith / Self">Will Smith</actor>
-      <actor role="Michelle Michaels">Stacey Dash</actor>
-      <actor role="Maurice Perry / Jasmine Perry">Chris Rock</actor>
-      <actor role="Tiny">Michael Clarke Duncan</actor>
-      <actor role="Janet">Vivica A. Fox</actor>
-      <actor role="Dee Dee">Queen Latifah</actor>
-      <producer>Quincy Jones</producer>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/17/29/the-fresh-prince-of-bel-air-692776l-175x0-w-af811107.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717200000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717210000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Atelierul de Restaurare</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717220000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Magnum, detectiv particular</title>
-    <title lang="en">Magnum P.I.</title>
-    <desc lang="ro">Thomas Magnum, fost pușcaș marin, revine acasă din Afganistan și își folosește abilitățile și cunoștințele militare pentru a deveni investigator particular în Hawaii.(n)</desc>
-    <credits>
-      <director>Justin Lin</director>
-      <actor role="Gene Curtis / Ivan">Peter Facinelli</actor>
-      <actor role="detectivul Tanaka">Sung Kang</actor>
-      <actor role="Thomas Magnum">Jay Hernandez</actor>
-      <actor role="Megan McGrady">Helena Mattsson</actor>
-      <actor role="Detective Gordon Katsumoto">Tim Kang</actor>
-      <actor role="Eve">Marsha Thomason</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/24/41/081/magnum-pi-352767l-175x0-w-f2a66916.jpg" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="RO">
-      <value>12</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717220000 +0300" stop="20230718000000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Cobra 11 în alertă</title>
-    <title lang="en">Alarm für Cobra 11 - Die Autobahnpolizei</title>
-    <desc lang="ro">Episoadele prezintă cazurile unei patrule de ofițeri, de pe autostrăzile din Germania, care trebuie să facă față celor mai spectaculoase urmări de mașini, explozii și focuri de armă. Cei doi ofițeri trebuie să-i oprească pe cei mai periculoși criminali și să ducă la bun sfârșit toate misiunile la care iau parte pentru a asigura protecția celor care circulă pe autostradă.(n)</desc>
-    <credits>
-      <director>Arend Agthe</director>
-      <actor role="Lara Degen">Cosma Shiva Hagen</actor>
-      <actor role="Lisa Lichtenberg">Jennifer Ulrich</actor>
-      <actor role="Robert Michalke">Thomas Kretschmann</actor>
-      <actor role="Laura Andress">Bettina Zimmermann</actor>
-      <actor role="Andrea de Sand">Sandra Leonhard</actor>
-      <actor role="Hanna">Jana Pallaske</actor>
-      <producer>Dirk Eggers</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/83/10/alarm-fur-cobra-11-die-autobahnpolizei-608618l-175x0-w-237947b7.jpg" />
-    <rating system="RO">
-      <value>12</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717090000 +0300" channel="Digi24.ro">
-    <title lang="ro">Digimatinal</title>
-  </programme>
-  <programme start="20230717090000 +0300" stop="20230717120000 +0300" channel="Digi24.ro">
-    <title lang="ro">Știrile dimineții</title>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717150000 +0300" channel="Digi24.ro">
-    <title lang="ro">Știrile amiezii</title>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717160000 +0300" channel="Digi24.ro">
-    <title lang="ro">Studio politic</title>
-  </programme>
-  <programme start="20230717160000 +0300" stop="20230717190000 +0300" channel="Digi24.ro">
-    <title lang="ro">Știrile zilei</title>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717195000 +0300" channel="Digi24.ro">
-    <title lang="ro">Business Club</title>
-    <desc lang="ro">Stelian Muscalu, prezentatorul emisiunii, descifrează publicului larg tainele economiei şi ale lumii afacerilor. Fie că eşti sau nu un specialist în bănci sau finanţe, această emisiune îţi lămureşte nedumeririle şi îţi răspunde tuturor întrebărilor.(n)</desc>
-  </programme>
-  <programme start="20230717195000 +0300" stop="20230717200000 +0300" channel="Digi24.ro">
-    <title lang="ro">Știri sport</title>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717230000 +0300" channel="Digi24.ro">
-    <title lang="ro">Jurnalul de seară</title>
-    <desc lang="ro">Dominantele actualităţii plus opiniile invitaţilor Digi24. O emisiune prezentată de Cosmin Prelipceanu.(n)</desc>
-  </programme>
-  <programme start="20230717230000 +0300" stop="20230718010000 +0300" channel="Digi24.ro">
-    <title lang="ro">Știrile serii</title>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717080000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717080000 +0300" stop="20230717090000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717090000 +0300" stop="20230717100000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717110000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717110000 +0300" stop="20230717120000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717130000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717150000 +0300" channel="B1TV.ro">
-    <title lang="ro">News Pass</title>
-    <desc lang="ro">Talk show în care sunt analizate principalele știri ale zilei. Emisiune moderată de jurnalista Laura Chiriac.(n)</desc>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717160000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717160000 +0300" stop="20230717180000 +0300" channel="B1TV.ro">
-    <title lang="ro">Politica zilei</title>
-    <desc lang="ro">cu Ioana Constantin.(n)</desc>
-  </programme>
-  <programme start="20230717180000 +0300" stop="20230717200000 +0300" channel="B1TV.ro">
-    <title lang="ro">Bună, România!</title>
-    <desc lang="ro">Radu Buzăianu și Răzvan Zamfir dezbat principalele subiecte ale zilei, într-un stil personal, emisiunea oferind o perspectivă satirică asupra evenimentelor de pe scena politică, dar și din societatea românească.(n)</desc>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717210000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717230000 +0300" channel="B1TV.ro">
-    <title lang="ro">Actualitatea</title>
-    <desc lang="ro">cu Tudor Mușat.(n)</desc>
-  </programme>
-  <programme start="20230717230000 +0300" stop="20230718000000 +0300" channel="B1TV.ro">
-    <title lang="ro">Știrile B1</title>
-    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
-  </programme>
-  <programme start="20230717080000 +0300" stop="20230717090000 +0300" channel="Acasa.ro">
-    <title lang="ro">Jocurile sorții</title>
-    <title lang="en">Baht Oyunu</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Serdar Gözelekli</director>
-      <actor>Idris Nebi Taskan</actor>
-      <actor>Cemre Baysel</actor>
-      <actor>Altan Erkekli</actor>
-      <actor>Hande Subasi</actor>
-      <actor>Anil Çelik</actor>
-      <actor>Murat Balci</actor>
-      <producer>Serkan Hasekioglu</producer>
-    </credits>
-    <date>2021</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717090000 +0300" stop="20230717100000 +0300" channel="Acasa.ro">
-    <title lang="ro">Trei surori</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717120000 +0300" channel="Acasa.ro">
-    <title lang="ro">Drumul catre tine</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717130000 +0300" channel="Acasa.ro">
-    <title lang="ro">Mereu in gandul meu</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717150000 +0300" channel="Acasa.ro">
-    <title lang="ro">Întâlnirea cu destinul</title>
-    <title lang="en">Piel Salvaje</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>César Manzano</director>
-      <actor role="Patricia Aragón de La Rosa">Estefanía López</actor>
-      <actor role="Roger Aragón de la Rosa">César Román Bolívar</actor>
-      <actor role="Patricia Aragón de La Rosa">Kiara</actor>
-      <actor role="Octavia Esquivel">Flávia Gleske</actor>
-      <actor>Frank Gerrish(role= Fausto
- -2016))</actor>
-      <actor>Barbara Scolaro(role= Octavia
- -2016))</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>7.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717170000 +0300" channel="Acasa.ro">
-    <title lang="ro">Pe aripi de vis</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717170000 +0300" stop="20230717190000 +0300" channel="Acasa.ro">
-    <title lang="ro">Drumul catre tine</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717210000 +0300" channel="Acasa.ro">
-    <title lang="ro">Iubirea are numele tau</title>
-    <title lang="en">Adini sen koy</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Mahir Aktas</director>
-      <actor role="Ömer">Erkan Meriç</actor>
-      <actor role="Zeliha">Özge Yagiz</actor>
-      <actor role="Zehra">Hazal Subasi</actor>
-      <actor>Ali Yagci</actor>
-      <actor role="Müzeyyen">Fatma Karanfil</actor>
-      <actor role="2 episodes">Nisa Sofiya Aksongur</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="ro">Romantic</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>4.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717220000 +0300" channel="Acasa.ro">
-    <title lang="ro">Jocurile sorții</title>
-    <title lang="en">Baht Oyunu</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Serdar Gözelekli</director>
-      <actor>Idris Nebi Taskan</actor>
-      <actor>Cemre Baysel</actor>
-      <actor>Altan Erkekli</actor>
-      <actor>Hande Subasi</actor>
-      <actor>Anil Çelik</actor>
-      <actor>Murat Balci</actor>
-      <producer>Serkan Hasekioglu</producer>
-    </credits>
-    <date>2021</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717220000 +0300" stop="20230717230000 +0300" channel="Acasa.ro">
-    <title lang="ro">Trei surori</title>
-    <episode-num system="onscreen">S2 E87</episode-num>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717230000 +0300" stop="20230718000000 +0300" channel="Acasa.ro">
-    <title lang="ro">Rămâi lângă mine</title>
-    <title lang="en">Her Yerde Sen</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Ender Mihlar</director>
-      <actor>Furkan Andic</actor>
-      <actor>Ecem Ãzkaya</actor>
-      <actor>Beste Kökdemir</actor>
-      <actor>Aybüke Pusat</actor>
-      <actor>Ali Yagci</actor>
-      <actor>Ali Barkin</actor>
-      <producer>Emre Sahin</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="ro">Romantic</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717070000 +0300" stop="20230717100000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Vorbeşte lumea</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20230717100000 +0300" stop="20230717113000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Daria, iubirea mea</title>
-    <desc lang="ro">Dan Nichita (Adrian Ștefan) este un tânăr cântăreț rock ce gustă succesul, apreciază plăcerile vieții și mai ales aventurile amoroase. El trăiește clipa știind că în spate are un tată puternic, pe Alexandru Nichita (Adrian Pintea), patronul unui lanț de cazinouri, care și-ar dori ca fiul său să devină mai responsabil și mai serios. Ceea ce nu va reusi tatăl poate va reusi iubirea? Pentru că Dan se va îndrăgosti de Daria (Victoria… citeşte.(n)</desc>
-    <credits>
-      <director>Alex Fotea</director>
-      <actor role="Vanda">Loredana Groza</actor>
-      <actor role="Dr. Serban">Denis Ștefan</actor>
-      <actor role="Andi Nichita">Alexandru Papadopol</actor>
-      <actor>Sebastian Papaiani</actor>
-      <actor>Tora Vasilescu</actor>
-      <actor role="Lilisor">Bianca Neagu</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/01/62/25/daria-iubirea-mea-785364l-175x0-w-91690f29.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.6</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>3.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717113000 +0300" stop="20230717130000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Totul pentru iubire</title>
-    <title lang="en">Quererlo todo</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Claudia Eliza Aguilar</director>
-      <actor>Mimi Morales</actor>
-      <actor>Eugenia Cauduro</actor>
-      <actor>Scarlet Gruber</actor>
-      <actor>Alexis Ayala</actor>
-      <actor>Roberto Blandón</actor>
-      <actor>Luz María Jerez</actor>
-      <producer>Arturo Pedraza</producer>
-    </credits>
-    <date>2020</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/31/03/317/quererlo-todo-966854l-175x0-w-c4bb018e.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.3</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717140000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Dragoste infinită</title>
-    <title lang="en">Kara Sevda</title>
-    <desc lang="ro">Serialul “Dragoste infinita” (“Kara Sevda”) aduce in fata telespectatorilor o poveste de dragoste, doi tineri din doua lumi si diferite care se indragostesc iremediabil. Kemal (Burak Özçivit), student in ultimul an la inginerie miniera, este unul dintre cei trei copii ai unei familii din clasa mijlocie. Singurul lui tel in viata este sa isi castige existenta si sa supravietuiasca vicisitudinilor. Fiind o fire rationala, acesta nu crede in miracole, si cu atat mai mult in miracolul dragostei. Insa lumea lui… citeşte.(n)</desc>
-    <credits>
-      <director>Hilal Saral</director>
-      <actor role="Kemal Soydere">Burak Özçivit</actor>
-      <actor role="Nihan">Neslihan Atagül</actor>
-      <actor role="Emir">Kaan Urgancioglu</actor>
-      <actor role="Leyla">Zerrin Tekindor</actor>
-      <actor role="Asu">Melisa Pamuk</actor>
-      <actor>Gizem Karaca</actor>
-      <producer>Kerem Çatay</producer>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/99/30/99/kara-sevda-330200l-175x0-w-10dad0ad.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>9.3</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717150000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Pecetea iubirii</title>
-    <title lang="en">Ishq Ka Rang Safed</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Eisha Singh</director>
-      <actor role="Indrani">Pratima Kazmi</actor>
-      <actor role="Mahant Dashrath Tripathi">Arun Bakshi</actor>
-      <actor role="Viplav Tripathi">Mishal Raheja</actor>
-      <actor role="Sushma Tripathi">Vidya Sinha</actor>
-      <actor role="Dhaani">Eisha Singh</actor>
-      <actor role="Durga Dashrath Tripathi (2015-2016)">Shubhangi Latkar</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Romantic</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717150000 +0300" stop="20230717160000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Inimă trădată</title>
-    <title lang="en">Corazón Traicionado</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <actor>Norkys Batista</actor>
-      <actor role="Alberto Corona Sotillo">Cristóbal Lander</actor>
-      <actor role="Carmen Ramírez">Estefanía López</actor>
-      <actor>Carmen Alicia Lara</actor>
-      <actor>Barbara Scolaro</actor>
-      <actor role="Alfonso Valeria">Saúl Marín</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>7.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717160000 +0300" stop="20230717170000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Intrusa</title>
-    <title lang="en">La intrusa</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <director>Jaime Chavarri</director>
-      <actor>Rosario Flores</actor>
-      <actor role="Gracia">Amparo Muñoz</actor>
-      <writer>Raúl de la Torre</writer>
-      <producer>Andrés Vicente Gómez</producer>
-    </credits>
-    <date>1993</date>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>5.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717170000 +0300" stop="20230717180000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Daria, iubirea mea</title>
-    <desc lang="ro">Dan Nichita (Adrian Ștefan) este un tânăr cântăreț rock ce gustă succesul, apreciază plăcerile vieții și mai ales aventurile amoroase. El trăiește clipa știind că în spate are un tată puternic, pe Alexandru Nichita (Adrian Pintea), patronul unui lanț de cazinouri, care și-ar dori ca fiul său să devină mai responsabil și mai serios. Ceea ce nu va reusi tatăl poate va reusi iubirea? Pentru că Dan se va îndrăgosti de Daria (Victoria… citeşte.(n)</desc>
-    <credits>
-      <director>Alex Fotea</director>
-      <actor role="Vanda">Loredana Groza</actor>
-      <actor role="Dr. Serban">Denis Ștefan</actor>
-      <actor role="Andi Nichita">Alexandru Papadopol</actor>
-      <actor>Sebastian Papaiani</actor>
-      <actor>Tora Vasilescu</actor>
-      <actor role="Lilisor">Bianca Neagu</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/01/62/25/daria-iubirea-mea-785364l-175x0-w-91690f29.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.6</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>3.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717180000 +0300" stop="20230717190000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Dragoste și pedeapsă</title>
-    <title lang="en">Ask ve ceza</title>
-    <desc lang="ro">Yasemin (Nurgül Yesilçay) este o tânără de 25 de ani care se pregătește să se căsătorească. Însă, înainte de nuntă cu o săptămână, îl surprinde pe viitorul ei soț în pat cu prietena ei. Pentru că sora cea mică a lui Yasemin a rămas însărcinată de tânără și a murit în urma unei întreruperi de sarcină, tatăl ei, înainte de a muri, a pus-o pe Yasemin să jure că nu va fi cu nimeni înainte de căsătorie. Ea a încercat să își țină promisiunea făcută, însă din… citeşte.(n)</desc>
-    <credits>
-      <director>Kudret Sabanci</director>
-      <actor role="Savas Baldar">Murat Yildirim</actor>
-      <actor role="Yasemin">Nurgül Yesilçay</actor>
-      <actor role="Sahnur Baldar">Tomris Incer</actor>
-      <actor role="Nazan">Gökçe Yanardag</actor>
-      <actor role="Çiçek Baldar">Feride Çetin</actor>
-      <actor role="Nadja">Zeynep Beserler</actor>
-      <producer>Erol Avci</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/56/63/42/ask-ve-ceza-849011l-175x0-w-03e5408a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>5.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717200000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Dragoste infinită</title>
-    <title lang="en">Kara Sevda</title>
-    <desc lang="ro">Serialul “Dragoste infinita” (“Kara Sevda”) aduce in fata telespectatorilor o poveste de dragoste, doi tineri din doua lumi si diferite care se indragostesc iremediabil. Kemal (Burak Özçivit), student in ultimul an la inginerie miniera, este unul dintre cei trei copii ai unei familii din clasa mijlocie. Singurul lui tel in viata este sa isi castige existenta si sa supravietuiasca vicisitudinilor. Fiind o fire rationala, acesta nu crede in miracole, si cu atat mai mult in miracolul dragostei. Insa lumea lui… citeşte.(n)</desc>
-    <credits>
-      <director>Hilal Saral</director>
-      <actor role="Kemal Soydere">Burak Özçivit</actor>
-      <actor role="Nihan">Neslihan Atagül</actor>
-      <actor role="Emir">Kaan Urgancioglu</actor>
-      <actor role="Leyla">Zerrin Tekindor</actor>
-      <actor role="Asu">Melisa Pamuk</actor>
-      <actor>Gizem Karaca</actor>
-      <producer>Kerem Çatay</producer>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/99/30/99/kara-sevda-330200l-175x0-w-10dad0ad.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>9.3</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717210000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Inimă trădată</title>
-    <title lang="en">Corazón Traicionado</title>
-    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
-    <credits>
-      <actor>Norkys Batista</actor>
-      <actor role="Alberto Corona Sotillo">Cristóbal Lander</actor>
-      <actor role="Carmen Ramírez">Estefanía López</actor>
-      <actor>Carmen Alicia Lara</actor>
-      <actor>Barbara Scolaro</actor>
-      <actor role="Alfonso Valeria">Saúl Marín</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Imdb">
-      <value>7.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717220000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Santa Diabla</title>
-    <desc lang="ro">Viata Santei Martinez (Gaby Espino) se schimba in mod neasteptat din ziua in care sotul sau Willy, care este profesor de muzica, incepe cursurile particulare cu Daniela. Atunci incepe cel mai mare cosmar al vietii sale. Mama Danielei se indragosteste de Willy in mod obsesiv, dar acesta o respinge. In acelasi timp, Willy descopera ca Daniela este dependenta de droguri. Cele doua pun la cale un scenariu diabolic si il acuza pe Willy de abuz sexual, desi el este nevinovat. Dupa un timp, procesul se incheie… citeşte.(n)</desc>
-    <credits>
-      <director>Luis Manzo</director>
-      <actor>Gaby Espino</actor>
-      <actor>Carlos Ponce</actor>
-      <actor>Aarón Díaz</actor>
-      <actor role="InÃ©s Robledo">Ximena Duque</actor>
-      <actor role="Victoria Coletti">Frances Ondiviela</actor>
-      <actor role="Franco GarcÃ­a Herrera">Christian de la Campa</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/59/03/21/santa-diabla-824641l-175x0-w-d0f268cc.png" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.5</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.5</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717220000 +0300" stop="20230717230000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Iubire și onoare</title>
-    <desc lang="ro">Iubire și onoare este povestea unei iubiri adevărate care are de înfruntat prejudecățile și resentimentele a două lumi: orientală și europeană. Ilinca este o fată modernă, care visează la o carieră de succes în PR și crede că iubirea adevărată poate fi întâlnită și în realitate, nu doar în poveștile pe care le asculta când era mică. Ea are o relație cu un tânăr din București, Cătălin, căruia îi place să trăiască viața la limită. Catalin s-a descurcat pe forțele… citeşte.(n)</desc>
-    <credits>
-      <director>Iura Luncașu</director>
-      <actor role="Carmen">Adela Popescu</actor>
-      <actor role="Oxana Abramova">Diana Dumitrescu</actor>
-      <actor role="Soraya el Jisr">Nicoleta Luciu</actor>
-      <actor role="Amina Hammoud">Alina Chivulescu</actor>
-      <actor role="Noor el Jisr">Cristina Ciobănașu</actor>
-      <actor role="Gina Florescu">Gina Pistol</actor>
-      <producer>Ruxandra Ion</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/55/90/26/iubire-si-onoare-717417l-175x0-w-ca6ccf7a.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>5.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717230000 +0300" stop="20230718000000 +0300" channel="AcasaGold.ro">
-    <title lang="ro">Dragoste infinită</title>
-    <title lang="en">Kara Sevda</title>
-    <desc lang="ro">Serialul “Dragoste infinita” (“Kara Sevda”) aduce in fata telespectatorilor o poveste de dragoste, doi tineri din doua lumi si diferite care se indragostesc iremediabil. Kemal (Burak Özçivit), student in ultimul an la inginerie miniera, este unul dintre cei trei copii ai unei familii din clasa mijlocie. Singurul lui tel in viata este sa isi castige existenta si sa supravietuiasca vicisitudinilor. Fiind o fire rationala, acesta nu crede in miracole, si cu atat mai mult in miracolul dragostei. Insa lumea lui… citeşte.(n)</desc>
-    <credits>
-      <director>Hilal Saral</director>
-      <actor role="Kemal Soydere">Burak Özçivit</actor>
-      <actor role="Nihan">Neslihan Atagül</actor>
-      <actor role="Emir">Kaan Urgancioglu</actor>
-      <actor role="Leyla">Zerrin Tekindor</actor>
-      <actor role="Asu">Melisa Pamuk</actor>
-      <actor>Gizem Karaca</actor>
-      <producer>Kerem Çatay</producer>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/99/30/99/kara-sevda-330200l-175x0-w-10dad0ad.jpg" />
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>9.3</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230717080000 +0300" stop="20230717130000 +0300" channel="MTVHits.ro">
-    <title lang="ro">MTV Top 20</title>
-    <desc lang="ro">Let's take a look at some of the biggest hits that are circulating the globe right now in this top 20 countdown!(n)</desc>
-  </programme>
-  <programme start="20230717130000 +0300" stop="20230717140000 +0300" channel="MTVHits.ro">
-    <title lang="ro">Today's Top Hits</title>
-    <desc lang="ro">Check out today's biggest tracks and hottest hits!(n)</desc>
-  </programme>
-  <programme start="20230717140000 +0300" stop="20230717160000 +0300" channel="MTVHits.ro">
-    <title lang="ro">Totally 10s!</title>
-    <desc lang="ro">All the hits from the 10s in one place - what more could you want?(n)</desc>
-  </programme>
-  <programme start="20230717160000 +0300" stop="20230717170000 +0300" channel="MTVHits.ro">
-    <title lang="ro">OneRepublic: Headliners of Isle...</title>
-    <desc lang="ro">... of MTV Malta 2023! They are headlining Isle Of MTV Malta this year and we couldn't be more excited! Check out the biggest hits from OneRepublic right now!(n)</desc>
-  </programme>
-  <programme start="20230717170000 +0300" stop="20230717190000 +0300" channel="MTVHits.ro">
-    <title lang="ro">Totally 10s!</title>
-    <desc lang="ro">All the hits from the 10s in one place - what more could you want?(n)</desc>
-  </programme>
-  <programme start="20230717190000 +0300" stop="20230717210000 +0300" channel="MTVHits.ro">
-    <title lang="ro">Worldwide Hits</title>
-    <desc lang="ro">We've got a playlist filled with the hottest hits that have taken over the world!(n)</desc>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717220000 +0300" channel="MTVHits.ro">
-    <title lang="ro">MTV Top 20</title>
-    <desc lang="ro">Let's take a look at some of the biggest hits that are circulating the globe right now in this top 20 countdown!(n)</desc>
-  </programme>
-  <programme start="20230717220000 +0300" stop="20230717230000 +0300" channel="MTVHits.ro">
-    <title lang="ro">Totally 10s!</title>
-    <desc lang="ro">All the hits from the 10s in one place - what more could you want?(n)</desc>
-  </programme>
-  <programme start="20230717230000 +0300" stop="20230718020000 +0300" channel="MTVHits.ro">
-    <title lang="ro">Worldwide Hits</title>
-    <desc lang="ro">We've got a playlist filled with the hottest hits that have taken over the world!(n)</desc>
-  </programme>
-  <programme start="20230717075000 +0300" stop="20230717084500 +0300" channel="history">
-    <title lang="ro">Așii Amanetului cutreieră America</title>
-    <sub-title lang="ro">Vedete singuratice</sub-title>
-    <desc lang="ro">Rick, Corey și Chum sunt gata să o facă lată în Texas. Cu ajutorul unor însoțitori de încredere, ei speră să strângă câteva nestemate. Pe parcurs vor cânta rock and roll cu o colecție de chitare clasice, și rock simplu cu niște fosile fascinante.(n)</desc>
-  </programme>
-  <programme start="20230717084500 +0300" stop="20230717094000 +0300" channel="history">
-    <title lang="ro">Comori scufundate</title>
-    <sub-title lang="ro">Urgență</sub-title>
-    <desc lang="ro">Răspunzând unui apel de urgență, Northstar Marine vrea să salveze un remorcher scufundat în golful Delaware. În urma devastării cauzate de uraganul Sally, echipajele lucrează pentru a salva bărcile cu pânze scufundate și bărcile cu motor naufragiate.(n)</desc>
-  </programme>
-  <programme start="20230717094000 +0300" stop="20230717100500 +0300" channel="history">
-    <title lang="ro">Aşii amanetului</title>
-    <sub-title lang="ro">Apel de trezire</sub-title>
-    <desc lang="ro">Un Amphicar 770 din 1964 e adus la amanet, iar Corey și Chum văd un inel de la campionatul național de popice din 1939. Rick pariază că Chum și Corey nu pot rezista o zi fără telefoanele lor mobile.(n)</desc>
-  </programme>
-  <programme start="20230717100500 +0300" stop="20230717103500 +0300" channel="history">
-    <title lang="ro">Aşii amanetului</title>
-    <sub-title lang="ro">Sistemul lui Chum</sub-title>
-    <desc lang="ro">Un baston care i-a aparținut președintelui Ulysses S Grant este adus la amanet. Corey și Chum verifică o colecție de abțibilduri pentru plăci de skateboard. Și Chum vrea să-i arate lui Rick că are atenție distributivă.(n)</desc>
-  </programme>
-  <programme start="20230717103500 +0300" stop="20230717110500 +0300" channel="history">
-    <title lang="ro">Războiul depozitelor: Texas</title>
-    <sub-title lang="ro">Tyler, Texas</sub-title>
-    <desc lang="ro">Lesa se înfurie în timp ce caută obiecte de artă și mobilier. Între timp, Roy pare că se va îmbogăți datorită unei broșuri din anii 1970 a unui parc de distracții.(n)</desc>
-  </programme>
-  <programme start="20230717110500 +0300" stop="20230717113500 +0300" channel="history">
-    <title lang="ro">Războiul depozitelor: Texas</title>
-    <sub-title lang="ro">Cowboy și indieni din Dallas</sub-title>
-    <desc lang="ro">În Fort Worth, un cowboy legendar îi ajută pe ofertanți. Lesa descoperă o armă care ar putea să-l zdrobească pe rivalul ei din New York.(n)</desc>
-  </programme>
-  <programme start="20230717113500 +0300" stop="20230717120000 +0300" channel="history">
-    <title lang="ro">Războiul depozitelor: Texas</title>
-    <sub-title lang="ro">a cumpărat pe JFK?</sub-title>
-    <desc lang="ro">Un cumpărător găsește un obiect unic de istorie americană. Între timp, Victor se alege cu o ladă promițătoare, dar îi poate găsi cheia?(n)</desc>
-  </programme>
-  <programme start="20230717120000 +0300" stop="20230717122500 +0300" channel="history">
-    <title lang="ro">Războiul depozitelor: Texas</title>
-    <sub-title lang="ro">Încăierare la licitație</sub-title>
-    <desc lang="ro">Ofertanții cântăresc avantajele și dezavantajele a două cartiere foarte diferite. Lesa își arată ghearele când se luptă cu un tânăr cumpărător sexy.(n)</desc>
-  </programme>
-  <programme start="20230717122500 +0300" stop="20230717125500 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 17</sub-title>
-    <desc lang="ro">Un deznodământ uluitor într-una dintre cele mai ciudate arestări de la frontieră. Un cuplu în luna de miere din Cehia, cu un volum impresionant de bagaje, e interogat, dar femeia leșină, iar ritmul investigației e accelerat.(n)</desc>
-  </programme>
-  <programme start="20230717125500 +0300" stop="20230717132500 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 18</sub-title>
-    <desc lang="ro">Doi englezi în stare de ebrietate coborâți de pe un avion de Poliția de Frontieră se pare că au consumat și altceva pe lângă alcool. Un pachet denumit „role din oțel” la scanare prezintă materie organică la Centrul de Corespondență din Sydney.(n)</desc>
-  </programme>
-  <programme start="20230717132500 +0300" stop="20230717135000 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 19</sub-title>
-    <desc lang="ro">O operațiune de amploare care vizează contrabanda cu droguri culminează cu un raid al polițiștilor de frontieră. Ofițerii de la biosecuritate suspectează un cuplu din Nepal care ar putea ascunde ceva și astfel găsesc ceva absolut șocant.(n)</desc>
-  </programme>
-  <programme start="20230717135000 +0300" stop="20230717142000 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 20</sub-title>
-    <desc lang="ro">Unitatea de Prevenire a Terorismului e în alertă maximă când un pasager face o declarație alarmantă. O femeie din Indonezia a ascuns ceva dezgustător, fapt care ar putea fi devastator pentru biosecuritatea australiană.(n)</desc>
-  </programme>
-  <programme start="20230717142000 +0300" stop="20230717151500 +0300" channel="history">
-    <title lang="ro">Aşii amanetului</title>
-    <sub-title lang="ro">Afacerea de un milion</sub-title>
-    <desc lang="ro">O scrisoare semnată de la un fost președinte american i-a făcut pe Rick și pe Corey să-l laude pe Sammy Davis Jr. Va primi aprobarea lor oficială? Apoi, un ou uriaș ajunge la Rick. Va cloci un plan să-l cumpere, înainte să-l scape?(n)</desc>
-  </programme>
-  <programme start="20230717151500 +0300" stop="20230717154000 +0300" channel="history">
-    <title lang="ro">Aşii amanetului</title>
-    <sub-title lang="ro">Samuraii amanetului</sub-title>
-    <desc lang="ro">Știm că Așilor Amanetului le place să taie în carne vie, dar ce se va întâmpla când Chum vede trei săbii japoneze de samurai? Apoi, Corey vrea să cumpere un măgăruș de pluș Steiff și Rick primește un poster de propagandă din Primul Război Mondial.(n)</desc>
-  </programme>
-  <programme start="20230717154000 +0300" stop="20230717161000 +0300" channel="history">
-    <title lang="ro">Aşii amanetului</title>
-    <sub-title lang="ro">Tomul vrăjitoarelor</sub-title>
-    <desc lang="ro">Un exemplar din secolul XVIII al cărții "Procesul vrăjitoarelor" ia în stăpânire magazinul. Dar se va dovedi oare magic sau blestemat? Apoi, băieții primesc o manșă de la un avion din secolul XX și văd o mașină restaurată din "Lumea lui Wayne".(n)</desc>
-  </programme>
-  <programme start="20230717161000 +0300" stop="20230717164000 +0300" channel="history">
-    <title lang="ro">Aşii amanetului</title>
-    <sub-title lang="ro">Dolari și necazuri</sub-title>
-    <desc lang="ro">Rick primește un jerseu de antrenament semnat de "Mamba Neagră" însuși, Kobe Bryant. Apoi, Rick îngroapă securea războiului cu un client, iar Corey ar putea să "plece din Las Vegas" când își cumpără din impuls volumul favorit.(n)</desc>
-  </programme>
-  <programme start="20230717164000 +0300" stop="20230717171000 +0300" channel="history">
-    <title lang="ro">Aşii amanetului</title>
-    <sub-title lang="ro">Înapoi în viitor</sub-title>
-    <desc lang="ro">Lui Rick i se oferă un amplificator Marshall din 1973 cu toate piesele originale, dar va suna oare la fel de bine pe cât arată? Apoi, Corey și Chum se întorc în viitor cu un hoverboard semnat de echipa filmului omonim.(n)</desc>
-  </programme>
-  <programme start="20230717171000 +0300" stop="20230717180500 +0300" channel="history">
-    <title lang="ro">Case vechi readuse la viaţă</title>
-    <sub-title lang="ro">Casa Campbell</sub-title>
-    <desc lang="ro">Duke s-a întors și e gata să renoveze multe case cu Keith și Alynne. Echipa verifică o proprietate de epocă într-un cartier dezirabil care are nevoie de o renovare destul de amplă. Echipa noastră trebuie să decidă dacă renovează sau demolează casa.(n)</desc>
-  </programme>
-  <programme start="20230717180500 +0300" stop="20230717183500 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 9</sub-title>
-    <desc lang="ro">Un vietnamez e reținut când se găsesc urme de amfetamine pe niște sticle suspecte pe care le poartă. Un bărbat e prins făcând contrabandă cu animale sălbatice în chiloți. Traficanții de droguri încearcă să ascundă un transport în ciocane pneumatice.(n)</desc>
-  </programme>
-  <programme start="20230717183500 +0300" stop="20230717190500 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 10</sub-title>
-    <desc lang="ro">Testele pentru cocaină îi face pe ofițeri să suspecteze că un marocan ar putea încerca să facă contrabandă cu narcotice. Un transport masiv de narcotice e descoperit într-un loc neașteptat, când ofițeri descoperă o grupare criminală internațională.(n)</desc>
-  </programme>
-  <programme start="20230717190500 +0300" stop="20230717193000 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 11</sub-title>
-    <desc lang="ro">Descoperirea unei genți misterioase dezvăluie în cele din urmă adevărul din spatele minciunilor și înșelăciunii unui impostor. Testele de droguri declanșează o căutare intensă a bunurilor unui bărbat, ducând la o reacție explozivă.(n)</desc>
-  </programme>
-  <programme start="20230717193000 +0300" stop="20230717200000 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 12</sub-title>
-    <desc lang="ro">Când se găsesc urme de cocaină pe bunurile unei familii care se întoarce din America de Sud, unul dintre ei face o mărturisire. S-a descoperit că doi călători chinezi au o varietate de obiecte cu risc ridicat ascunse în bunurile lor.(n)</desc>
-  </programme>
-  <programme start="20230717200000 +0300" stop="20230717210000 +0300" channel="history">
-    <title lang="ro">Arme născute din foc</title>
-    <sub-title lang="ro">Dinții sabiei Tegha</sub-title>
-    <desc lang="ro">Patru fierari au misiunea de a făuri lame în stil propriu din oțel provenit dintr-o mașină arsă. După câteva runde de ars cauciucuri, doi dintre ei sunt trimiși acasă pentru a crea sabia zimțată Tegha.(n)</desc>
-  </programme>
-  <programme start="20230717210000 +0300" stop="20230717220000 +0300" channel="history">
-    <title lang="ro">Comori scufundate</title>
-    <sub-title lang="ro">Avion prăbușit</sub-title>
-    <desc lang="ro">Chris Ward și Josh Moreira și-au propus să salveze o aeronavă ușoară de pe fundul mării, iar Jeremy Birch înfruntă condițiile arctice pentru a salva două nave care au căzut pradă gheții.(n)</desc>
-  </programme>
-  <programme start="20230717220000 +0300" stop="20230717230000 +0300" channel="history">
-    <title lang="ro">Vânătorii de recompense</title>
-    <sub-title lang="ro">Vânătoare în Huntsville</sub-title>
-    <desc lang="ro">Dog o suspectează pe Beth că nu s-a dus la doctor, în timp ce fiul lui Leland se angajează în prima sa vânătoare de recompense, iar un raid în timpul zilei pe proprietatea unui fugar dă rezultate.(n)</desc>
-  </programme>
-  <programme start="20230717230000 +0300" stop="20230717232500 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 3</sub-title>
-    <desc lang="ro">Polițiștii australieni de frontieră de la Centrul Internațional de Corespondență din Sydney, care examinează coletele care intră în țară, dau peste o cutie ciudată din Malaezia care dezvăluie ceva înspăimântător.(n)</desc>
-  </programme>
-  <programme start="20230717232500 +0300" stop="20230717235500 +0300" channel="history">
-    <title lang="ro">Securitatea graniței</title>
-    <sub-title lang="ro">episodul 4</sub-title>
-    <desc lang="ro">Unei femei care călătorește dinspre Vietnam i se verifică bagajul în care se află cantități de cafea, șampon, săruri de baie, ceai și iaurt, doar că un praf roz nisipos va declanșa alerta polițiștilor.(n)</desc>
-  </programme>
-  <programme start="20230717235500 +0300" stop="20230718005000 +0300" channel="history">
-    <title lang="ro">Așii Amanetului cutreieră America</title>
-    <sub-title lang="ro">Farmec sudic</sub-title>
-    <desc lang="ro">Rick, Corey și Chum merg în sud, în timp ce se îndreaptă spre Savannah, Georgia. Trio-ul va fi fermecat de un truc magic periculos, un hotel înfricoșător și o piatră funerară infamă, în timp ce fac afaceri în cel mai bântuit oraș din America.(n)</desc>
   </programme>
 </tv>
