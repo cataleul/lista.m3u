@@ -1,64 +1,64 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="PRO TV HD">
+  <channel id="ProTV.ro">
     <display-name lang="ro">PRO TV HD</display-name>
     <icon src="https://static.cinemagia.ro/img/tv_station/pro-tv-hd.jpg" />
     <url>http://www.programetv.ro</url>
   </channel>
-  <channel id="Prima TV HD">
+  <channel id="PrimaTV.ro">
     <display-name lang="ro">Prima TV HD</display-name>
     <icon src="https://static.cinemagia.ro/img/tv_station/prima-tv-hd.jpg" />
     <url>http://www.programetv.ro</url>
   </channel>
-  <programme start="20230717070000 +0300" stop="20230717102959 +0300" channel="PRO TV HD">
+  <programme start="20230717070000 +0300" stop="20230717102959 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717103000 +0300" stop="20230717125959 +0300" channel="PRO TV HD">
+  <programme start="20230717103000 +0300" stop="20230717125959 +0300" channel="ProTV.ro">
     <title lang="ro">Vorbeşte lumea</title>
     <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
     <category lang="ro">Divertisment</category>
     <icon src="https://www.programetv.ro/img/shows/c6/81/vorbeste-lumea.jpg" />
   </programme>
-  <programme start="20230717130000 +0300" stop="20230717135959 +0300" channel="PRO TV HD">
+  <programme start="20230717130000 +0300" stop="20230717135959 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717140000 +0300" stop="20230717145959 +0300" channel="PRO TV HD">
+  <programme start="20230717140000 +0300" stop="20230717145959 +0300" channel="ProTV.ro">
     <title lang="ro">Lecţii de viaţă</title>
     <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
     <category lang="ro">Diverse</category>
     <icon src="https://www.programetv.ro/img/shows/8d/35/lectii-de-viata.png" />
   </programme>
-  <programme start="20230717150000 +0300" stop="20230717165959 +0300" channel="PRO TV HD">
+  <programme start="20230717150000 +0300" stop="20230717165959 +0300" channel="ProTV.ro">
     <title lang="ro">La Maruţă</title>
     <desc lang="ro">O emisiune de divertisment în care telespectatorii se pot delecta cu invitați din lumea mondenă, vedete și celebrități, artiști, personalități publice și nu numai. Nu lipsesc nici concursurile, competițiile și farsele, tonul emisiunii fiind unul vesel și energic.(n)</desc>
     <category lang="ro">Divertisment</category>
     <icon src="https://www.programetv.ro/img/shows/2a/19/la-maruta.jpg" />
   </programme>
-  <programme start="20230717170000 +0300" stop="20230717175959 +0300" channel="PRO TV HD">
+  <programme start="20230717170000 +0300" stop="20230717175959 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717180000 +0300" stop="20230717185959 +0300" channel="PRO TV HD">
+  <programme start="20230717180000 +0300" stop="20230717185959 +0300" channel="ProTV.ro">
     <title lang="ro">Ce spun românii</title>
     <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
     <category lang="ro">Divertisment</category>
     <icon src="https://www.programetv.ro/img/shows/73/9e/ce-spun-romanii.jpg" />
   </programme>
-  <programme start="20230717190000 +0300" stop="20230717202959 +0300" channel="PRO TV HD">
+  <programme start="20230717190000 +0300" stop="20230717202959 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717203000 +0300" stop="20230717212959 +0300" channel="PRO TV HD">
+  <programme start="20230717203000 +0300" stop="20230717212959 +0300" channel="ProTV.ro">
     <title lang="ro">Las fierbinți</title>
     <desc lang="ro">Acțiunea se petrece în satul Fierbinți. Viceprimarul Vasile vrea să îi ia locul actualului primar și se bazează pe sprijinul cârciumarului Bobiță și al prietenului acestuia, Giani, șmecherașul tipic de provincie.(n)</desc>
     <credits>
@@ -81,7 +81,7 @@
       <value>8.70</value>
     </star-rating>
   </programme>
-  <programme start="20230717213000 +0300" stop="20230717231459 +0300" channel="PRO TV HD">
+  <programme start="20230717213000 +0300" stop="20230717231459 +0300" channel="ProTV.ro">
     <title lang="ro">Capturat</title>
     <title lang="en">Seized</title>
     <desc lang="ro">Fiul unui fost agent al forțelor speciale este răpit. El trebuie să distrugă acum trei sindicale periculoase, dacă vrea să-și vadă din nou fiul.(n)</desc>
@@ -103,13 +103,13 @@
       <value>5.30</value>
     </star-rating>
   </programme>
-  <programme start="20230717231500 +0300" stop="20230717234459 +0300" channel="PRO TV HD">
+  <programme start="20230717231500 +0300" stop="20230717234459 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230717234500 +0300" stop="20230718021459 +0300" channel="PRO TV HD">
+  <programme start="20230717234500 +0300" stop="20230718021459 +0300" channel="ProTV.ro">
     <title lang="ro">Jack Reacher. Un glonț la țintă</title>
     <title lang="en">Jack Reacher</title>
     <desc lang="ro">Fostul investigator militar Jack Reacher e pe urmele unui ucigaş care a omorât şase oameni, dintr-un singur foc. Când poliţiştii sunt siguri că a pus mâna pe suspect, acesta le cere să i-l aducă pe Jack Reacher!(n)</desc>
@@ -131,7 +131,7 @@
       <value>7.00</value>
     </star-rating>
   </programme>
-  <programme start="20230717070000 +0300" stop="20230717075959 +0300" channel="Prima TV HD">
+  <programme start="20230717070000 +0300" stop="20230717075959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Iubiri vinovate</title>
     <title lang="en">Perdona Nuestros Pecados</title>
     <desc lang="ro">Maria, fiica unei familii puternice din înalta aristocraţie chiliană se îndrăgosteşte, nepermis, de fiul unei servitoare! Preotul Reynaldo Suarez se îndrăgosteşte, la rândul său, de Maria! Pe cine să aleagă el? Credinţa sau iubirea?(n)</desc>
@@ -153,13 +153,13 @@
       <value>7.00</value>
     </star-rating>
   </programme>
-  <programme start="20230717080000 +0300" stop="20230717085959 +0300" channel="Prima TV HD">
+  <programme start="20230717080000 +0300" stop="20230717085959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Focus</title>
     <desc lang="ro">Emisiunea Focus este setată pe ştiri relevante pentru fiecare, pe informaţia esenţială, corectă şi obiectivă, pe poveşti şi fapte generatoare de plus-valoare în societate.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/eb/97/focus.jpg" />
   </programme>
-  <programme start="20230717090000 +0300" stop="20230717105959 +0300" channel="Prima TV HD">
+  <programme start="20230717090000 +0300" stop="20230717105959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Schimb de mame</title>
     <desc lang="ro">Emisiunea "Schimb de mame" aduce în prim plan experienţele inedite trăite de soțiile-mame care au curajul să își schimbe viaţa pentru șapte zile. În fiecare săptămînă, două soții-mame vor face "schimb de vieți", vor avea o familie, prieteni și o slujbă complet noi, într-o localitate și o casa cu totul necunoscute. La final, protagoniștii se vor întâlni pentru a-și împărtăși experienţele trăite în răstimpul celor șapte zile și vor fi premiați.(n)</desc>
     <category lang="ro">Divertisment</category>
@@ -168,11 +168,11 @@
       <value>ap</value>
     </rating>
   </programme>
-  <programme start="20230717110000 +0300" stop="20230717125959 +0300" channel="Prima TV HD">
+  <programme start="20230717110000 +0300" stop="20230717125959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Teleshopping</title>
     <category lang="ro">Diverse</category>
   </programme>
-  <programme start="20230717130000 +0300" stop="20230717135959 +0300" channel="Prima TV HD">
+  <programme start="20230717130000 +0300" stop="20230717135959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Iubiri vinovate</title>
     <title lang="en">Perdona Nuestros Pecados</title>
     <desc lang="ro">Maria, fiica unei familii puternice din înalta aristocraţie chiliană se îndrăgosteşte, nepermis, de fiul unei servitoare! Preotul Reynaldo Suarez se îndrăgosteşte, la rândul său, de Maria! Pe cine să aleagă el? Credinţa sau iubirea?(n)</desc>
@@ -194,13 +194,13 @@
       <value>7.00</value>
     </star-rating>
   </programme>
-  <programme start="20230717140000 +0300" stop="20230717152959 +0300" channel="Prima TV HD">
+  <programme start="20230717140000 +0300" stop="20230717152959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Focus</title>
     <desc lang="ro">Emisiunea Focus este setată pe ştiri relevante pentru fiecare, pe informaţia esenţială, corectă şi obiectivă, pe poveşti şi fapte generatoare de plus-valoare în societate.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/eb/97/focus.jpg" />
   </programme>
-  <programme start="20230717153000 +0300" stop="20230717175959 +0300" channel="Prima TV HD">
+  <programme start="20230717153000 +0300" stop="20230717175959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Exclusiv VIP</title>
     <desc lang="ro">Lumea mondenă îşi deschide larg uşile şi îi invită în culisele ei pe telespectatorii Prima TV. Moderatorul emisiunii  este pregătit să îi descoasă pe invitaţi şi să le afle toate secretele. Exclusivităţi, momente emoţionante, discuţii între prieteni, voie bună şi relaxare!(n)</desc>
     <category lang="ro">Diverse</category>
@@ -209,13 +209,13 @@
       <value>ap</value>
     </rating>
   </programme>
-  <programme start="20230717180000 +0300" stop="20230717185959 +0300" channel="Prima TV HD">
+  <programme start="20230717180000 +0300" stop="20230717185959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Focus 18</title>
     <desc lang="ro">La Focus 18, cel mai important jurnal de ştiri, telespectatorii pot urmări, în fiecare zi, atât materiale în exclusivitate, cât şi rubrici dedicate sau reportaje speciale.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/bd/bf/focus-18.jpg" />
   </programme>
-  <programme start="20230717190000 +0300" stop="20230717195959 +0300" channel="Prima TV HD">
+  <programme start="20230717190000 +0300" stop="20230717195959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Mama mea gătește mai bine</title>
     <desc lang="ro">Emisiune prezentată de îndrăgitul cântăreț de muzică populară, Valentin Sanfira. Cuptoarele sunt încinse, ingredientele sunt pregătite iar concurenții abia așteaptă să se înfrunte sub privirea atentă a maestrului bucătar, Horia Vîrlan.(n)</desc>
     <category lang="ro">Culinar</category>
@@ -224,7 +224,7 @@
       <value>ap</value>
     </rating>
   </programme>
-  <programme start="20230717200000 +0300" stop="20230717215959 +0300" channel="Prima TV HD">
+  <programme start="20230717200000 +0300" stop="20230717215959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Domnul Piluk, un pistolar timid</title>
     <title lang="en">Giurò... e li uccise ad uno ad uno... Piluk il timido</title>
     <desc lang="ro">Un șerif este ucis de liderul răufăcătorilor locali, iar tatăl șerifului nu este prea încântat. Tatăl, domnul Piluk, este antreprenorul local de pompe funebre și cântă la vioară atunci când este într-o dispoziție proastă.(n)</desc>
@@ -246,13 +246,13 @@
       <value>5.60</value>
     </star-rating>
   </programme>
-  <programme start="20230717220000 +0300" stop="20230717225959 +0300" channel="Prima TV HD">
+  <programme start="20230717220000 +0300" stop="20230717225959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Focus</title>
     <desc lang="ro">Emisiunea Focus este setată pe ştiri relevante pentru fiecare, pe informaţia esenţială, corectă şi obiectivă, pe poveşti şi fapte generatoare de plus-valoare în societate.(n)</desc>
     <category lang="ro">Ştiri</category>
     <icon src="https://www.programetv.ro/img/shows/eb/97/focus.jpg" />
   </programme>
-  <programme start="20230717230000 +0300" stop="20230717235959 +0300" channel="Prima TV HD">
+  <programme start="20230717230000 +0300" stop="20230717235959 +0300" channel="PrimaTV.ro">
     <title lang="ro">Sfântul Maik</title>
     <title lang="en">Sankt Maik</title>
     <credits>
