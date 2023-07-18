@@ -12,8 +12,8 @@
   </channel>
   <channel id="ProTV.ro">
     <display-name lang="ro">PRO_TV</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-tv-hd.jpg" />
-    <url>http://www.cinemagia.ro</url>
+    <icon src="https://program-tv.net/images/pro_tv.svg" />
+    <url>http://www.program-tv.net</url>
   </channel>
   <channel id="Antena3.ro">
     <display-name lang="ro">ANTENA3</display-name>
@@ -52,8 +52,8 @@
   </channel>
   <channel id="Pro Arena.ro">
     <display-name lang="ro">PRO_ARENA</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-arena-hd.jpg" />
-    <url>http://www.cinemagia.ro</url>
+    <icon src="https://program-tv.net/images/pro_arena.svg" />
+    <url>http://www.program-tv.net</url>
   </channel>
   <channel id="Digi24.ro">
     <display-name lang="ro">Digi24.ro</display-name>
@@ -76,8 +76,8 @@
     <url>http://www.cinemagia.ro</url>
   </channel>
   <channel id="HappyTV.ro">
-    <display-name lang="ro">HAPPY_CHANNEL</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/HappyTV.ro.jpg" />
+    <display-name lang="ro">HAPPY CHANNEL</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/happy-channel-hd.jpg" />
     <url>http://www.cinemagia.ro</url>
   </channel>
   <channel id="MTVHits.ro">
@@ -277,8 +277,8 @@
       <director>Giuseppe Vari</director>
       <actor role="Ramón/Chico">George Eastman</actor>
       <actor role="Il padre di Ramón">Giuseppe Addobbati</actor>
-      <actor role="Barrett">Daniele Vargas</actor>
       <actor>Dana Ghia</actor>
+      <actor role="Barrett">Daniele Vargas</actor>
       <actor>Remo Capitani</actor>
       <actor>Mirko Ellis</actor>
       <writer>Augusto Caminito</writer>
@@ -369,8 +369,8 @@
       <director>Giuseppe Vari</director>
       <actor role="Ramón/Chico">George Eastman</actor>
       <actor role="Il padre di Ramón">Giuseppe Addobbati</actor>
-      <actor role="Barrett">Daniele Vargas</actor>
       <actor>Dana Ghia</actor>
+      <actor role="Barrett">Daniele Vargas</actor>
       <actor>Remo Capitani</actor>
       <actor>Mirko Ellis</actor>
       <writer>Augusto Caminito</writer>
@@ -1693,365 +1693,248 @@ Ernest va fi alături de tineri de la început, încă de la primele etape ale o
   <programme start="20230720233000 +0300" stop="20230721003000 +0300" channel="KanalD2.ro">
     <title lang="ro">Newstime</title>
   </programme>
-  <programme start="20230718070000 +0300" stop="20230718103000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  <programme start="20230718021500 +0200" stop="20230718030000 +0200" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
   </programme>
-  <programme start="20230718103000 +0300" stop="20230718130000 +0300" channel="ProTV.ro">
-    <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
+  <programme start="20230718030000 +0200" stop="20230718050000 +0200" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
   </programme>
-  <programme start="20230718130000 +0300" stop="20230718140000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  <programme start="20230718050000 +0200" stop="20230718060000 +0200" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
   </programme>
-  <programme start="20230718140000 +0300" stop="20230718150000 +0300" channel="ProTV.ro">
-    <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
+  <programme start="20230718060000 +0200" stop="20230718103000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
   </programme>
-  <programme start="20230718150000 +0300" stop="20230718170000 +0300" channel="ProTV.ro">
-    <title lang="ro">La Maruţă</title>
-    <desc lang="ro">O emisiune de divertisment în care telespectatorii se pot delecta cu invitați din lumea mondenă, vedete și celebrități, artiști, personalități publice și nu numai. Nu lipsesc nici concursurile, competițiile și farsele, tonul emisiunii fiind unul vesel și energic.(n)</desc>
+  <programme start="20230718103000 +0200" stop="20230718130000 +0200" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
   </programme>
-  <programme start="20230718170000 +0300" stop="20230718180000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  <programme start="20230718130000 +0200" stop="20230718140000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
   </programme>
-  <programme start="20230718180000 +0300" stop="20230718190000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
+  <programme start="20230718140000 +0200" stop="20230718150000 +0200" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
   </programme>
-  <programme start="20230718190000 +0300" stop="20230718203000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  <programme start="20230718150000 +0200" stop="20230718170000 +0200" channel="ProTV.ro">
+    <title lang="ro">LA MĂRUŢĂ</title>
+    <desc lang="ro">Cei mai iubiți artiști din România, concursuri, competiții inedite, farse, interviuri de colecție, invitați de nota 10, toate sunt în meniul emisiunii La Măruță!(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18706/La_Maruta.jpg" />
   </programme>
-  <programme start="20230718203000 +0300" stop="20230718213000 +0300" channel="ProTV.ro">
-    <title lang="ro">Las fierbinți</title>
-    <desc lang="ro">Acțiunea se petrece în satul Fierbinți, acolo unde existența locuitorilor se desfășoară lent, într-un paradis rural care s-a adaptat, în stil pur românesc, la vremurile moderne. Viceprimarul Vasile vrea să îi ia locul actualului primar și se bazează pe sprijinul cârciumarului Bobiță și al prietenului acestuia, Giani, șmecherașul tipic de provincie. Celentano, Firicel a lu' Cimpoaie, Ardiles și Moș Peleus, bețivii satului, sunt apariții colorate și pline de umor.(n)</desc>
-    <credits>
-      <director>Dragoș Buliga</director>
-      <actor role="Gianina / Geanina">Anca Dumitra</actor>
-      <actor role="Rapidoaica">Maia Morgenstern</actor>
-      <actor role="deținută">Olimpia Melinte</actor>
-      <actor>Răzvan Vasilescu</actor>
-      <actor>Pavel Bartoș</actor>
-      <actor role="Firicel">Cuzin Toma</actor>
-      <producer>Emilia Vlad</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/56/72/70/las-fierbinti-578584l-175x0-w-be74c623.jpg" />
+  <programme start="20230718170000 +0200" stop="20230718180000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230718180000 +0200" stop="20230718190000 +0200" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230718190000 +0200" stop="20230718203000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230718203000 +0200" stop="20230718213000 +0200" channel="ProTV.ro">
+    <title lang="ro">LAS FIERBINŢI</title>
+    <sub-title lang="ro">- Ce-ai făcut, Bobiță?</sub-title>
+    <desc lang="ro">- Ce-ai făcut, Bobiță?##- Bă, ești prost?##- Bă, ești nebun?####Sunt replici pe care le auzi foarte des, iar toate au plecat de la Las Fierbinți, cel mai iubit și urmărit serial din România! Celebra poezie a lui Celentano, monologul Aspirinei.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18707/Las_Fierbinti.jpg" />
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.7</value>
-    </star-rating>
   </programme>
-  <programme start="20230718213000 +0300" stop="20230718233000 +0300" channel="ProTV.ro">
-    <title lang="ro">Un polițist și trei sferturi!</title>
-    <title lang="en">Ride Along 2</title>
-    <desc lang="ro">În comedia Un polițist și jumătate, agentul de pază logoreic Ben Barber (Hart), nou acceptat în academie, i se alătură lui James Payton (Cube) - un detectiv coleric al Departamentului de Poliție din Atlanta - pentru a patrula străzile din Atlanta. În încercarea de a dovedi că este mai mult decât un dependent de jocuri video, Ben încearcă să-i arate viitorului său cumnat că merită să se însoare cu Angela, sora lui James. În timpul unei patrule ce trebuia să fie fără evenimente, Ben se implică… citeşte.(n)</desc>
+  <programme start="20230718213000 +0200" stop="20230718233000 +0200" channel="ProTV.ro">
+    <title lang="ro">UN POLIŢIST ŞI TREI SFERTURI</title>
+    <title lang="ro">Ride Along 2</title>
+    <desc lang="ro">Planurile pentru o călătorie rapidă în Miami se duc pe apa sâmbetei când activitățile lor de poliție neortodoxe îi pun într-o situație compromițătoare care amenință să submineze un caz major... și ziua de nuntă a lui Ben și Angela.(n)</desc>
     <credits>
-      <director>Tim Story</director>
-      <actor role="James Payton">Ice Cube</actor>
-      <actor role="Ben Barber">Kevin Hart</actor>
-      <actor role="Tasha">Nadine Velazquez</actor>
-      <actor role="D.J">Tyrese Gibson</actor>
-      <actor role="Pope">Benjamin Bratt</actor>
-      <actor role="Maya Cruz">Olivia Munn</actor>
-      <producer>William Packer</producer>
+      <director>Tiom Story</director>
+      <actor>Kevin Hart</actor>
+      <actor>Ice Cube</actor>
     </credits>
     <date>2016</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/59/09/45/ride-along-2-153223l-175x0-w-3b90b81b.jpg" />
+    <icon src="https://program-tv.net/img/normal/176/17679/Un_politist_si_trei_sferturi.jpg" />
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.3</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>5.9</value>
-    </star-rating>
   </programme>
-  <programme start="20230718233000 +0300" stop="20230719000000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  <programme start="20230718233000 +0200" stop="20230719000000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
   </programme>
-  <programme start="20230719000000 +0300" stop="20230719021500 +0300" channel="ProTV.ro">
-    <title lang="ro">Băieți răi</title>
-    <title lang="en">Bad Boys</title>
-    <desc lang="ro">DACA NU SUPORTI CALDURA, PLEACA DIN MIAMI! Intr-o noapte torida de vara, este furata o cantitate foarte mare de heroina in valoare de 100 de milioane de dolari, chiar din incaperea destinata depozitarii dovezilor. Marcus Burnett (Martin Lawrence) si Mike Lowrey, doi detectivi cam trasniti vad in rezolvarea acestui caz sansa vietii lor. Ei trebuie sa recupereze drogurile inainte ca unitatea lor sa ajunga de rasul lumii. Singura lor pista se dovedeste a fi seducatoarea Julie Mott (Tea Leoni), martora unei crime comise de… citeşte.(n)</desc>
+  <programme start="20230719000000 +0200" stop="20230719021500 +0200" channel="ProTV.ro">
+    <title lang="ro">BAD BOYS</title>
+    <title lang="ro">Bad Boys</title>
+    <sub-title lang="ro">Regia: Michael Bay</sub-title>
+    <desc lang="ro">Cu: Will Smith, Martin Lawrence, Téa Leoni , Tchéky Karyo, Theresa Randle.(n)</desc>
     <credits>
       <director>Michael Bay</director>
-      <actor role="Mike Lowrey">Will Smith</actor>
-      <actor role="Marcus Burnett">Martin Lawrence</actor>
-      <actor role="Julie Mott">Téa Leoni</actor>
-      <actor role="Alison Sinclair">Marg Helgenberger</actor>
-      <actor role="Capitanul Howard">Joe Pantoliano</actor>
-      <actor role="Fouchet">Tchéky Karyo</actor>
-      <producer>Jerry Bruckheimer</producer>
+      <actor>Will Smith</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Tchéky Karyo</actor>
+      <actor>Theresa Randle</actor>
     </credits>
-    <date>1995</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/06/44/bad-boys-375369l-175x0-w-481992c8.jpg" />
+    <icon src="https://program-tv.net/img/normal/77/7737/Bad_Boys.jpg" />
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.8</value>
-    </star-rating>
   </programme>
-  <programme start="20230719021500 +0300" stop="20230719030000 +0300" channel="ProTV.ro">
-    <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
+  <programme start="20230719021500 +0200" stop="20230719030000 +0200" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
   </programme>
-  <programme start="20230719030000 +0300" stop="20230719050000 +0300" channel="ProTV.ro">
-    <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
+  <programme start="20230719030000 +0200" stop="20230719050000 +0200" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
   </programme>
-  <programme start="20230719050000 +0300" stop="20230719060000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
+  <programme start="20230719050000 +0200" stop="20230720000000 +0200" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
   </programme>
-  <programme start="20230719060000 +0300" stop="20230719070000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230719070000 +0300" stop="20230719103000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230719103000 +0300" stop="20230719130000 +0300" channel="ProTV.ro">
-    <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
-  </programme>
-  <programme start="20230719130000 +0300" stop="20230719140000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230719140000 +0300" stop="20230719150000 +0300" channel="ProTV.ro">
-    <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
-  </programme>
-  <programme start="20230719150000 +0300" stop="20230719170000 +0300" channel="ProTV.ro">
-    <title lang="ro">La Maruţă</title>
-    <desc lang="ro">O emisiune de divertisment în care telespectatorii se pot delecta cu invitați din lumea mondenă, vedete și celebrități, artiști, personalități publice și nu numai. Nu lipsesc nici concursurile, competițiile și farsele, tonul emisiunii fiind unul vesel și energic.(n)</desc>
-  </programme>
-  <programme start="20230719170000 +0300" stop="20230719180000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230719180000 +0300" stop="20230719190000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-  </programme>
-  <programme start="20230719190000 +0300" stop="20230719203000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230719203000 +0300" stop="20230719213000 +0300" channel="ProTV.ro">
-    <title lang="ro">Las fierbinți</title>
-    <desc lang="ro">Acțiunea se petrece în satul Fierbinți, acolo unde existența locuitorilor se desfășoară lent, într-un paradis rural care s-a adaptat, în stil pur românesc, la vremurile moderne. Viceprimarul Vasile vrea să îi ia locul actualului primar și se bazează pe sprijinul cârciumarului Bobiță și al prietenului acestuia, Giani, șmecherașul tipic de provincie. Celentano, Firicel a lu' Cimpoaie, Ardiles și Moș Peleus, bețivii satului, sunt apariții colorate și pline de umor.(n)</desc>
+  <programme start="20230720000000 +0200" stop="20230720021500 +0200" channel="ProTV.ro">
+    <title lang="ro">BAD BOYS</title>
+    <title lang="ro">Bad Boys</title>
+    <sub-title lang="ro">Regia: Michael Bay</sub-title>
+    <desc lang="ro">Cu: Will Smith, Martin Lawrence, Téa Leoni , Tchéky Karyo, Theresa Randle.(n)</desc>
     <credits>
-      <director>Dragoș Buliga</director>
-      <actor role="Gianina / Geanina">Anca Dumitra</actor>
-      <actor role="Rapidoaica">Maia Morgenstern</actor>
-      <actor role="deținută">Olimpia Melinte</actor>
-      <actor>Răzvan Vasilescu</actor>
-      <actor>Pavel Bartoș</actor>
-      <actor role="Firicel">Cuzin Toma</actor>
-      <producer>Emilia Vlad</producer>
+      <director>Michael Bay</director>
+      <actor>Will Smith</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Tchéky Karyo</actor>
+      <actor>Theresa Randle</actor>
     </credits>
-    <date>2012</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/56/72/70/las-fierbinti-578584l-175x0-w-be74c623.jpg" />
+    <icon src="https://program-tv.net/img/normal/77/7737/Bad_Boys.jpg" />
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.7</value>
-    </star-rating>
   </programme>
-  <programme start="20230719213000 +0300" stop="20230719231500 +0300" channel="ProTV.ro">
-    <title lang="ro">Fără egal</title>
-    <title lang="en">Undisputed</title>
-    <desc lang="ro">În urmã cu zece ani, Monroe Hutchen (WESLEY SNIPES) era un boxeur din California aflat în plinã ascensiune. Dar într-o noapte, într-un acces de furie comite o crimã care-l condamnã la închisoare pe viatã fãrã posibilitatea eliberãrii conditionate. El îsi ispãseste pedeapsa în nou construita închisoare Sweetwater din Desertul Mojave o institutie corectionalã de maximã securitate pentru cei ce au comis crime, jafuri armate, violuri precum si pentru cei care au avut legãturã cu crima organizatã. citeşte.(n)</desc>
+  <programme start="20230720021500 +0200" stop="20230720030000 +0200" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
+  </programme>
+  <programme start="20230720030000 +0200" stop="20230720050000 +0200" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
+  </programme>
+  <programme start="20230720050000 +0200" stop="20230720060000 +0200" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230720060000 +0200" stop="20230720103000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230720103000 +0200" stop="20230720130000 +0200" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
+  </programme>
+  <programme start="20230720130000 +0200" stop="20230720140000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230720140000 +0200" stop="20230720150000 +0200" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
+  </programme>
+  <programme start="20230720150000 +0200" stop="20230720170000 +0200" channel="ProTV.ro">
+    <title lang="ro">LA MĂRUŢĂ</title>
+    <desc lang="ro">Cei mai iubiți artiști din România, concursuri, competiții inedite, farse, interviuri de colecție, invitați de nota 10, toate sunt în meniul emisiunii La Măruță!(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18706/La_Maruta.jpg" />
+  </programme>
+  <programme start="20230720170000 +0200" stop="20230720180000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230720180000 +0200" stop="20230720190000 +0200" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20230720190000 +0200" stop="20230720203000 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230720203000 +0200" stop="20230720213000 +0200" channel="ProTV.ro">
+    <title lang="ro">LAS FIERBINŢI</title>
+    <sub-title lang="ro">- Ce-ai făcut, Bobiță?</sub-title>
+    <desc lang="ro">- Ce-ai făcut, Bobiță?##- Bă, ești prost?##- Bă, ești nebun?####Sunt replici pe care le auzi foarte des, iar toate au plecat de la Las Fierbinți, cel mai iubit și urmărit serial din România! Celebra poezie a lui Celentano, monologul Aspirinei.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18707/Las_Fierbinti.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720213000 +0200" stop="20230720231500 +0200" channel="ProTV.ro">
+    <title lang="ro">RUNDA FINALĂ</title>
+    <title lang="ro">Undisputed</title>
+    <desc lang="ro">În urmã cu zece ani, Monroe Hutchen (WESLEY SNIPES) era un boxeur din California aflat în plinã ascensiune. Dar într-o noapte, într-un acces de furie comite o crimã care-l condamnã la închisoare pe viatã fãrã posibilitatea eliberãrii con.(n)</desc>
     <credits>
       <director>Walter Hill</director>
-      <actor role="Monroe Hutchen">Wesley Snipes</actor>
-      <actor role="George Chambers">Ving Rhames</actor>
-      <actor role="Mendy Ripstein">Peter Falk</actor>
-      <actor role="A.J. Mercker">Michael Rooker</actor>
-      <actor role="Mingo Pace">Wes Studi</actor>
-      <actor role="James 'Ratbag' Kroycek">Fisher Stevens</actor>
-      <producer>David Giler</producer>
+      <actor>Wesley Snipes</actor>
+      <actor>Ving Rhames</actor>
     </credits>
     <date>2002</date>
-    <category lang="ro">Dramă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/42/90/undisputed-790280l-175x0-w-9dfe3ac9.jpg" />
+    <icon src="https://program-tv.net/img/normal/99/9943/Runda_finala.jpg" />
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.3</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.1</value>
-    </star-rating>
   </programme>
-  <programme start="20230719231500 +0300" stop="20230719234500 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  <programme start="20230720231500 +0200" stop="20230720234500 +0200" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
   </programme>
-  <programme start="20230719234500 +0300" stop="20230720014500 +0300" channel="ProTV.ro">
+  <programme start="20230720234500 +0200" stop="20230721014500 +0200" channel="ProTV.ro">
+    <title lang="ro">NORBIT</title>
     <title lang="ro">Norbit</title>
-    <desc lang="ro">"Numele meu este Norbit Albert Rice si am fost orfan..." Asa incepe povestea lui Norbit (Eddie Murphy), care a fost crescut de Dl. Wong (Eddie Murphy) la restaurantul si orfelinatul Golden Wonton. Acolo, Norbit si-a intalnit sufletul pereche, adorabila Kate (Thandie Newton). Cei doi au devenit inseparabili - si lucurile au ramas asa pana cand Kate a fost adoptata si l-a parasit pe Norbit pentru a-si incepe noua viata. Intr-o zi, Norbit, un copil de noua ani singuratic si usor de intimidat, este… citeşte.(n)</desc>
+    <desc lang="ro">Eddie Murphy e "exact cum vă place!" în acest film extrem de amuzant, în care face paradă de geniul lui comic în mai multe roluri. Murphy îi dă viaţă pe ecran blajinului Norbit, care primeşte o nouă şansă de a-şi cuceri marea iubire din.(n)</desc>
     <credits>
       <director>Brian Robbins</director>
-      <actor role="Norbit / Rasputia / dl. Wong">Eddie Murphy</actor>
-      <actor role="Deion Hughes">Cuba Gooding Jr.</actor>
-      <actor role="Kate Thomas">Thandiwe Newton</actor>
-      <actor role="Buster">Marlon Wayans</actor>
-      <actor role="Pope Sweet Jesus">Eddie Griffin</actor>
-      <actor role="Big Jack Latimore">Terry Crews</actor>
-      <producer>Michael Tollin</producer>
+      <actor>Eddie Murphy</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Terry Crews</actor>
     </credits>
     <date>2007</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/01/72/60/norbit-454854l-175x0-w-16a29777.jpg" />
+    <icon src="https://program-tv.net/img/normal/31/3190/Norbit.jpg" />
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>6.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>4.1</value>
-    </star-rating>
-  </programme>
-  <programme start="20230720014500 +0300" stop="20230720023000 +0300" channel="ProTV.ro">
-    <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
-  </programme>
-  <programme start="20230720023000 +0300" stop="20230720030000 +0300" channel="ProTV.ro">
-    <title lang="ro">I Like IT</title>
-    <desc lang="ro">Emisiunea I like IT îți aduce cele mai noi informații din domeniul tehnologiei și al internetului. Evenimentele din online, gadgeturi inovatoare, social media, aplicații, toate aceste subiecte vor fi abordate în edițiile I like IT.(n)</desc>
-  </programme>
-  <programme start="20230720030000 +0300" stop="20230720050000 +0300" channel="ProTV.ro">
-    <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
-  </programme>
-  <programme start="20230720050000 +0300" stop="20230720060000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-  </programme>
-  <programme start="20230720060000 +0300" stop="20230720070000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230720070000 +0300" stop="20230720103000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230720103000 +0300" stop="20230720130000 +0300" channel="ProTV.ro">
-    <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
-  </programme>
-  <programme start="20230720130000 +0300" stop="20230720140000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230720140000 +0300" stop="20230720150000 +0300" channel="ProTV.ro">
-    <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
-  </programme>
-  <programme start="20230720150000 +0300" stop="20230720170000 +0300" channel="ProTV.ro">
-    <title lang="ro">La Maruţă</title>
-    <desc lang="ro">O emisiune de divertisment în care telespectatorii se pot delecta cu invitați din lumea mondenă, vedete și celebrități, artiști, personalități publice și nu numai. Nu lipsesc nici concursurile, competițiile și farsele, tonul emisiunii fiind unul vesel și energic.(n)</desc>
-  </programme>
-  <programme start="20230720170000 +0300" stop="20230720180000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230720180000 +0300" stop="20230720190000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-  </programme>
-  <programme start="20230720190000 +0300" stop="20230720203000 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-  </programme>
-  <programme start="20230720203000 +0300" stop="20230720213000 +0300" channel="ProTV.ro">
-    <title lang="ro">Las fierbinți</title>
-    <desc lang="ro">Acțiunea se petrece în satul Fierbinți, acolo unde existența locuitorilor se desfășoară lent, într-un paradis rural care s-a adaptat, în stil pur românesc, la vremurile moderne. Viceprimarul Vasile vrea să îi ia locul actualului primar și se bazează pe sprijinul cârciumarului Bobiță și al prietenului acestuia, Giani, șmecherașul tipic de provincie. Celentano, Firicel a lu' Cimpoaie, Ardiles și Moș Peleus, bețivii satului, sunt apariții colorate și pline de umor.(n)</desc>
-    <credits>
-      <director>Dragoș Buliga</director>
-      <actor role="Gianina / Geanina">Anca Dumitra</actor>
-      <actor role="Rapidoaica">Maia Morgenstern</actor>
-      <actor role="deținută">Olimpia Melinte</actor>
-      <actor>Răzvan Vasilescu</actor>
-      <actor>Pavel Bartoș</actor>
-      <actor role="Firicel">Cuzin Toma</actor>
-      <producer>Emilia Vlad</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/56/72/70/las-fierbinti-578584l-175x0-w-be74c623.jpg" />
-    <rating system="RO">
-      <value>12</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.7</value>
-    </star-rating>
-  </programme>
-  <programme start="20230720213000 +0300" stop="20230720234500 +0300" channel="ProTV.ro">
-    <title lang="ro">Spioana</title>
-    <title lang="en">Spy</title>
-    <desc lang="ro">Susan Cooper este un analist CIA modest, care lucrează la birou, și eroul necunoscut din spatele celor mai periculoase misiuni ale agenției. Când partenerul ei iese din rețea și un alt agent de top este compromis, ea se oferă voluntară să lucreze sub acoperire ca să se infiltreze în lumea unui traficant de arme și să prevenă o criză globală.(n)</desc>
-    <credits>
-      <director>Paul Feig</director>
-      <actor role="Rick Ford">Jason Statham</actor>
-      <actor role="Bradley Fine">Jude Law</actor>
-      <actor role="50 Cent">50 Cent</actor>
-      <actor role="Rayna Boyanov">Rose Byrne</actor>
-      <actor role="Susan Cooper">Melissa McCarthy</actor>
-      <actor role="Karen Walker">Morena Baccarin</actor>
-      <producer>Peter Chernin</producer>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/59/00/53/spy-944637l-175x0-w-6d6f8e2d.jpg" />
-    <rating system="RO">
-      <value>12</value>
-    </rating>
-    <star-rating system="Nota Film">
-      <value>7.5</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230720234500 +0300" stop="20230721001500 +0300" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
   </programme>
   <programme start="20230718070000 +0300" stop="20230718100000 +0300" channel="Antena3.ro">
     <title lang="ro">Știrile dimineții</title>
@@ -4717,921 +4600,499 @@ Redifuzare * Principiul de bază al medicinei tibetane constă în armonia dintr
       <value>7.2</value>
     </star-rating>
   </programme>
-  <programme start="20230718070000 +0300" stop="20230718073000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
+  <programme start="20230718000000 +0200" stop="20230718003000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
   </programme>
-  <programme start="20230718073000 +0300" stop="20230718083000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.
-
-Un serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-  </programme>
-  <programme start="20230718083000 +0300" stop="20230718093000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
-  </programme>
-  <programme start="20230718093000 +0300" stop="20230718103000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">Inventivi și mereu puși pe glume, fizicienii Leonard Hofstadter (Johnny Galecki) și Sheldon Cooper (Jim Parsons) trăiesc într-o realitate doar a lor, încercând totuși să se adapteze unei lumi pe care, se pare, că nu prea o înțeleg. Inteligența celor doi contrastează puternic cu sociabilitatea și veleitățile de vedetă ale superbei lor vecine, Penny (Kaley Cuoco), de unde și o serie de întâmplări de-a dreptul amuzante într-o comedie care nu trebuie ratată.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor role="Charlie Sheen">Charlie Sheen</actor>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Alex Jensen">Margo Harshman</actor>
-      <actor role="dr. Oliver Lorvis">Billy Bob Thornton</actor>
-      <actor role="dr. Elizabeth Plimpton">Judy Greer</actor>
-      <actor role="Mikayla">Jodi Lyn O'Keefe</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/63/33/the-big-bang-theory-342047l-175x0-w-31c538fc.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230718103000 +0300" stop="20230718113000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <actor role="Adam Sandler">Adam Sandler</actor>
-      <actor role="Sophia Perez / Sophia">Eva Longoria</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor role="Milton">Ryan Phillippe</actor>
-      <actor>Eric Roberts</actor>
-      <actor>Danny Trejo</actor>
-      <producer>David Hyman</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/58/99/25/brooklyn-nine-nine-322683l-175x0-w-3108c397.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230718113000 +0300" stop="20230718123000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri..(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Will Smith / Self">Will Smith</actor>
-      <actor role="Michelle Michaels">Stacey Dash</actor>
-      <actor role="Maurice Perry / Jasmine Perry">Chris Rock</actor>
-      <actor role="Tiny">Michael Clarke Duncan</actor>
-      <actor role="Janet">Vivica A. Fox</actor>
-      <actor role="Dee Dee">Queen Latifah</actor>
-      <producer>Quincy Jones</producer>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/17/29/the-fresh-prince-of-bel-air-692776l-175x0-w-af811107.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230718123000 +0300" stop="20230718130000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
-  </programme>
-  <programme start="20230718130000 +0300" stop="20230718140000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-  </programme>
-  <programme start="20230718140000 +0300" stop="20230718150000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.
-
-Un serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-  </programme>
-  <programme start="20230718150000 +0300" stop="20230718160000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
-  </programme>
-  <programme start="20230718160000 +0300" stop="20230718170000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">Inventivi și mereu puși pe glume, fizicienii Leonard Hofstadter (Johnny Galecki) și Sheldon Cooper (Jim Parsons) trăiesc într-o realitate doar a lor, încercând totuși să se adapteze unei lumi pe care, se pare, că nu prea o înțeleg. Inteligența celor doi contrastează puternic cu sociabilitatea și veleitățile de vedetă ale superbei lor vecine, Penny (Kaley Cuoco), de unde și o serie de întâmplări de-a dreptul amuzante într-o comedie care nu trebuie ratată.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor role="Charlie Sheen">Charlie Sheen</actor>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Alex Jensen">Margo Harshman</actor>
-      <actor role="dr. Oliver Lorvis">Billy Bob Thornton</actor>
-      <actor role="dr. Elizabeth Plimpton">Judy Greer</actor>
-      <actor role="Mikayla">Jodi Lyn O'Keefe</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/63/33/the-big-bang-theory-342047l-175x0-w-31c538fc.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230718170000 +0300" stop="20230718180000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <actor role="Adam Sandler">Adam Sandler</actor>
-      <actor role="Sophia Perez / Sophia">Eva Longoria</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor role="Milton">Ryan Phillippe</actor>
-      <actor>Eric Roberts</actor>
-      <actor>Danny Trejo</actor>
-      <producer>David Hyman</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/58/99/25/brooklyn-nine-nine-322683l-175x0-w-3108c397.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230718180000 +0300" stop="20230718190000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri..(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Will Smith / Self">Will Smith</actor>
-      <actor role="Michelle Michaels">Stacey Dash</actor>
-      <actor role="Maurice Perry / Jasmine Perry">Chris Rock</actor>
-      <actor role="Tiny">Michael Clarke Duncan</actor>
-      <actor role="Janet">Vivica A. Fox</actor>
-      <actor role="Dee Dee">Queen Latifah</actor>
-      <producer>Quincy Jones</producer>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/17/29/the-fresh-prince-of-bel-air-692776l-175x0-w-af811107.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230718190000 +0300" stop="20230718200000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
-  </programme>
-  <programme start="20230718200000 +0300" stop="20230718210000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Atelierul de Restaurare /s1</title>
-  </programme>
-  <programme start="20230718210000 +0300" stop="20230718220000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Magnum, detectiv particular</title>
-    <title lang="en">Magnum P.I.</title>
-    <desc lang="ro">Thomas Magnum, fost pușcaș marin, revine acasă din Afganistan și își folosește abilitățile și cunoștințele militare pentru a deveni investigator particular în Hawaii.(n)</desc>
-    <credits>
-      <director>Justin Lin</director>
-      <actor role="Gene Curtis / Ivan">Peter Facinelli</actor>
-      <actor role="detectivul Tanaka">Sung Kang</actor>
-      <actor role="Thomas Magnum">Jay Hernandez</actor>
-      <actor role="Megan McGrady">Helena Mattsson</actor>
-      <actor role="Detective Gordon Katsumoto">Tim Kang</actor>
-      <actor role="Eve">Marsha Thomason</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/24/41/081/magnum-pi-352767l-175x0-w-f2a66916.jpg" />
+  <programme start="20230718003000 +0200" stop="20230718013000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_1.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.2</value>
-    </star-rating>
   </programme>
-  <programme start="20230718220000 +0300" stop="20230718230000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Cobra 11 în alertă</title>
-    <title lang="en">Alarm für Cobra 11 - Die Autobahnpolizei</title>
-    <desc lang="ro">Episoadele prezintă cazurile unei patrule de ofițeri, de pe autostrăzile din Germania, care trebuie să facă față celor mai spectaculoase urmări de mașini, explozii și focuri de armă. Cei doi ofițeri trebuie să-i oprească pe cei mai periculoși criminali și să ducă la bun sfârșit toate misiunile la care iau parte pentru a asigura protecția celor care circulă pe autostradă.(n)</desc>
-    <credits>
-      <director>Arend Agthe</director>
-      <actor role="Lara Degen">Cosma Shiva Hagen</actor>
-      <actor role="Lisa Lichtenberg">Jennifer Ulrich</actor>
-      <actor role="Robert Michalke">Thomas Kretschmann</actor>
-      <actor role="Laura Andress">Bettina Zimmermann</actor>
-      <actor role="Andrea de Sand">Sandra Leonhard</actor>
-      <actor role="Hanna">Jana Pallaske</actor>
-      <producer>Dirk Eggers</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/83/10/alarm-fur-cobra-11-die-autobahnpolizei-608618l-175x0-w-237947b7.jpg" />
+  <programme start="20230718013000 +0200" stop="20230718033000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.3</value>
-    </star-rating>
   </programme>
-  <programme start="20230718230000 +0300" stop="20230719000000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
+  <programme start="20230718033000 +0200" stop="20230718041500 +0200" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
   </programme>
-  <programme start="20230719000000 +0300" stop="20230719003000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
+  <programme start="20230718041500 +0200" stop="20230718060000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 343, 344, 345</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_343_344_345.jpg" />
   </programme>
-  <programme start="20230719003000 +0300" stop="20230719013000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Magnum, detectiv particular</title>
-    <title lang="en">Magnum P.I.</title>
-    <desc lang="ro">Thomas Magnum, fost pușcaș marin, revine acasă din Afganistan și își folosește abilitățile și cunoștințele militare pentru a deveni investigator particular în Hawaii.(n)</desc>
+  <programme start="20230718060000 +0200" stop="20230718070000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20230718070000 +0200" stop="20230718073000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230718073000 +0200" stop="20230718083000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 23, 24</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_23_24.jpg" />
+  </programme>
+  <programme start="20230718083000 +0200" stop="20230718093000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20230718093000 +0200" stop="20230718103000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 1, 2</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
     <credits>
-      <director>Justin Lin</director>
-      <actor role="Gene Curtis / Ivan">Peter Facinelli</actor>
-      <actor role="detectivul Tanaka">Sung Kang</actor>
-      <actor role="Thomas Magnum">Jay Hernandez</actor>
-      <actor role="Megan McGrady">Helena Mattsson</actor>
-      <actor role="Detective Gordon Katsumoto">Tim Kang</actor>
-      <actor role="Eve">Marsha Thomason</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
     </credits>
-    <date>2018</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/24/41/081/magnum-pi-352767l-175x0-w-f2a66916.jpg" />
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_1_2.jpg" />
+  </programme>
+  <programme start="20230718103000 +0200" stop="20230718113000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 17, 18</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_17_18.jpg" />
+  </programme>
+  <programme start="20230718113000 +0200" stop="20230718123000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 17, 18</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_17_18.jpg" />
+  </programme>
+  <programme start="20230718123000 +0200" stop="20230718130000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230718130000 +0200" stop="20230718140000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230718140000 +0200" stop="20230718150000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 25, 26</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_25_26.jpg" />
+  </programme>
+  <programme start="20230718150000 +0200" stop="20230718160000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20230718160000 +0200" stop="20230718170000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 3, 4</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_3_4.jpg" />
+  </programme>
+  <programme start="20230718170000 +0200" stop="20230718180000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 19, 20</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_19_20.jpg" />
+  </programme>
+  <programme start="20230718180000 +0200" stop="20230718190000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 19, 20</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_19_20.jpg" />
+  </programme>
+  <programme start="20230718190000 +0200" stop="20230718200000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI S18 EP. 30, 31</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_s18_ep_30_31.jpg" />
+  </programme>
+  <programme start="20230718200000 +0200" stop="20230718210000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20230718210000 +0200" stop="20230718220000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.2</value>
-    </star-rating>
   </programme>
-  <programme start="20230719013000 +0300" stop="20230719023000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Cobra 11 în alertă</title>
-    <title lang="en">Alarm für Cobra 11 - Die Autobahnpolizei</title>
-    <desc lang="ro">Episoadele prezintă cazurile unei patrule de ofițeri, de pe autostrăzile din Germania, care trebuie să facă față celor mai spectaculoase urmări de mașini, explozii și focuri de armă. Cei doi ofițeri trebuie să-i oprească pe cei mai periculoși criminali și să ducă la bun sfârșit toate misiunile la care iau parte pentru a asigura protecția celor care circulă pe autostradă.(n)</desc>
-    <credits>
-      <director>Arend Agthe</director>
-      <actor role="Lara Degen">Cosma Shiva Hagen</actor>
-      <actor role="Lisa Lichtenberg">Jennifer Ulrich</actor>
-      <actor role="Robert Michalke">Thomas Kretschmann</actor>
-      <actor role="Laura Andress">Bettina Zimmermann</actor>
-      <actor role="Andrea de Sand">Sandra Leonhard</actor>
-      <actor role="Hanna">Jana Pallaske</actor>
-      <producer>Dirk Eggers</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/83/10/alarm-fur-cobra-11-die-autobahnpolizei-608618l-175x0-w-237947b7.jpg" />
+  <programme start="20230718220000 +0200" stop="20230718230000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.3</value>
-    </star-rating>
   </programme>
-  <programme start="20230719023000 +0300" stop="20230719030000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
+  <programme start="20230718230000 +0200" stop="20230719000000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 30, 31</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_30_31.jpg" />
   </programme>
-  <programme start="20230719030000 +0300" stop="20230719040000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
+  <programme start="20230719000000 +0200" stop="20230719003000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
   </programme>
-  <programme start="20230719040000 +0300" stop="20230719060000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">La bloc</title>
-    <desc lang="ro">De-a lungul celor 16 ani de căsnicie, Suzi și Nelu Curcă adunaseră ceva bănuți și își doreau foarte mult să înceapă o viață nouă într-o locuință nouă. Așa că, împreună cu fiica lor, Mimi, aceștia s-au mutat într-un nou apartament, recomandat de prietenul din armată al lui Nelu, Costel Jurcă. Aduși de soartă pe același palier, familiile Curcă și Jurcă au împărțit astfel multă vreme bucuriile și complicațiile căsniciei și ale… citeşte.(n)</desc>
-    <credits>
-      <director>Radu Dragomir</director>
-      <actor role="Bela">Alina Chivulescu</actor>
-      <actor>Oana Zăvoranu</actor>
-      <actor role="Mimi Curcă">Dana Rogoz</actor>
-      <actor role="Adina">Laura Cosoi</actor>
-      <actor role="Bianca">Anca Țurcașiu</actor>
-      <actor>Mihai Bendeac</actor>
-      <producer>Marius Maftei</producer>
-    </credits>
-    <date>2002</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/49/95/la-bloc-588869l-175x0-w-7d456baa.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.4</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.0</value>
-    </star-rating>
+  <programme start="20230719000000 +0200" stop="20230719003000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
   </programme>
-  <programme start="20230719060000 +0300" stop="20230719070000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Atelierul de Restaurare /s1</title>
-  </programme>
-  <programme start="20230719070000 +0300" stop="20230719073000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
-  </programme>
-  <programme start="20230719073000 +0300" stop="20230719083000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.
-
-Un serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-  </programme>
-  <programme start="20230719083000 +0300" stop="20230719093000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
-  </programme>
-  <programme start="20230719093000 +0300" stop="20230719103000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">Inventivi și mereu puși pe glume, fizicienii Leonard Hofstadter (Johnny Galecki) și Sheldon Cooper (Jim Parsons) trăiesc într-o realitate doar a lor, încercând totuși să se adapteze unei lumi pe care, se pare, că nu prea o înțeleg. Inteligența celor doi contrastează puternic cu sociabilitatea și veleitățile de vedetă ale superbei lor vecine, Penny (Kaley Cuoco), de unde și o serie de întâmplări de-a dreptul amuzante într-o comedie care nu trebuie ratată.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor role="Charlie Sheen">Charlie Sheen</actor>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Alex Jensen">Margo Harshman</actor>
-      <actor role="dr. Oliver Lorvis">Billy Bob Thornton</actor>
-      <actor role="dr. Elizabeth Plimpton">Judy Greer</actor>
-      <actor role="Mikayla">Jodi Lyn O'Keefe</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/63/33/the-big-bang-theory-342047l-175x0-w-31c538fc.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230719103000 +0300" stop="20230719113000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <actor role="Adam Sandler">Adam Sandler</actor>
-      <actor role="Sophia Perez / Sophia">Eva Longoria</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor role="Milton">Ryan Phillippe</actor>
-      <actor>Eric Roberts</actor>
-      <actor>Danny Trejo</actor>
-      <producer>David Hyman</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/58/99/25/brooklyn-nine-nine-322683l-175x0-w-3108c397.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230719113000 +0300" stop="20230719123000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri..(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Will Smith / Self">Will Smith</actor>
-      <actor role="Michelle Michaels">Stacey Dash</actor>
-      <actor role="Maurice Perry / Jasmine Perry">Chris Rock</actor>
-      <actor role="Tiny">Michael Clarke Duncan</actor>
-      <actor role="Janet">Vivica A. Fox</actor>
-      <actor role="Dee Dee">Queen Latifah</actor>
-      <producer>Quincy Jones</producer>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/17/29/the-fresh-prince-of-bel-air-692776l-175x0-w-af811107.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230719123000 +0300" stop="20230719130000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
-  </programme>
-  <programme start="20230719130000 +0300" stop="20230719140000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-  </programme>
-  <programme start="20230719140000 +0300" stop="20230719150000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.
-
-Un serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-  </programme>
-  <programme start="20230719150000 +0300" stop="20230719160000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
-  </programme>
-  <programme start="20230719160000 +0300" stop="20230719170000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">Inventivi și mereu puși pe glume, fizicienii Leonard Hofstadter (Johnny Galecki) și Sheldon Cooper (Jim Parsons) trăiesc într-o realitate doar a lor, încercând totuși să se adapteze unei lumi pe care, se pare, că nu prea o înțeleg. Inteligența celor doi contrastează puternic cu sociabilitatea și veleitățile de vedetă ale superbei lor vecine, Penny (Kaley Cuoco), de unde și o serie de întâmplări de-a dreptul amuzante într-o comedie care nu trebuie ratată.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor role="Charlie Sheen">Charlie Sheen</actor>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Alex Jensen">Margo Harshman</actor>
-      <actor role="dr. Oliver Lorvis">Billy Bob Thornton</actor>
-      <actor role="dr. Elizabeth Plimpton">Judy Greer</actor>
-      <actor role="Mikayla">Jodi Lyn O'Keefe</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/63/33/the-big-bang-theory-342047l-175x0-w-31c538fc.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230719170000 +0300" stop="20230719180000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <actor role="Adam Sandler">Adam Sandler</actor>
-      <actor role="Sophia Perez / Sophia">Eva Longoria</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor role="Milton">Ryan Phillippe</actor>
-      <actor>Eric Roberts</actor>
-      <actor>Danny Trejo</actor>
-      <producer>David Hyman</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/58/99/25/brooklyn-nine-nine-322683l-175x0-w-3108c397.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230719180000 +0300" stop="20230719190000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri..(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Will Smith / Self">Will Smith</actor>
-      <actor role="Michelle Michaels">Stacey Dash</actor>
-      <actor role="Maurice Perry / Jasmine Perry">Chris Rock</actor>
-      <actor role="Tiny">Michael Clarke Duncan</actor>
-      <actor role="Janet">Vivica A. Fox</actor>
-      <actor role="Dee Dee">Queen Latifah</actor>
-      <producer>Quincy Jones</producer>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/17/29/the-fresh-prince-of-bel-air-692776l-175x0-w-af811107.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230719190000 +0300" stop="20230719200000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
-  </programme>
-  <programme start="20230719200000 +0300" stop="20230719210000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Atelierul de Restaurare /s1</title>
-  </programme>
-  <programme start="20230719210000 +0300" stop="20230719220000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Magnum, detectiv particular</title>
-    <title lang="en">Magnum P.I.</title>
-    <desc lang="ro">Thomas Magnum, fost pușcaș marin, revine acasă din Afganistan și își folosește abilitățile și cunoștințele militare pentru a deveni investigator particular în Hawaii.(n)</desc>
-    <credits>
-      <director>Justin Lin</director>
-      <actor role="Gene Curtis / Ivan">Peter Facinelli</actor>
-      <actor role="detectivul Tanaka">Sung Kang</actor>
-      <actor role="Thomas Magnum">Jay Hernandez</actor>
-      <actor role="Megan McGrady">Helena Mattsson</actor>
-      <actor role="Detective Gordon Katsumoto">Tim Kang</actor>
-      <actor role="Eve">Marsha Thomason</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/24/41/081/magnum-pi-352767l-175x0-w-f2a66916.jpg" />
+  <programme start="20230719003000 +0200" stop="20230719013000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.2</value>
-    </star-rating>
   </programme>
-  <programme start="20230719220000 +0300" stop="20230719230000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Cobra 11 în alertă</title>
-    <title lang="en">Alarm für Cobra 11 - Die Autobahnpolizei</title>
-    <desc lang="ro">Episoadele prezintă cazurile unei patrule de ofițeri, de pe autostrăzile din Germania, care trebuie să facă față celor mai spectaculoase urmări de mașini, explozii și focuri de armă. Cei doi ofițeri trebuie să-i oprească pe cei mai periculoși criminali și să ducă la bun sfârșit toate misiunile la care iau parte pentru a asigura protecția celor care circulă pe autostradă.(n)</desc>
-    <credits>
-      <director>Arend Agthe</director>
-      <actor role="Lara Degen">Cosma Shiva Hagen</actor>
-      <actor role="Lisa Lichtenberg">Jennifer Ulrich</actor>
-      <actor role="Robert Michalke">Thomas Kretschmann</actor>
-      <actor role="Laura Andress">Bettina Zimmermann</actor>
-      <actor role="Andrea de Sand">Sandra Leonhard</actor>
-      <actor role="Hanna">Jana Pallaske</actor>
-      <producer>Dirk Eggers</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/83/10/alarm-fur-cobra-11-die-autobahnpolizei-608618l-175x0-w-237947b7.jpg" />
+  <programme start="20230719003000 +0200" stop="20230719013000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.3</value>
-    </star-rating>
   </programme>
-  <programme start="20230719230000 +0300" stop="20230720000000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
-  </programme>
-  <programme start="20230720000000 +0300" stop="20230720003000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
-  </programme>
-  <programme start="20230720003000 +0300" stop="20230720013000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Magnum, detectiv particular</title>
-    <title lang="en">Magnum P.I.</title>
-    <desc lang="ro">Thomas Magnum, fost pușcaș marin, revine acasă din Afganistan și își folosește abilitățile și cunoștințele militare pentru a deveni investigator particular în Hawaii.(n)</desc>
-    <credits>
-      <director>Justin Lin</director>
-      <actor role="Gene Curtis / Ivan">Peter Facinelli</actor>
-      <actor role="detectivul Tanaka">Sung Kang</actor>
-      <actor role="Thomas Magnum">Jay Hernandez</actor>
-      <actor role="Megan McGrady">Helena Mattsson</actor>
-      <actor role="Detective Gordon Katsumoto">Tim Kang</actor>
-      <actor role="Eve">Marsha Thomason</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/24/41/081/magnum-pi-352767l-175x0-w-f2a66916.jpg" />
+  <programme start="20230719013000 +0200" stop="20230719023000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.2</value>
-    </star-rating>
   </programme>
-  <programme start="20230720013000 +0300" stop="20230720023000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Cobra 11 în alertă</title>
-    <title lang="en">Alarm für Cobra 11 - Die Autobahnpolizei</title>
-    <desc lang="ro">Episoadele prezintă cazurile unei patrule de ofițeri, de pe autostrăzile din Germania, care trebuie să facă față celor mai spectaculoase urmări de mașini, explozii și focuri de armă. Cei doi ofițeri trebuie să-i oprească pe cei mai periculoși criminali și să ducă la bun sfârșit toate misiunile la care iau parte pentru a asigura protecția celor care circulă pe autostradă.(n)</desc>
-    <credits>
-      <director>Arend Agthe</director>
-      <actor role="Lara Degen">Cosma Shiva Hagen</actor>
-      <actor role="Lisa Lichtenberg">Jennifer Ulrich</actor>
-      <actor role="Robert Michalke">Thomas Kretschmann</actor>
-      <actor role="Laura Andress">Bettina Zimmermann</actor>
-      <actor role="Andrea de Sand">Sandra Leonhard</actor>
-      <actor role="Hanna">Jana Pallaske</actor>
-      <producer>Dirk Eggers</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/83/10/alarm-fur-cobra-11-die-autobahnpolizei-608618l-175x0-w-237947b7.jpg" />
+  <programme start="20230719013000 +0200" stop="20230719023000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.3</value>
-    </star-rating>
   </programme>
-  <programme start="20230720023000 +0300" stop="20230720030000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
+  <programme start="20230719023000 +0200" stop="20230719030000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
   </programme>
-  <programme start="20230720030000 +0300" stop="20230720040000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
+  <programme start="20230719023000 +0200" stop="20230719030000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
   </programme>
-  <programme start="20230720040000 +0300" stop="20230720060000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">La bloc</title>
-    <desc lang="ro">De-a lungul celor 16 ani de căsnicie, Suzi și Nelu Curcă adunaseră ceva bănuți și își doreau foarte mult să înceapă o viață nouă într-o locuință nouă. Așa că, împreună cu fiica lor, Mimi, aceștia s-au mutat într-un nou apartament, recomandat de prietenul din armată al lui Nelu, Costel Jurcă. Aduși de soartă pe același palier, familiile Curcă și Jurcă au împărțit astfel multă vreme bucuriile și complicațiile căsniciei și ale… citeşte.(n)</desc>
+  <programme start="20230719030000 +0200" stop="20230719040000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230719030000 +0200" stop="20230719040000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230719040000 +0200" stop="20230719060000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 346, 347, 348, 349</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_346_347_348_349.jpg" />
+  </programme>
+  <programme start="20230719060000 +0200" stop="20230719070000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20230719070000 +0200" stop="20230719073000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230719073000 +0200" stop="20230719083000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 25, 26</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_25_26.jpg" />
+  </programme>
+  <programme start="20230719083000 +0200" stop="20230719093000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20230719093000 +0200" stop="20230719103000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 3, 4</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
     <credits>
-      <director>Radu Dragomir</director>
-      <actor role="Bela">Alina Chivulescu</actor>
-      <actor>Oana Zăvoranu</actor>
-      <actor role="Mimi Curcă">Dana Rogoz</actor>
-      <actor role="Adina">Laura Cosoi</actor>
-      <actor role="Bianca">Anca Țurcașiu</actor>
-      <actor>Mihai Bendeac</actor>
-      <producer>Marius Maftei</producer>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
     </credits>
-    <date>2002</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/49/95/la-bloc-588869l-175x0-w-7d456baa.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.4</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.0</value>
-    </star-rating>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_3_4.jpg" />
   </programme>
-  <programme start="20230720060000 +0300" stop="20230720070000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Atelierul de Restaurare /s1</title>
+  <programme start="20230719103000 +0200" stop="20230719113000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 19, 20</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_19_20.jpg" />
   </programme>
-  <programme start="20230720070000 +0300" stop="20230720073000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
+  <programme start="20230719113000 +0200" stop="20230719123000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 19, 20</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_19_20.jpg" />
   </programme>
-  <programme start="20230720073000 +0300" stop="20230720083000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.
-
-Un serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
+  <programme start="20230719123000 +0200" stop="20230719130000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
   </programme>
-  <programme start="20230720083000 +0300" stop="20230720093000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
+  <programme start="20230719130000 +0200" stop="20230719140000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
   </programme>
-  <programme start="20230720093000 +0300" stop="20230720103000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">Inventivi și mereu puși pe glume, fizicienii Leonard Hofstadter (Johnny Galecki) și Sheldon Cooper (Jim Parsons) trăiesc într-o realitate doar a lor, încercând totuși să se adapteze unei lumi pe care, se pare, că nu prea o înțeleg. Inteligența celor doi contrastează puternic cu sociabilitatea și veleitățile de vedetă ale superbei lor vecine, Penny (Kaley Cuoco), de unde și o serie de întâmplări de-a dreptul amuzante într-o comedie care nu trebuie ratată.(n)</desc>
+  <programme start="20230719140000 +0200" stop="20230719150000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 27, 28</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_27_28.jpg" />
+  </programme>
+  <programme start="20230719150000 +0200" stop="20230719160000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20230719160000 +0200" stop="20230719170000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 21, 22</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
     <credits>
-      <director>Mark Cendrowski</director>
-      <actor role="Charlie Sheen">Charlie Sheen</actor>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Alex Jensen">Margo Harshman</actor>
-      <actor role="dr. Oliver Lorvis">Billy Bob Thornton</actor>
-      <actor role="dr. Elizabeth Plimpton">Judy Greer</actor>
-      <actor role="Mikayla">Jodi Lyn O'Keefe</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
     </credits>
-    <date>2006</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/63/33/the-big-bang-theory-342047l-175x0-w-31c538fc.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.2</value>
-    </star-rating>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_21_22.jpg" />
   </programme>
-  <programme start="20230720103000 +0300" stop="20230720113000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <actor role="Adam Sandler">Adam Sandler</actor>
-      <actor role="Sophia Perez / Sophia">Eva Longoria</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor role="Milton">Ryan Phillippe</actor>
-      <actor>Eric Roberts</actor>
-      <actor>Danny Trejo</actor>
-      <producer>David Hyman</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/58/99/25/brooklyn-nine-nine-322683l-175x0-w-3108c397.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
+  <programme start="20230719170000 +0200" stop="20230719180000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 7, 8</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_7_8.jpg" />
   </programme>
-  <programme start="20230720113000 +0300" stop="20230720123000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri..(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Will Smith / Self">Will Smith</actor>
-      <actor role="Michelle Michaels">Stacey Dash</actor>
-      <actor role="Maurice Perry / Jasmine Perry">Chris Rock</actor>
-      <actor role="Tiny">Michael Clarke Duncan</actor>
-      <actor role="Janet">Vivica A. Fox</actor>
-      <actor role="Dee Dee">Queen Latifah</actor>
-      <producer>Quincy Jones</producer>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/17/29/the-fresh-prince-of-bel-air-692776l-175x0-w-af811107.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
+  <programme start="20230719180000 +0200" stop="20230719190000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 21, 22</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_21_22.jpg" />
   </programme>
-  <programme start="20230720123000 +0300" stop="20230720130000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
+  <programme start="20230719190000 +0200" stop="20230719200000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 32, 33</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_32_33.jpg" />
   </programme>
-  <programme start="20230720130000 +0300" stop="20230720140000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
+  <programme start="20230719200000 +0200" stop="20230719210000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20230720140000 +0300" stop="20230720150000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.
-
-Un serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-  </programme>
-  <programme start="20230720150000 +0300" stop="20230720160000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
-  </programme>
-  <programme start="20230720160000 +0300" stop="20230720170000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">Inventivi și mereu puși pe glume, fizicienii Leonard Hofstadter (Johnny Galecki) și Sheldon Cooper (Jim Parsons) trăiesc într-o realitate doar a lor, încercând totuși să se adapteze unei lumi pe care, se pare, că nu prea o înțeleg. Inteligența celor doi contrastează puternic cu sociabilitatea și veleitățile de vedetă ale superbei lor vecine, Penny (Kaley Cuoco), de unde și o serie de întâmplări de-a dreptul amuzante într-o comedie care nu trebuie ratată.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor role="Charlie Sheen">Charlie Sheen</actor>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Alex Jensen">Margo Harshman</actor>
-      <actor role="dr. Oliver Lorvis">Billy Bob Thornton</actor>
-      <actor role="dr. Elizabeth Plimpton">Judy Greer</actor>
-      <actor role="Mikayla">Jodi Lyn O'Keefe</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/63/33/the-big-bang-theory-342047l-175x0-w-31c538fc.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.9</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.2</value>
-    </star-rating>
-  </programme>
-  <programme start="20230720170000 +0300" stop="20230720180000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <actor role="Adam Sandler">Adam Sandler</actor>
-      <actor role="Sophia Perez / Sophia">Eva Longoria</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor role="Milton">Ryan Phillippe</actor>
-      <actor>Eric Roberts</actor>
-      <actor>Danny Trejo</actor>
-      <producer>David Hyman</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/58/99/25/brooklyn-nine-nine-322683l-175x0-w-3108c397.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.2</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>8.4</value>
-    </star-rating>
-  </programme>
-  <programme start="20230720180000 +0300" stop="20230720190000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri..(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <actor role="Will Smith / Self">Will Smith</actor>
-      <actor role="Michelle Michaels">Stacey Dash</actor>
-      <actor role="Maurice Perry / Jasmine Perry">Chris Rock</actor>
-      <actor role="Tiny">Michael Clarke Duncan</actor>
-      <actor role="Janet">Vivica A. Fox</actor>
-      <actor role="Dee Dee">Queen Latifah</actor>
-      <producer>Quincy Jones</producer>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Comedie</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/17/29/the-fresh-prince-of-bel-air-692776l-175x0-w-af811107.jpg" />
-    <star-rating system="Nota Film">
-      <value>8.1</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20230720190000 +0300" stop="20230720200000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
-  </programme>
-  <programme start="20230720200000 +0300" stop="20230720210000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Atelierul de Restaurare /s1</title>
-  </programme>
-  <programme start="20230720210000 +0300" stop="20230720220000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Magnum, detectiv particular</title>
-    <title lang="en">Magnum P.I.</title>
-    <desc lang="ro">Thomas Magnum, fost pușcaș marin, revine acasă din Afganistan și își folosește abilitățile și cunoștințele militare pentru a deveni investigator particular în Hawaii.(n)</desc>
-    <credits>
-      <director>Justin Lin</director>
-      <actor role="Gene Curtis / Ivan">Peter Facinelli</actor>
-      <actor role="detectivul Tanaka">Sung Kang</actor>
-      <actor role="Thomas Magnum">Jay Hernandez</actor>
-      <actor role="Megan McGrady">Helena Mattsson</actor>
-      <actor role="Detective Gordon Katsumoto">Tim Kang</actor>
-      <actor role="Eve">Marsha Thomason</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/24/41/081/magnum-pi-352767l-175x0-w-f2a66916.jpg" />
+  <programme start="20230719210000 +0200" stop="20230719220000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.2</value>
-    </star-rating>
   </programme>
-  <programme start="20230720220000 +0300" stop="20230720230000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Cobra 11 în alertă</title>
-    <title lang="en">Alarm für Cobra 11 - Die Autobahnpolizei</title>
-    <desc lang="ro">Episoadele prezintă cazurile unei patrule de ofițeri, de pe autostrăzile din Germania, care trebuie să facă față celor mai spectaculoase urmări de mașini, explozii și focuri de armă. Cei doi ofițeri trebuie să-i oprească pe cei mai periculoși criminali și să ducă la bun sfârșit toate misiunile la care iau parte pentru a asigura protecția celor care circulă pe autostradă.(n)</desc>
-    <credits>
-      <director>Arend Agthe</director>
-      <actor role="Lara Degen">Cosma Shiva Hagen</actor>
-      <actor role="Lisa Lichtenberg">Jennifer Ulrich</actor>
-      <actor role="Robert Michalke">Thomas Kretschmann</actor>
-      <actor role="Laura Andress">Bettina Zimmermann</actor>
-      <actor role="Andrea de Sand">Sandra Leonhard</actor>
-      <actor role="Hanna">Jana Pallaske</actor>
-      <producer>Dirk Eggers</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://static.cinemagia.ro/img/resize/db/movie/02/83/10/alarm-fur-cobra-11-die-autobahnpolizei-608618l-175x0-w-237947b7.jpg" />
+  <programme start="20230719220000 +0200" stop="20230719230000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
     <rating system="RO">
       <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
     </rating>
-    <star-rating system="Nota Film">
-      <value>7.8</value>
-    </star-rating>
-    <star-rating system="Imdb">
-      <value>6.3</value>
-    </star-rating>
   </programme>
-  <programme start="20230720230000 +0300" stop="20230721000000 +0300" channel="Pro Arena.ro">
-    <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
+  <programme start="20230719230000 +0200" stop="20230720000000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 32, 33</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_32_33.jpg" />
+  </programme>
+  <programme start="20230720000000 +0200" stop="20230720003000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720003000 +0200" stop="20230720013000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720013000 +0200" stop="20230720023000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720023000 +0200" stop="20230720030000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720030000 +0200" stop="20230720040000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230720040000 +0200" stop="20230720060000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 350, 351, 352, 353</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_350_351_352_353.jpg" />
+  </programme>
+  <programme start="20230720060000 +0200" stop="20230720070000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20230720070000 +0200" stop="20230720073000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720073000 +0200" stop="20230720083000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 27, 28</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_27_28.jpg" />
+  </programme>
+  <programme start="20230720083000 +0200" stop="20230720093000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20230720093000 +0200" stop="20230720103000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 5, 6</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_5_6.jpg" />
+  </programme>
+  <programme start="20230720103000 +0200" stop="20230720113000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 21, 22</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_21_22.jpg" />
+  </programme>
+  <programme start="20230720113000 +0200" stop="20230720123000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 21, 22</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_21_22.jpg" />
+  </programme>
+  <programme start="20230720123000 +0200" stop="20230720130000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720130000 +0200" stop="20230720140000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230720140000 +0200" stop="20230720150000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 29, 30</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_29_30.jpg" />
+  </programme>
+  <programme start="20230720150000 +0200" stop="20230720160000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20230720160000 +0200" stop="20230720170000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 7, 8</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_7_8.jpg" />
+  </programme>
+  <programme start="20230720170000 +0200" stop="20230720180000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 2, 3</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_2_3.jpg" />
+  </programme>
+  <programme start="20230720180000 +0200" stop="20230720190000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 23, 24</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_23_24.jpg" />
+  </programme>
+  <programme start="20230720190000 +0200" stop="20230720200000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 34, 35</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_34_35.jpg" />
+  </programme>
+  <programme start="20230720200000 +0200" stop="20230720210000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20230720210000 +0200" stop="20230720220000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720220000 +0200" stop="20230720230000 +0200" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_6.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
   </programme>
   <programme start="20230718070000 +0300" stop="20230718090000 +0300" channel="Digi24.ro">
     <title lang="ro">Digimatinal</title>
@@ -7994,6 +7455,1280 @@ Un serial care prezintă o echipă de experți în antichități care cumpără 
     </star-rating>
     <star-rating system="Imdb">
       <value>7.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718070000 +0300" stop="20230718090000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Taina din adancuri</title>
+    <title lang="en">El manantial</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Adriana Barraza</director>
+      <actor>Adela Noriega</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>César Évora</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Karyme Lozano</actor>
+      <actor>Lorena Enríquez</actor>
+      <producer>Carla Estrada</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718090000 +0300" stop="20230718091500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20230718091500 +0300" stop="20230718110000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Micuta raza de soare</title>
+    <title lang="en">Bir Küçük Gün Isigi</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Emre Kabakusak</director>
+      <actor>Eda Özerkan</actor>
+      <actor>Berk Oktay</actor>
+      <actor>Seray Kaya</actor>
+      <actor>Yildiz Kültür</actor>
+      <actor>Altan Erkekli</actor>
+      <actor>Günes Hayat</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.3</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718110000 +0300" stop="20230718111500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20230718111500 +0300" stop="20230718121500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Maria si Mustafa</title>
+    <title lang="en">Maria ile Mustafa</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Bahadir Ince</director>
+      <actor>Tamer Levent</actor>
+      <actor>Mine Tüfekçioglu</actor>
+      <actor>Cem Karakaya</actor>
+      <actor>Haldun Boysan</actor>
+      <actor>Alpay Kemal Atalan</actor>
+      <actor>Ceyhun Mergiroglu</actor>
+      <producer>Mehmet Yigit Alp</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718121500 +0300" stop="20230718131500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Mostenirea</title>
+    <title lang="en">Emanet</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor>Sila Turkoglu</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Gülderen Güler</actor>
+      <actor>Gözde Gürkan</actor>
+      <actor>Ferda Isil</actor>
+      <producer>Nazmiye Yilmaz</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/68/615/emanet-131529l-175x0-w-5bd56f96.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.0</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718131500 +0300" stop="20230718141500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Nu ma parasi!</title>
+    <title lang="en">Beni birakma</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Gürsel Ates</director>
+      <actor role="Kiymet">Senay Kösem</actor>
+      <actor>Sila Özlem Önemli</actor>
+      <actor role="Meltem">Esengül Aypek</actor>
+      <actor role="Seher">Sebnem Gürsoy Talay</actor>
+      <actor role="Pasa">Ferhat Saskin</actor>
+      <actor role="Sila">Sude Dogar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718141500 +0300" stop="20230718153000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Furtună pe Bosfor</title>
+    <title lang="en">Paramparça</title>
+    <desc lang="ro">La maternitate, o asistentă medicală încurcă două fetițe din cauza numelor de familie foarte asemănătoare. Familia înstărită ia acasă fetița celei sărace și viceversa. După 15 ani, toată lumea află despre încurcătură.(n)</desc>
+    <credits>
+      <director>Cevdet Mercan</director>
+      <actor role="Gülseren">Nurgül Yesilçay</actor>
+      <actor role="Cihan">Erkan Petekkaya</actor>
+      <actor role="Dilara">Ebru Özkan</actor>
+      <actor role="Alper">Cemal Hünal</actor>
+      <actor role="Hazal">Alina Boz</actor>
+      <actor>Baris Falay(role= Harun Erguvan
+ / ... 
+ -2016))</actor>
+      <producer>Özlem Yurtsever</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/78/37/11/paramparca-264342l-175x0-w-2c3a9962.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718153000 +0300" stop="20230718173000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Taina din adancuri</title>
+    <title lang="en">El manantial</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Adriana Barraza</director>
+      <actor>Adela Noriega</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>César Évora</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Karyme Lozano</actor>
+      <actor>Lorena Enríquez</actor>
+      <producer>Carla Estrada</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718173000 +0300" stop="20230718180000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Happy Cafe</title>
+  </programme>
+  <programme start="20230718180000 +0300" stop="20230718190000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Mostenirea</title>
+    <title lang="en">Emanet</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor>Sila Turkoglu</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Gülderen Güler</actor>
+      <actor>Gözde Gürkan</actor>
+      <actor>Ferda Isil</actor>
+      <producer>Nazmiye Yilmaz</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/68/615/emanet-131529l-175x0-w-5bd56f96.jpg" />
+    <episode-num system="onscreen">S3 E113</episode-num>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.0</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718190000 +0300" stop="20230718200000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Nu ma parasi!</title>
+    <title lang="en">Beni birakma</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Gürsel Ates</director>
+      <actor role="Kiymet">Senay Kösem</actor>
+      <actor>Sila Özlem Önemli</actor>
+      <actor role="Meltem">Esengül Aypek</actor>
+      <actor role="Seher">Sebnem Gürsoy Talay</actor>
+      <actor role="Pasa">Ferhat Saskin</actor>
+      <actor role="Sila">Sude Dogar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718200000 +0300" stop="20230718220000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Micuta raza de soare</title>
+    <title lang="en">Bir Küçük Gün Isigi</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Emre Kabakusak</director>
+      <actor>Eda Özerkan</actor>
+      <actor>Berk Oktay</actor>
+      <actor>Seray Kaya</actor>
+      <actor>Yildiz Kültür</actor>
+      <actor>Altan Erkekli</actor>
+      <actor>Günes Hayat</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.3</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718220000 +0300" stop="20230718230000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Furtună pe Bosfor</title>
+    <title lang="en">Paramparça</title>
+    <desc lang="ro">La maternitate, o asistentă medicală încurcă două fetițe din cauza numelor de familie foarte asemănătoare. Familia înstărită ia acasă fetița celei sărace și viceversa. După 15 ani, toată lumea află despre încurcătură.(n)</desc>
+    <credits>
+      <director>Cevdet Mercan</director>
+      <actor role="Gülseren">Nurgül Yesilçay</actor>
+      <actor role="Cihan">Erkan Petekkaya</actor>
+      <actor role="Dilara">Ebru Özkan</actor>
+      <actor role="Alper">Cemal Hünal</actor>
+      <actor role="Hazal">Alina Boz</actor>
+      <actor>Baris Falay(role= Harun Erguvan
+ / ... 
+ -2016))</actor>
+      <producer>Özlem Yurtsever</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/78/37/11/paramparca-264342l-175x0-w-2c3a9962.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230718230000 +0300" stop="20230719000000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Maria si Mustafa</title>
+    <title lang="en">Maria ile Mustafa</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Bahadir Ince</director>
+      <actor>Tamer Levent</actor>
+      <actor>Mine Tüfekçioglu</actor>
+      <actor>Cem Karakaya</actor>
+      <actor>Haldun Boysan</actor>
+      <actor>Alpay Kemal Atalan</actor>
+      <actor>Ceyhun Mergiroglu</actor>
+      <producer>Mehmet Yigit Alp</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719000000 +0300" stop="20230719010000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Mostenirea</title>
+    <title lang="en">Emanet</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor>Sila Turkoglu</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Gülderen Güler</actor>
+      <actor>Gözde Gürkan</actor>
+      <actor>Ferda Isil</actor>
+      <producer>Nazmiye Yilmaz</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/68/615/emanet-131529l-175x0-w-5bd56f96.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.0</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719010000 +0300" stop="20230719014500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Nu ma parasi!</title>
+    <title lang="en">Beni birakma</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Gürsel Ates</director>
+      <actor role="Kiymet">Senay Kösem</actor>
+      <actor>Sila Özlem Önemli</actor>
+      <actor role="Meltem">Esengül Aypek</actor>
+      <actor role="Seher">Sebnem Gürsoy Talay</actor>
+      <actor role="Pasa">Ferhat Saskin</actor>
+      <actor role="Sila">Sude Dogar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719014500 +0300" stop="20230719021500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Happy Cafe</title>
+  </programme>
+  <programme start="20230719021500 +0300" stop="20230719030000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Maria si Mustafa</title>
+    <title lang="en">Maria ile Mustafa</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Bahadir Ince</director>
+      <actor>Tamer Levent</actor>
+      <actor>Mine Tüfekçioglu</actor>
+      <actor>Cem Karakaya</actor>
+      <actor>Haldun Boysan</actor>
+      <actor>Alpay Kemal Atalan</actor>
+      <actor>Ceyhun Mergiroglu</actor>
+      <producer>Mehmet Yigit Alp</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719030000 +0300" stop="20230719044500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Sacrificiul</title>
+    <desc lang="ro">Sacrificiul, serialul produs de Ruxandra Ion pentru Antena 1 redă trei povești excepționale, cu destine memorabile, una dintre ele aducând în prim plan viaţa familiei Oprea. Capul familiei Oprea este Ștefan (Claudiu Istodor), un bărbat cu o avere impresionantă, fără scrupule și cu o viață dominată de minciuni, principalul interes fiind banul. Alături o are pe soția sa, Eva (Maia Morgenstern), care s-a măritat destul de târziu cu Ștefan, un caracter total opus ei. Odată cu Ștefan au intrat în viața… citeşte.(n)</desc>
+    <credits>
+      <director>Radu Grigore</director>
+      <actor role="Diva">Oana Zăvoranu</actor>
+      <actor role="Iris Zamfir">Cristina Ciobănașu</actor>
+      <actor role="-2020">Dorian Popa</actor>
+      <actor role="Amza Oprea">Vlad Gherman</actor>
+      <actor role="Eva Oprea">Maia Morgenstern</actor>
+      <actor>Cristian Iacob</actor>
+      <producer>Ruxandra Ion</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/27/68/181/sacrificiul-915355l-175x0-w-7528f81a.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.2</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719044500 +0300" stop="20230719051500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Happy Cafe</title>
+  </programme>
+  <programme start="20230719051500 +0300" stop="20230719060000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20230719060000 +0300" stop="20230719070000 +0300" channel="HappyTV.ro">
+    <title lang="ro">O rază de speranță</title>
+    <title lang="en">Bahari Beklerken</title>
+    <desc lang="ro">Soțul lui Ipek, Omer, a fost închis din cauza acuzațiilor de furt în urmă cu mulți ani. Între timp, Ipek, care era însărcinată în acel moment, intră în travaliu timpuriu și își pierde copilul la scurt timp după naștere. Îngropând durerea bebelușului și a soțului ei înăuntru, Ipek trăiește ca un refugiat de ani de zile la casa familiei unchiului ei. Neștiind că tot ceea ce Halil deține, fiul unchiului ei, îi aparținea de fapt ei. Au trecut unsprezece ani de la aceste evenimente. Omer, datorită… citeşte.(n)</desc>
+    <credits>
+      <director>Ayhan Özdemir</director>
+      <actor>Halil Kumova</actor>
+      <actor>Isabella Damla Guvenilir</actor>
+      <actor>Nuray Serefoglu</actor>
+      <actor>Fatih Ayhan</actor>
+      <actor>Alev Oraloglu</actor>
+      <actor>Serif Bozkurt</actor>
+      <producer>Ozkan Ipek</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/11/539/bahari-beklerken-727833l-175x0-w-4760dd37.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.3</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719070000 +0300" stop="20230719090000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Taina din adancuri</title>
+    <title lang="en">El manantial</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Adriana Barraza</director>
+      <actor>Adela Noriega</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>César Évora</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Karyme Lozano</actor>
+      <actor>Lorena Enríquez</actor>
+      <producer>Carla Estrada</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719090000 +0300" stop="20230719091500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20230719091500 +0300" stop="20230719111500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Micuta raza de soare</title>
+    <title lang="en">Bir Küçük Gün Isigi</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Emre Kabakusak</director>
+      <actor>Eda Özerkan</actor>
+      <actor>Berk Oktay</actor>
+      <actor>Seray Kaya</actor>
+      <actor>Yildiz Kültür</actor>
+      <actor>Altan Erkekli</actor>
+      <actor>Günes Hayat</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.3</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719111500 +0300" stop="20230719113000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20230719113000 +0300" stop="20230719123000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Maria si Mustafa</title>
+    <title lang="en">Maria ile Mustafa</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Bahadir Ince</director>
+      <actor>Tamer Levent</actor>
+      <actor>Mine Tüfekçioglu</actor>
+      <actor>Cem Karakaya</actor>
+      <actor>Haldun Boysan</actor>
+      <actor>Alpay Kemal Atalan</actor>
+      <actor>Ceyhun Mergiroglu</actor>
+      <producer>Mehmet Yigit Alp</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719123000 +0300" stop="20230719133000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Mostenirea</title>
+    <title lang="en">Emanet</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor>Sila Turkoglu</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Gülderen Güler</actor>
+      <actor>Gözde Gürkan</actor>
+      <actor>Ferda Isil</actor>
+      <producer>Nazmiye Yilmaz</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/68/615/emanet-131529l-175x0-w-5bd56f96.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.0</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719133000 +0300" stop="20230719143000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Nu ma parasi!</title>
+    <title lang="en">Beni birakma</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Gürsel Ates</director>
+      <actor role="Kiymet">Senay Kösem</actor>
+      <actor>Sila Özlem Önemli</actor>
+      <actor role="Meltem">Esengül Aypek</actor>
+      <actor role="Seher">Sebnem Gürsoy Talay</actor>
+      <actor role="Pasa">Ferhat Saskin</actor>
+      <actor role="Sila">Sude Dogar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719143000 +0300" stop="20230719153000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Furtună pe Bosfor</title>
+    <title lang="en">Paramparça</title>
+    <desc lang="ro">La maternitate, o asistentă medicală încurcă două fetițe din cauza numelor de familie foarte asemănătoare. Familia înstărită ia acasă fetița celei sărace și viceversa. După 15 ani, toată lumea află despre încurcătură.(n)</desc>
+    <credits>
+      <director>Cevdet Mercan</director>
+      <actor role="Gülseren">Nurgül Yesilçay</actor>
+      <actor role="Cihan">Erkan Petekkaya</actor>
+      <actor role="Dilara">Ebru Özkan</actor>
+      <actor role="Alper">Cemal Hünal</actor>
+      <actor role="Hazal">Alina Boz</actor>
+      <actor>Baris Falay(role= Harun Erguvan
+ / ... 
+ -2016))</actor>
+      <producer>Özlem Yurtsever</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/78/37/11/paramparca-264342l-175x0-w-2c3a9962.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719153000 +0300" stop="20230719173000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Taina din adancuri</title>
+    <title lang="en">El manantial</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Adriana Barraza</director>
+      <actor>Adela Noriega</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>César Évora</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Karyme Lozano</actor>
+      <actor>Lorena Enríquez</actor>
+      <producer>Carla Estrada</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719173000 +0300" stop="20230719180000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Happy Cafe</title>
+  </programme>
+  <programme start="20230719180000 +0300" stop="20230719190000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Mostenirea</title>
+    <title lang="en">Emanet</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor>Sila Turkoglu</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Gülderen Güler</actor>
+      <actor>Gözde Gürkan</actor>
+      <actor>Ferda Isil</actor>
+      <producer>Nazmiye Yilmaz</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/68/615/emanet-131529l-175x0-w-5bd56f96.jpg" />
+    <episode-num system="onscreen">S3 E114</episode-num>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.0</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719190000 +0300" stop="20230719200000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Nu ma parasi!</title>
+    <title lang="en">Beni birakma</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Gürsel Ates</director>
+      <actor role="Kiymet">Senay Kösem</actor>
+      <actor>Sila Özlem Önemli</actor>
+      <actor role="Meltem">Esengül Aypek</actor>
+      <actor role="Seher">Sebnem Gürsoy Talay</actor>
+      <actor role="Pasa">Ferhat Saskin</actor>
+      <actor role="Sila">Sude Dogar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719200000 +0300" stop="20230719220000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Golden Boy – Dragoste rebela</title>
+    <title lang="en">Yali Çapkini</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Burcu Alptekin</director>
+      <actor>Çetin Tekindor</actor>
+      <actor>Hülya Duyar</actor>
+      <actor>Afra Saraçoglu</actor>
+      <actor>Menderes Samancilar</actor>
+      <actor>Gözde Kansu</actor>
+      <actor>Gülçin Santircioglu</actor>
+      <producer>Onur Güvenatam</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/32/58/147/yali-capkini-194539l-175x0-w-b1984e2f.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>9.2</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719220000 +0300" stop="20230719230000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Furtună pe Bosfor</title>
+    <title lang="en">Paramparça</title>
+    <desc lang="ro">La maternitate, o asistentă medicală încurcă două fetițe din cauza numelor de familie foarte asemănătoare. Familia înstărită ia acasă fetița celei sărace și viceversa. După 15 ani, toată lumea află despre încurcătură.(n)</desc>
+    <credits>
+      <director>Cevdet Mercan</director>
+      <actor role="Gülseren">Nurgül Yesilçay</actor>
+      <actor role="Cihan">Erkan Petekkaya</actor>
+      <actor role="Dilara">Ebru Özkan</actor>
+      <actor role="Alper">Cemal Hünal</actor>
+      <actor role="Hazal">Alina Boz</actor>
+      <actor>Baris Falay(role= Harun Erguvan
+ / ... 
+ -2016))</actor>
+      <producer>Özlem Yurtsever</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/78/37/11/paramparca-264342l-175x0-w-2c3a9962.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230719230000 +0300" stop="20230720000000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Maria si Mustafa</title>
+    <title lang="en">Maria ile Mustafa</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Bahadir Ince</director>
+      <actor>Tamer Levent</actor>
+      <actor>Mine Tüfekçioglu</actor>
+      <actor>Cem Karakaya</actor>
+      <actor>Haldun Boysan</actor>
+      <actor>Alpay Kemal Atalan</actor>
+      <actor>Ceyhun Mergiroglu</actor>
+      <producer>Mehmet Yigit Alp</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720000000 +0300" stop="20230720010000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Mostenirea</title>
+    <title lang="en">Emanet</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor>Sila Turkoglu</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Gülderen Güler</actor>
+      <actor>Gözde Gürkan</actor>
+      <actor>Ferda Isil</actor>
+      <producer>Nazmiye Yilmaz</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/68/615/emanet-131529l-175x0-w-5bd56f96.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.0</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720010000 +0300" stop="20230720014500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Nu ma parasi!</title>
+    <title lang="en">Beni birakma</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Gürsel Ates</director>
+      <actor role="Kiymet">Senay Kösem</actor>
+      <actor>Sila Özlem Önemli</actor>
+      <actor role="Meltem">Esengül Aypek</actor>
+      <actor role="Seher">Sebnem Gürsoy Talay</actor>
+      <actor role="Pasa">Ferhat Saskin</actor>
+      <actor role="Sila">Sude Dogar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720014500 +0300" stop="20230720021500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Happy Cafe</title>
+  </programme>
+  <programme start="20230720021500 +0300" stop="20230720030000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Maria si Mustafa</title>
+    <title lang="en">Maria ile Mustafa</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Bahadir Ince</director>
+      <actor>Tamer Levent</actor>
+      <actor>Mine Tüfekçioglu</actor>
+      <actor>Cem Karakaya</actor>
+      <actor>Haldun Boysan</actor>
+      <actor>Alpay Kemal Atalan</actor>
+      <actor>Ceyhun Mergiroglu</actor>
+      <producer>Mehmet Yigit Alp</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720030000 +0300" stop="20230720044500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Sacrificiul</title>
+    <desc lang="ro">Sacrificiul, serialul produs de Ruxandra Ion pentru Antena 1 redă trei povești excepționale, cu destine memorabile, una dintre ele aducând în prim plan viaţa familiei Oprea. Capul familiei Oprea este Ștefan (Claudiu Istodor), un bărbat cu o avere impresionantă, fără scrupule și cu o viață dominată de minciuni, principalul interes fiind banul. Alături o are pe soția sa, Eva (Maia Morgenstern), care s-a măritat destul de târziu cu Ștefan, un caracter total opus ei. Odată cu Ștefan au intrat în viața… citeşte.(n)</desc>
+    <credits>
+      <director>Radu Grigore</director>
+      <actor role="Diva">Oana Zăvoranu</actor>
+      <actor role="Iris Zamfir">Cristina Ciobănașu</actor>
+      <actor role="-2020">Dorian Popa</actor>
+      <actor role="Amza Oprea">Vlad Gherman</actor>
+      <actor role="Eva Oprea">Maia Morgenstern</actor>
+      <actor>Cristian Iacob</actor>
+      <producer>Ruxandra Ion</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/27/68/181/sacrificiul-915355l-175x0-w-7528f81a.jpg" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.2</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720044500 +0300" stop="20230720051500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Happy Cafe</title>
+  </programme>
+  <programme start="20230720051500 +0300" stop="20230720060000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20230720060000 +0300" stop="20230720070000 +0300" channel="HappyTV.ro">
+    <title lang="ro">O rază de speranță</title>
+    <title lang="en">Bahari Beklerken</title>
+    <desc lang="ro">Soțul lui Ipek, Omer, a fost închis din cauza acuzațiilor de furt în urmă cu mulți ani. Între timp, Ipek, care era însărcinată în acel moment, intră în travaliu timpuriu și își pierde copilul la scurt timp după naștere. Îngropând durerea bebelușului și a soțului ei înăuntru, Ipek trăiește ca un refugiat de ani de zile la casa familiei unchiului ei. Neștiind că tot ceea ce Halil deține, fiul unchiului ei, îi aparținea de fapt ei. Au trecut unsprezece ani de la aceste evenimente. Omer, datorită… citeşte.(n)</desc>
+    <credits>
+      <director>Ayhan Özdemir</director>
+      <actor>Halil Kumova</actor>
+      <actor>Isabella Damla Guvenilir</actor>
+      <actor>Nuray Serefoglu</actor>
+      <actor>Fatih Ayhan</actor>
+      <actor>Alev Oraloglu</actor>
+      <actor>Serif Bozkurt</actor>
+      <producer>Ozkan Ipek</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/11/539/bahari-beklerken-727833l-175x0-w-4760dd37.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.3</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720070000 +0300" stop="20230720090000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Taina din adancuri</title>
+    <title lang="en">El manantial</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Adriana Barraza</director>
+      <actor>Adela Noriega</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>César Évora</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Karyme Lozano</actor>
+      <actor>Lorena Enríquez</actor>
+      <producer>Carla Estrada</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720090000 +0300" stop="20230720091500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20230720091500 +0300" stop="20230720111500 +0300" channel="HappyTV.ro">
+    <title lang="ro">Golden Boy – Dragoste rebela</title>
+    <title lang="en">Yali Çapkini</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Burcu Alptekin</director>
+      <actor>Çetin Tekindor</actor>
+      <actor>Hülya Duyar</actor>
+      <actor>Afra Saraçoglu</actor>
+      <actor>Menderes Samancilar</actor>
+      <actor>Gözde Kansu</actor>
+      <actor>Gülçin Santircioglu</actor>
+      <producer>Onur Güvenatam</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/32/58/147/yali-capkini-194539l-175x0-w-b1984e2f.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>9.2</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720111500 +0300" stop="20230720113000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20230720113000 +0300" stop="20230720123000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Maria si Mustafa</title>
+    <title lang="en">Maria ile Mustafa</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Bahadir Ince</director>
+      <actor>Tamer Levent</actor>
+      <actor>Mine Tüfekçioglu</actor>
+      <actor>Cem Karakaya</actor>
+      <actor>Haldun Boysan</actor>
+      <actor>Alpay Kemal Atalan</actor>
+      <actor>Ceyhun Mergiroglu</actor>
+      <producer>Mehmet Yigit Alp</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720123000 +0300" stop="20230720133000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Mostenirea</title>
+    <title lang="en">Emanet</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor>Sila Turkoglu</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Gülderen Güler</actor>
+      <actor>Gözde Gürkan</actor>
+      <actor>Ferda Isil</actor>
+      <producer>Nazmiye Yilmaz</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/68/615/emanet-131529l-175x0-w-5bd56f96.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.0</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720133000 +0300" stop="20230720143000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Nu ma parasi!</title>
+    <title lang="en">Beni birakma</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Gürsel Ates</director>
+      <actor role="Kiymet">Senay Kösem</actor>
+      <actor>Sila Özlem Önemli</actor>
+      <actor role="Meltem">Esengül Aypek</actor>
+      <actor role="Seher">Sebnem Gürsoy Talay</actor>
+      <actor role="Pasa">Ferhat Saskin</actor>
+      <actor role="Sila">Sude Dogar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720143000 +0300" stop="20230720153000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Furtună pe Bosfor</title>
+    <title lang="en">Paramparça</title>
+    <desc lang="ro">La maternitate, o asistentă medicală încurcă două fetițe din cauza numelor de familie foarte asemănătoare. Familia înstărită ia acasă fetița celei sărace și viceversa. După 15 ani, toată lumea află despre încurcătură.(n)</desc>
+    <credits>
+      <director>Cevdet Mercan</director>
+      <actor role="Gülseren">Nurgül Yesilçay</actor>
+      <actor role="Cihan">Erkan Petekkaya</actor>
+      <actor role="Dilara">Ebru Özkan</actor>
+      <actor role="Alper">Cemal Hünal</actor>
+      <actor role="Hazal">Alina Boz</actor>
+      <actor>Baris Falay(role= Harun Erguvan
+ / ... 
+ -2016))</actor>
+      <producer>Özlem Yurtsever</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/78/37/11/paramparca-264342l-175x0-w-2c3a9962.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720153000 +0300" stop="20230720173000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Taina din adancuri</title>
+    <title lang="en">El manantial</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Adriana Barraza</director>
+      <actor>Adela Noriega</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>César Évora</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Karyme Lozano</actor>
+      <actor>Lorena Enríquez</actor>
+      <producer>Carla Estrada</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720173000 +0300" stop="20230720180000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Happy Cafe</title>
+  </programme>
+  <programme start="20230720180000 +0300" stop="20230720190000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Mostenirea</title>
+    <title lang="en">Emanet</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor>Sila Turkoglu</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Gülderen Güler</actor>
+      <actor>Gözde Gürkan</actor>
+      <actor>Ferda Isil</actor>
+      <producer>Nazmiye Yilmaz</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/30/68/615/emanet-131529l-175x0-w-5bd56f96.jpg" />
+    <episode-num system="onscreen">S3 E115</episode-num>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.0</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720190000 +0300" stop="20230720200000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Nu ma parasi!</title>
+    <title lang="en">Beni birakma</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Gürsel Ates</director>
+      <actor role="Kiymet">Senay Kösem</actor>
+      <actor>Sila Özlem Önemli</actor>
+      <actor role="Meltem">Esengül Aypek</actor>
+      <actor role="Seher">Sebnem Gürsoy Talay</actor>
+      <actor role="Pasa">Ferhat Saskin</actor>
+      <actor role="Sila">Sude Dogar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>7.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720200000 +0300" stop="20230720220000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Jurământul</title>
+    <title lang="en">Yemin</title>
+    <desc lang="ro">Povestea urmărește o idilă ce începe cum nu se poate mai prost, între doi oameni care nu au nimic în comun. Reyhan este o fată de la țară, frumoasă și cuminte, care, după ce rămâne orfană, ajută un vechi prieten al familiei sale, Hikmet. Acesta este un om bogat, care tocmai a primit un diagnostic teribil, de boală terminală.(n)</desc>
+    <credits>
+      <director>Ayhan Özen</director>
+      <actor role="Reyhan">Özge Yagiz</actor>
+      <actor role="Emir">Gokberk Demirci</actor>
+      <actor role="Suna">Sila Turkoglu</actor>
+      <actor role="Kemal">Can Verel</actor>
+      <actor role="Melike">Esra Çoban</actor>
+      <actor role="Süheyla">Tugçe Ersoy</actor>
+      <producer>Armagan Pertez</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/29/33/441/yemin-471588l-175x0-w-2c54ee41.jpg" />
+    <episode-num system="onscreen">S4 E219</episode-num>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.4</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720220000 +0300" stop="20230720230000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Furtună pe Bosfor</title>
+    <title lang="en">Paramparça</title>
+    <desc lang="ro">La maternitate, o asistentă medicală încurcă două fetițe din cauza numelor de familie foarte asemănătoare. Familia înstărită ia acasă fetița celei sărace și viceversa. După 15 ani, toată lumea află despre încurcătură.(n)</desc>
+    <credits>
+      <director>Cevdet Mercan</director>
+      <actor role="Gülseren">Nurgül Yesilçay</actor>
+      <actor role="Cihan">Erkan Petekkaya</actor>
+      <actor role="Dilara">Ebru Özkan</actor>
+      <actor role="Alper">Cemal Hünal</actor>
+      <actor role="Hazal">Alina Boz</actor>
+      <actor>Baris Falay(role= Harun Erguvan
+ / ... 
+ -2016))</actor>
+      <producer>Özlem Yurtsever</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/78/37/11/paramparca-264342l-175x0-w-2c3a9962.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Nota Film">
+      <value>8.9</value>
+    </star-rating>
+    <star-rating system="Imdb">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20230720230000 +0300" stop="20230721000000 +0300" channel="HappyTV.ro">
+    <title lang="ro">Maria si Mustafa</title>
+    <title lang="en">Maria ile Mustafa</title>
+    <desc lang="ro">Acest film nu are sinopsis.(n)</desc>
+    <credits>
+      <director>Bahadir Ince</director>
+      <actor>Tamer Levent</actor>
+      <actor>Mine Tüfekçioglu</actor>
+      <actor>Cem Karakaya</actor>
+      <actor>Haldun Boysan</actor>
+      <actor>Alpay Kemal Atalan</actor>
+      <actor>Ceyhun Mergiroglu</actor>
+      <producer>Mehmet Yigit Alp</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/noimg_main_l-175x0-w-b6444d0a.jpg" />
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.9</value>
     </star-rating>
   </programme>
   <programme start="20230718080000 +0300" stop="20230718130000 +0300" channel="MTVHits.ro">
