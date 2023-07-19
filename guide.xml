@@ -5,6 +5,16 @@
     <icon src="https://program-tv.net/images/pro_tv.svg" />
     <url>http://www.program-tv.net</url>
   </channel>
+  <channel id="Antena1.ro">
+    <display-name lang="ro">Antena 1 (HD)</display-name>
+    <icon src="https://program-tv.net/images/antena1_hd.svg" />
+    <url>http://www.program-tv.net</url>
+  </channel>
+  <channel id="Pro Arena.ro">
+    <display-name lang="ro">PRO ARENA</display-name>
+    <icon src="https://program-tv.net/images/pro_arena.svg" />
+    <url>http://www.program-tv.net</url>
+  </channel>
   <programme start="20230719000000 +0300" stop="20230719021500 +0300" channel="ProTV.ro">
     <title lang="ro">BAD BOYS</title>
     <title lang="ro">Bad Boys</title>
@@ -330,6 +340,2295 @@
     </credits>
     <date>2006</date>
     <icon src="https://program-tv.net/img/normal/81/8132/Misiune_in_forta.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230721233000 +0300" stop="20230722013000 +0300" channel="ProTV.ro">
+    <title lang="ro">OMUL CU PUMNI DE FIER</title>
+    <title lang="ro">The Man With The Iron Fists</title>
+    <desc lang="ro">Filmul prezinta povestea unor razboinici asasini, precum si a unui erou singuratic din China secolului al 19-lea, care trebuie sa faca front comun pentru a distruge un clan de tradatori. De la sosirea sa in satul Jungle din C.(n)</desc>
+    <credits>
+      <director>RZA</director>
+      <actor>RZA</actor>
+      <actor>Rick Yune</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Jamie Ching</actor>
+      <actor>Byron Mann</actor>
+    </credits>
+    <date>2012</date>
+    <icon src="https://program-tv.net/img/normal/96/9690/Omul_cu_pumni_de_fier.jpg" />
+    <rating system="RO">
+      <value>15</value>
+      <icon src="https://musor.tv/images/etc/pg_15.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722013000 +0300" stop="20230722031500 +0300" channel="ProTV.ro">
+    <title lang="ro">RUNDA FINALĂ</title>
+    <title lang="ro">Undisputed</title>
+    <desc lang="ro">În urmã cu zece ani, Monroe Hutchen (WESLEY SNIPES) era un boxeur din California aflat în plinã ascensiune. Dar într-o noapte, într-un acces de furie comite o crimã care-l condamnã la închisoare pe viatã fãrã posibilitatea eliberãrii con.(n)</desc>
+    <credits>
+      <director>Walter Hill</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Ving Rhames</actor>
+    </credits>
+    <date>2002</date>
+    <icon src="https://program-tv.net/img/normal/99/9943/Runda_finala.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722031500 +0300" stop="20230722040000 +0300" channel="ProTV.ro">
+    <title lang="ro">LAS FIERBINŢI</title>
+    <sub-title lang="ro">- Ce-ai făcut, Bobiță?</sub-title>
+    <desc lang="ro">- Ce-ai făcut, Bobiță?##- Bă, ești prost?##- Bă, ești nebun?####Sunt replici pe care le auzi foarte des, iar toate au plecat de la Las Fierbinți, cel mai iubit și urmărit serial din România! Celebra poezie a lui Celentano, monologul Aspirinei.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18707/Las_Fierbinti.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722040000 +0300" stop="20230722060000 +0300" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
+  </programme>
+  <programme start="20230722060000 +0300" stop="20230722070000 +0300" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
+  </programme>
+  <programme start="20230722070000 +0300" stop="20230722100000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230722100000 +0300" stop="20230722120000 +0300" channel="ProTV.ro">
+    <title lang="ro">BASCHEŢII FERMECAŢI 2</title>
+    <sub-title lang="ro">Regia: David Nelson</sub-title>
+    <desc lang="ro">Cu: Jascha Washington, Kel Mitchell, Michael Beach, Brett Kelly, Micah Williams, Michael Adamthwaite.(n)</desc>
+    <credits>
+      <director>David Nelson</director>
+      <actor>Jascha Washington</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Michael Beach</actor>
+      <actor>Brett Kelly</actor>
+      <actor>Micah Williams</actor>
+      <actor>Michael Adamthwaite</actor>
+    </credits>
+    <date>2006</date>
+  </programme>
+  <programme start="20230722120000 +0300" stop="20230722140000 +0300" channel="ProTV.ro">
+    <title lang="ro">NANCY DREW</title>
+    <title lang="ro">Nancy Drew</title>
+    <sub-title lang="ro">Nancy Drew, adolescenta detectiv, il insoțește pe tatăl ei intr-o călătorie de afaceri la Los Angeles, unde găsește indicii despre un caz misterios de crimă, in care e implicat un star de cinema</sub-title>
+    <desc lang="ro">Regia: Andrew Fleming##Cu: Emma Roberts,Josh F.(n)</desc>
+    <credits>
+      <director>Andrew Fleming</director>
+      <actor>Emma Roberts,Josh Flitter,Max Thieriot,Rachael Leigh Cook,Tate Donovan</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://program-tv.net/img/normal/57/5748/Nancy_Drew.jpg" />
+  </programme>
+  <programme start="20230722140000 +0300" stop="20230722154500 +0300" channel="ProTV.ro">
+    <title lang="ro">O MINCIUNĂ GOGONATĂ</title>
+    <title lang="ro">Big Fat Liar</title>
+    <desc lang="ro">Avánd in distribuție cele mai grozave vedete adolescente de la Hollywood (Frankie Muniz - Malcom in the Middle; Amanda Bynes - Nickolodeon), această comedie hilară de aventuri vă oferă un șir neintrerupt de secvențe de acțiune și farse geni.(n)</desc>
+    <credits>
+      <director>Shawn Levy</director>
+      <actor>Frankie Muniz</actor>
+      <actor>Amanda Bynes</actor>
+    </credits>
+    <date>2002</date>
+    <icon src="https://program-tv.net/img/normal/26/2656/O_minciuna_gogonata.jpg" />
+  </programme>
+  <programme start="20230722154500 +0300" stop="20230722180000 +0300" channel="ProTV.ro">
+    <title lang="ro">SPOT</title>
+    <title lang="ro">See Spot Run</title>
+    <desc lang="ro">Gordon Smith (David Arquette), este un postas care nu se poate lauda ca este un mare iubitor de animale. El aspira doar la gratiile frumoasei sale vecine Stephenie. Astfel, cand aceasta il roaga sa il supravegheze pe fiul ei James, Gordon a.(n)</desc>
+    <credits>
+      <director>John Whitesell</director>
+      <actor>David Arquette</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Joe Viterelli</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Paul Sorvino</actor>
+    </credits>
+    <date>2001</date>
+    <icon src="https://program-tv.net/img/normal/26/2646/Spot.jpg" />
+  </programme>
+  <programme start="20230722180000 +0300" stop="20230722190000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞEF SUB ACOPERIRE</title>
+    <desc lang="ro">Te-ai gândit vreodată dacă șeful tău știe ce se întâmplă într-o zi de muncă? Dacă știe ce presupun multe dintre slujbele din companie sau dacă ar fi în stare să pună umărul la treabă și să facă munca fizică pe care o faci chiar.(n)</desc>
+  </programme>
+  <programme start="20230722190000 +0300" stop="20230722200000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230722200000 +0300" stop="20230722223000 +0300" channel="ProTV.ro">
+    <title lang="ro">SAHARA</title>
+    <title lang="ro">Sahara</title>
+    <sub-title lang="ro">Exploratorul Dirk Pitt (Matthew McConaughey) si amicul sau Al Giordino (Steve Zahn) pornesc in avetura vietii lor, incercand sa gaseasca o comoara in Sahara, una dintre cele mai periculoase regiuni din Africa</sub-title>
+    <desc lang="ro">Exploratorul Dirk Pitt (Matthew McConaughey) si amicul sau Al Giordino (Steve Zahn) pornesc in avetura vietii lor, incercand sa gaseasca o comoara in Sahara, una dintre cele mai periculoase regiuni din Africa.####Regia: Breck Eisner##Cu: Matthew Mcc.(n)</desc>
+    <credits>
+      <director>Breck Eisner</director>
+      <actor>Matthew Mcconaughey</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Penelope Cruz</actor>
+      <actor>William H. Macy</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Delroy Lindo</actor>
+      <actor>Lambert Wilson</actor>
+      <actor>Lennie James</actor>
+      <actor>Robert Cavanah</actor>
+    </credits>
+    <date>2005</date>
+    <icon src="https://program-tv.net/img/normal/24/2495/Sahara.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722223000 +0300" stop="20230723001500 +0300" channel="ProTV.ro">
+    <title lang="ro">MAMA RĂZBUNĂRII</title>
+    <title lang="ro">Breaking In</title>
+    <sub-title lang="ro">Regia: Bill Forsyth</sub-title>
+    <desc lang="ro">Cu: Burt Reynolds, Casey Siemaszko.(n)</desc>
+    <credits>
+      <director>Bill Forsyth</director>
+      <actor>Burt Reynolds</actor>
+      <actor>Casey Siemaszko</actor>
+    </credits>
+    <date>2018</date>
+    <icon src="https://program-tv.net/img/normal/108/10883/Mama_razbunarii.jpg" />
+    <rating system="RO">
+      <value>15</value>
+      <icon src="https://musor.tv/images/etc/pg_15.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723001500 +0300" stop="20230723020000 +0300" channel="ProTV.ro">
+    <title lang="ro">CASCĂ OCHII CĂ O-NCURCI</title>
+    <desc lang="ro">Prins fără voie într-o afacere de spălare de bani şi trezindu-se cu FBI-ul pe urmele lui, bancherul Daryl Chase face schimb de identitate cu Freddy Tiffany, un hoţ mărunt, obraznic şi scandalagiu. Daryl speră că va putea călători liber p�.(n)</desc>
+    <credits>
+      <director>George Gallo</director>
+      <actor>Orlando Jones</actor>
+      <actor>Eddie Griffin</actor>
+      <actor>Gary Grubbs</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723020000 +0300" stop="20230723033000 +0300" channel="ProTV.ro">
+    <title lang="ro">O MINCIUNĂ GOGONATĂ</title>
+    <title lang="ro">Big Fat Liar</title>
+    <desc lang="ro">Avánd in distribuție cele mai grozave vedete adolescente de la Hollywood (Frankie Muniz - Malcom in the Middle; Amanda Bynes - Nickolodeon), această comedie hilară de aventuri vă oferă un șir neintrerupt de secvențe de acțiune și farse geni.(n)</desc>
+    <credits>
+      <director>Shawn Levy</director>
+      <actor>Frankie Muniz</actor>
+      <actor>Amanda Bynes</actor>
+    </credits>
+    <date>2002</date>
+    <icon src="https://program-tv.net/img/normal/26/2656/O_minciuna_gogonata.jpg" />
+  </programme>
+  <programme start="20230723033000 +0300" stop="20230723041500 +0300" channel="ProTV.ro">
+    <title lang="ro">LAS FIERBINŢI</title>
+    <sub-title lang="ro">- Ce-ai făcut, Bobiță?</sub-title>
+    <desc lang="ro">- Ce-ai făcut, Bobiță?##- Bă, ești prost?##- Bă, ești nebun?####Sunt replici pe care le auzi foarte des, iar toate au plecat de la Las Fierbinți, cel mai iubit și urmărit serial din România! Celebra poezie a lui Celentano, monologul Aspirinei.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18707/Las_Fierbinti.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723041500 +0300" stop="20230723060000 +0300" channel="ProTV.ro">
+    <title lang="ro">BASCHEŢII FERMECAŢI 2</title>
+    <sub-title lang="ro">Regia: David Nelson</sub-title>
+    <desc lang="ro">Cu: Jascha Washington, Kel Mitchell, Michael Beach, Brett Kelly, Micah Williams, Michael Adamthwaite.(n)</desc>
+    <credits>
+      <director>David Nelson</director>
+      <actor>Jascha Washington</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Michael Beach</actor>
+      <actor>Brett Kelly</actor>
+      <actor>Micah Williams</actor>
+      <actor>Michael Adamthwaite</actor>
+    </credits>
+    <date>2006</date>
+  </programme>
+  <programme start="20230723060000 +0300" stop="20230723070000 +0300" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
+  </programme>
+  <programme start="20230723070000 +0300" stop="20230723100000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230723100000 +0300" stop="20230723120000 +0300" channel="ProTV.ro">
+    <title lang="ro">DOCTOR DOOLITTLE 3</title>
+    <title lang="ro">Doctor Dolittle 3</title>
+    <sub-title lang="ro">Regia: Rich Thorne</sub-title>
+    <desc lang="ro">Cu: Kyla Pratt, Kristen Wilson, Walker Howard, John Amos, Luciana Carro, Tommy Snider, Calum Worthy, Ryan McDonell, Chenier Hundal, Tara Wilson, John Novak.(n)</desc>
+    <credits>
+      <director>Rich Thorne</director>
+      <actor>Kyla Pratt</actor>
+      <actor>Kristen Wilson</actor>
+      <actor>Walker Howard</actor>
+      <actor>John Amos</actor>
+      <actor>Luciana Carro</actor>
+      <actor>Tommy Snider</actor>
+      <actor>Calum Worthy</actor>
+      <actor>Ryan McDonell</actor>
+      <actor>Chenier Hundal</actor>
+      <actor>Tara Wilson</actor>
+    </credits>
+    <date>2006</date>
+    <icon src="https://program-tv.net/img/normal/156/15669/Doctor_Doolittle_3.jpg" />
+  </programme>
+  <programme start="20230723120000 +0300" stop="20230723140000 +0300" channel="ProTV.ro">
+    <title lang="ro">SPOT</title>
+    <title lang="ro">See Spot Run</title>
+    <desc lang="ro">Gordon Smith (David Arquette), este un postas care nu se poate lauda ca este un mare iubitor de animale. El aspira doar la gratiile frumoasei sale vecine Stephenie. Astfel, cand aceasta il roaga sa il supravegheze pe fiul ei James, Gordon a.(n)</desc>
+    <credits>
+      <director>John Whitesell</director>
+      <actor>David Arquette</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Joe Viterelli</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Paul Sorvino</actor>
+    </credits>
+    <date>2001</date>
+    <icon src="https://program-tv.net/img/normal/26/2646/Spot.jpg" />
+  </programme>
+  <programme start="20230723140000 +0300" stop="20230723163000 +0300" channel="ProTV.ro">
+    <title lang="ro">CÂINI ŞI OAMENII LOR</title>
+    <title lang="ro">Dog Days</title>
+    <sub-title lang="ro">Regia: Ken Marino</sub-title>
+    <desc lang="ro">Cu: Vanessa Hudgens, Nina Dobrev, Eva Longoria, Tig Notaro, Lauren Lapkus, Jessica St. Clair, Tone Bell, Adam Pally, Rob Corddry, Jon Bass, Michael Cassidy, Finn Wolfhard, Ron Cephas Jones, Thomas Lennon.(n)</desc>
+    <credits>
+      <director>Ken Marino</director>
+      <actor>Vanessa Hudgens</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>Eva Longoria</actor>
+      <actor>Tig Notaro</actor>
+      <actor>Lauren Lapkus</actor>
+      <actor>Jessica St. Clair</actor>
+      <actor>Tone Bell</actor>
+      <actor>Adam Pally</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Jon Bass</actor>
+    </credits>
+    <date>2018</date>
+    <icon src="https://program-tv.net/img/normal/189/18919/Caini_si_oamenii_lor.jpg" />
+  </programme>
+  <programme start="20230723163000 +0300" stop="20230723190000 +0300" channel="ProTV.ro">
+    <title lang="ro">MISS AGENT SECRET 2: INARMATA SI SEDUCATOARE</title>
+    <title lang="ro">Miss Congeniality 2: Armed And Fabulous</title>
+    <sub-title lang="ro">Regia: John Pasquin</sub-title>
+    <desc lang="ro">Cu: Sandra Bullock, Diedrich Bader, Regina King, Heather Burns, William Shatner.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Regina King</actor>
+      <actor>Heather Burns</actor>
+      <actor>William Shatner</actor>
+    </credits>
+    <date>2005</date>
+    <icon src="https://program-tv.net/img/normal/67/6712/Miss_Agent_Secret_2_Inarmata_si_seducatoare.jpg" />
+  </programme>
+  <programme start="20230723190000 +0300" stop="20230723200000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230723200000 +0300" stop="20230723221500 +0300" channel="ProTV.ro">
+    <title lang="ro">GREU DE PENSIONAT</title>
+    <desc lang="ro">Frank Moses (Bruce Willis), Joe Matheson (Morgan Freeman), Marvin Boggs (John Malkovich) si Victoria (Helen Mirren), patru fosti agenti CIA, s-au retras din activitate, insa secretele pe care le cunosc ii transforma in tinte vii pentru un asasin.(n)</desc>
+    <credits>
+      <director>Robert Schwentke</director>
+      <actor>Bruce Willis</actor>
+      <actor>Helen Mirren</actor>
+      <actor>Morgan Freman</actor>
+      <actor>Marvin Boggs</actor>
+      <actor>Mary-Louise Parker</actor>
+      <actor>Karl Urban</actor>
+      <actor>Rebecca Pidgeon</actor>
+      <actor>Chris Owens</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723221500 +0300" stop="20230724001500 +0300" channel="ProTV.ro">
+    <title lang="ro">AGENŢII VANGUARD</title>
+    <title lang="ro">Vanguard</title>
+    <desc lang="ro">Compania de paza de top VANGUARD este singura speranţă de supravieţuire a cuiva care a devenit ţinta celor mai periculoşi criminali din lume. Pentru a-şi proteja un client şi pe fiica acestuia, insuşi şeful agenţiei va participa la această.(n)</desc>
+    <credits>
+      <director>Stanley Tong</director>
+      <actor>Jackie Chan</actor>
+      <actor>Yang Yang</actor>
+      <actor>Miya Muqi</actor>
+    </credits>
+    <date>2020</date>
+    <icon src="https://program-tv.net/img/normal/223/22335/Agentii_Vanguard.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724001500 +0300" stop="20230724021500 +0300" channel="ProTV.ro">
+    <title lang="ro">ZONĂ DE PERICOL</title>
+    <title lang="ro">Brick Mansions</title>
+    <sub-title lang="ro">Regia: Camille Delamarre</sub-title>
+    <desc lang="ro">Cu: Paul Walker, David Belle, RZA.(n)</desc>
+    <credits>
+      <director>Camille Delamarre</director>
+      <actor>Paul Walker</actor>
+      <actor>David Belle</actor>
+      <actor>RZA</actor>
+    </credits>
+    <date>2014</date>
+    <icon src="https://program-tv.net/img/normal/49/4926/Zona_de_pericol.jpg" />
+    <rating system="RO">
+      <value>15</value>
+      <icon src="https://musor.tv/images/etc/pg_15.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724021500 +0300" stop="20230724041500 +0300" channel="ProTV.ro">
+    <title lang="ro">MISS AGENT SECRET 2: INARMATA SI SEDUCATOARE</title>
+    <title lang="ro">Miss Congeniality 2: Armed And Fabulous</title>
+    <sub-title lang="ro">Regia: John Pasquin</sub-title>
+    <desc lang="ro">Cu: Sandra Bullock, Diedrich Bader, Regina King, Heather Burns, William Shatner.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Regina King</actor>
+      <actor>Heather Burns</actor>
+      <actor>William Shatner</actor>
+    </credits>
+    <date>2005</date>
+    <icon src="https://program-tv.net/img/normal/67/6712/Miss_Agent_Secret_2_Inarmata_si_seducatoare.jpg" />
+  </programme>
+  <programme start="20230724041500 +0300" stop="20230724050000 +0300" channel="ProTV.ro">
+    <title lang="ro">LAS FIERBINŢI</title>
+    <sub-title lang="ro">- Ce-ai făcut, Bobiță?</sub-title>
+    <desc lang="ro">- Ce-ai făcut, Bobiță?##- Bă, ești prost?##- Bă, ești nebun?####Sunt replici pe care le auzi foarte des, iar toate au plecat de la Las Fierbinți, cel mai iubit și urmărit serial din România! Celebra poezie a lui Celentano, monologul Aspirinei.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18707/Las_Fierbinti.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724050000 +0300" stop="20230724060000 +0300" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230724060000 +0300" stop="20230724103000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230724103000 +0300" stop="20230724130000 +0300" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
+  </programme>
+  <programme start="20230724130000 +0300" stop="20230724140000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230724140000 +0300" stop="20230724150000 +0300" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
+  </programme>
+  <programme start="20230724150000 +0300" stop="20230724170000 +0300" channel="ProTV.ro">
+    <title lang="ro">LA MĂRUŢĂ</title>
+    <desc lang="ro">Cei mai iubiți artiști din România, concursuri, competiții inedite, farse, interviuri de colecție, invitați de nota 10, toate sunt în meniul emisiunii La Măruță!(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18706/La_Maruta.jpg" />
+  </programme>
+  <programme start="20230724170000 +0300" stop="20230724180000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230724180000 +0300" stop="20230724190000 +0300" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20230724190000 +0300" stop="20230724203000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230724203000 +0300" stop="20230724213000 +0300" channel="ProTV.ro">
+    <title lang="ro">LAS FIERBINŢI</title>
+    <sub-title lang="ro">- Ce-ai făcut, Bobiță?</sub-title>
+    <desc lang="ro">- Ce-ai făcut, Bobiță?##- Bă, ești prost?##- Bă, ești nebun?####Sunt replici pe care le auzi foarte des, iar toate au plecat de la Las Fierbinți, cel mai iubit și urmărit serial din România! Celebra poezie a lui Celentano, monologul Aspirinei.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18707/Las_Fierbinti.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724213000 +0300" stop="20230724233000 +0300" channel="ProTV.ro">
+    <title lang="ro">OMUL DIN INTERIOR: VÂNĂTOAREA</title>
+    <desc lang="ro">(INSIDE MAN: MOST WANTED).(n)</desc>
+    <date>2019</date>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724233000 +0300" stop="20230725000000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230725000000 +0300" stop="20230725023000 +0300" channel="ProTV.ro">
+    <title lang="ro">CLANUL (REDIFUZARE SEZ I)</title>
+    <desc lang="ro">Clanul reprezintă o adaptare care va avea în centru o poveste captivantă, iar românii vor avea ocazia să descopere lupta clasică dintre Poliție și Mafie. Tensiunea va atinge cote înalte când poveștile de iubire vor condimenta eterna bătă.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/246/24606/Clanul_redifuzare_sez_I_.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230725023000 +0300" stop="20230725030000 +0300" channel="ProTV.ro">
+    <title lang="ro">I LIKE IT</title>
+  </programme>
+  <programme start="20230725030000 +0300" stop="20230725050000 +0300" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
+  </programme>
+  <programme start="20230725050000 +0300" stop="20230725060000 +0300" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230725060000 +0300" stop="20230725103000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230725103000 +0300" stop="20230725130000 +0300" channel="ProTV.ro">
+    <title lang="ro">VORBEŞTE LUMEA</title>
+    <desc lang="ro">Emisiunea abordează subiecte din toate sferele de interes, de la modă, frumusețe, sănătate și până la cooking și parenting, Fiecare emisiune aduce în platou invitați atât din lumea mondenă, vedete și celebrități, artiști, cât și pe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/255/25545/Vorbeste_lumea.jpg" />
+  </programme>
+  <programme start="20230725130000 +0300" stop="20230725140000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230725140000 +0300" stop="20230725150000 +0300" channel="ProTV.ro">
+    <title lang="ro">LECŢII DE VIAŢĂ</title>
+    <desc lang="ro">Serialul Lecții de viață tratează în fiecare episod câte o poveste dramatică a unei familii, prezentând inclusiv încercările pe care personajele le traversează pentru a rezolva situația cu care se confruntă și pe care, de cele mai multe.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/251/25149/Lectii_de_viata.jpg" />
+  </programme>
+  <programme start="20230725150000 +0300" stop="20230725170000 +0300" channel="ProTV.ro">
+    <title lang="ro">LA MĂRUŢĂ</title>
+    <desc lang="ro">Cei mai iubiți artiști din România, concursuri, competiții inedite, farse, interviuri de colecție, invitați de nota 10, toate sunt în meniul emisiunii La Măruță!(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18706/La_Maruta.jpg" />
+  </programme>
+  <programme start="20230725170000 +0300" stop="20230725180000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230725180000 +0300" stop="20230725190000 +0300" channel="ProTV.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20230725190000 +0300" stop="20230725203000 +0300" channel="ProTV.ro">
+    <title lang="ro">ŞTIRILE PRO TV</title>
+    <desc lang="ro">Reportaje speciale, interviuri în exclusivitate, subiecte fierbinţi, corespondenţe din mijlocul evenimentelor, unele neîncheiate inca, toate sunt prezentate in premiera într-o maniera unica si inconfundabila care continuă zilnic.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18449/Stirile_PRO_TV.jpg" />
+  </programme>
+  <programme start="20230725203000 +0300" stop="20230725213000 +0300" channel="ProTV.ro">
+    <title lang="ro">LAS FIERBINŢI</title>
+    <sub-title lang="ro">- Ce-ai făcut, Bobiță?</sub-title>
+    <desc lang="ro">- Ce-ai făcut, Bobiță?##- Bă, ești prost?##- Bă, ești nebun?####Sunt replici pe care le auzi foarte des, iar toate au plecat de la Las Fierbinți, cel mai iubit și urmărit serial din România! Celebra poezie a lui Celentano, monologul Aspirinei.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18707/Las_Fierbinti.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230725213000 +0300" stop="20230725234500 +0300" channel="ProTV.ro">
+    <title lang="ro">DUBLURA</title>
+    <title lang="ro">Bad Company</title>
+    <sub-title lang="ro">Regia: Joel Schumacher</sub-title>
+    <desc lang="ro">Cu: Anthony Hopkins, Chris Rock, Peter Stormare.(n)</desc>
+    <credits>
+      <director>Joel Schumacher</director>
+      <actor>Anthony Hopkins</actor>
+      <actor>Chris Rock</actor>
+      <actor>Peter Stormare</actor>
+    </credits>
+    <date>2002</date>
+    <icon src="https://program-tv.net/img/normal/102/10295/Dublura.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230719003000 +0300" stop="20230719010000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport.jpg" />
+  </programme>
+  <programme start="20230719010000 +0300" stop="20230719040000 +0300" channel="Antena1.ro">
+    <title lang="ro">TEMPTATION ISLAND - INSULA IUBIRII</title>
+    <sub-title lang="ro">Cupluri, ispite și o insulă plină de capcane, acestea sunt elementele cheie ale reality show-ului prezentat de Radu Vâlcan</sub-title>
+    <desc lang="ro">La final doar dragostea adevărată poate trece testul, iar cuplurile intrate în competiție vor afla dacă sunt legate.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/231/23126/Temptation_Island_Insula_iubirii.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230719040000 +0300" stop="20230719050000 +0300" channel="Antena1.ro">
+    <title lang="ro">POVESTI DE FAMILIE</title>
+    <sub-title lang="ro">Povești de familie este o serie despre familia și societatea contemporană, care își propune în mod curajos nu doar să prezinte probleme cât se poate de actuale din realitatea de zi cu zi, ci și soluții realiste de rezolvare a lor</sub-title>
+    <desc lang="ro">Conceput.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/231/23127/Povesti_de_familie.jpg" />
+  </programme>
+  <programme start="20230719050000 +0300" stop="20230719060000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun.jpg" />
+  </programme>
+  <programme start="20230719060000 +0300" stop="20230719080000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230719080000 +0300" stop="20230719120000 +0300" channel="Antena1.ro">
+    <title lang="ro">'NEATZA</title>
+    <desc lang="ro">De luni până vineri, timp de patru ore, pe lângă invitaţii din studio şi reţetele lui Vladuț, Răzvan şi Dani, alături de Ramona, ne pun la curent cu cele mai interesante și de actualitate subiecte, dar şi cu starea vremii din diverse zon.(n)</desc>
+    <credits>
+      <actor>Razvan si Dani</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/192/19236/_Neatza.jpg" />
+  </programme>
+  <programme start="20230719120000 +0300" stop="20230719140000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230719140000 +0300" stop="20230719170000 +0300" channel="Antena1.ro">
+    <title lang="ro">PROVOCAREA DESTINULUI</title>
+  </programme>
+  <programme start="20230719170000 +0300" stop="20230719180000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230719180000 +0300" stop="20230719190000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20230719190000 +0300" stop="20230719203000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230719203000 +0300" stop="20230719233000 +0300" channel="Antena1.ro">
+    <title lang="ro">POFTIŢI PE LA NOI: POFTIȚI PRIN ȚARĂ (RE-RUN)</title>
+  </programme>
+  <programme start="20230719233000 +0300" stop="20230720003000 +0300" channel="Antena1.ro">
+    <title lang="ro">NARCOS</title>
+    <desc lang="ro">Povestea adevărată a expansiunii și a creșterii influenței cartelurilor drogurilor în lume și de asemenea a eforturilor autorităților de a le ține piept în cadrul unui conflict sângeros.Serialul surprinde numeroasele forțe implicate în.(n)</desc>
+    <credits>
+      <director>Jose Padilha</director>
+      <director>Fernando Coimbra</director>
+      <director>Guillermo Navarro</director>
+      <actor>Pedro Pascal</actor>
+      <actor>Wagner Moura</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/196/19635/Narcos_ep_12.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+    <premiere />
+    <rating system="RO">
+      <value>15</value>
+      <icon src="https://musor.tv/images/etc/pg_15.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720003000 +0300" stop="20230720010000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport.jpg" />
+  </programme>
+  <programme start="20230720010000 +0300" stop="20230720030000 +0300" channel="Antena1.ro">
+    <title lang="ro">STAND UP REVOLUTION (RE-RUN)</title>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720030000 +0300" stop="20230720040000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230720040000 +0300" stop="20230720050000 +0300" channel="Antena1.ro">
+    <title lang="ro">POVESTI DE FAMILIE</title>
+    <sub-title lang="ro">Povești de familie este o serie despre familia și societatea contemporană, care își propune în mod curajos nu doar să prezinte probleme cât se poate de actuale din realitatea de zi cu zi, ci și soluții realiste de rezolvare a lor</sub-title>
+    <desc lang="ro">Conceput.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/231/23127/Povesti_de_familie.jpg" />
+  </programme>
+  <programme start="20230720050000 +0300" stop="20230721003000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun.jpg" />
+  </programme>
+  <programme start="20230721003000 +0300" stop="20230721010000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport.jpg" />
+  </programme>
+  <programme start="20230721010000 +0300" stop="20230721030000 +0300" channel="Antena1.ro">
+    <title lang="ro">STAND UP REVOLUTION (RE-RUN)</title>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230721030000 +0300" stop="20230721040000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230721040000 +0300" stop="20230721050000 +0300" channel="Antena1.ro">
+    <title lang="ro">POVESTI DE FAMILIE</title>
+    <sub-title lang="ro">Povești de familie este o serie despre familia și societatea contemporană, care își propune în mod curajos nu doar să prezinte probleme cât se poate de actuale din realitatea de zi cu zi, ci și soluții realiste de rezolvare a lor</sub-title>
+    <desc lang="ro">Conceput.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/231/23127/Povesti_de_familie.jpg" />
+  </programme>
+  <programme start="20230721050000 +0300" stop="20230721060000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun.jpg" />
+  </programme>
+  <programme start="20230721060000 +0300" stop="20230721080000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230721080000 +0300" stop="20230721120000 +0300" channel="Antena1.ro">
+    <title lang="ro">'NEATZA</title>
+    <desc lang="ro">De luni până vineri, timp de patru ore, pe lângă invitaţii din studio şi reţetele lui Vladuț, Răzvan şi Dani, alături de Ramona, ne pun la curent cu cele mai interesante și de actualitate subiecte, dar şi cu starea vremii din diverse zon.(n)</desc>
+    <credits>
+      <actor>Razvan si Dani</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/192/19236/_Neatza.jpg" />
+  </programme>
+  <programme start="20230721120000 +0300" stop="20230721140000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230721140000 +0300" stop="20230721170000 +0300" channel="Antena1.ro">
+    <title lang="ro">PROVOCAREA DESTINULUI</title>
+  </programme>
+  <programme start="20230721170000 +0300" stop="20230721180000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230721180000 +0300" stop="20230721190000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20230721190000 +0300" stop="20230721203000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230721203000 +0300" stop="20230722000000 +0300" channel="Antena1.ro">
+    <title lang="ro">TEMPTATION ISLAND - INSULA IUBIRII</title>
+    <sub-title lang="ro">Cupluri, ispite și o insulă plină de capcane, acestea sunt elementele cheie ale reality show-ului prezentat de Radu Vâlcan</sub-title>
+    <desc lang="ro">La final doar dragostea adevărată poate trece testul, iar cuplurile intrate în competiție vor afla dacă sunt legate.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/231/23126/Temptation_Island_Insula_iubirii.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722000000 +0300" stop="20230722003000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport.jpg" />
+  </programme>
+  <programme start="20230722003000 +0300" stop="20230722030000 +0300" channel="Antena1.ro">
+    <title lang="ro">STAND UP REVOLUTION (RE-RUN)</title>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722030000 +0300" stop="20230722040000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230722040000 +0300" stop="20230722050000 +0300" channel="Antena1.ro">
+    <title lang="ro">POVESTI DE FAMILIE</title>
+    <sub-title lang="ro">Povești de familie este o serie despre familia și societatea contemporană, care își propune în mod curajos nu doar să prezinte probleme cât se poate de actuale din realitatea de zi cu zi, ci și soluții realiste de rezolvare a lor</sub-title>
+    <desc lang="ro">Conceput.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/231/23127/Povesti_de_familie.jpg" />
+  </programme>
+  <programme start="20230722050000 +0300" stop="20230722060000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun.jpg" />
+  </programme>
+  <programme start="20230722060000 +0300" stop="20230722080000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230722080000 +0300" stop="20230722120000 +0300" channel="Antena1.ro">
+    <title lang="ro">'NEATZA</title>
+    <desc lang="ro">De luni până vineri, timp de patru ore, pe lângă invitaţii din studio şi reţetele lui Vladuț, Răzvan şi Dani, alături de Ramona, ne pun la curent cu cele mai interesante și de actualitate subiecte, dar şi cu starea vremii din diverse zon.(n)</desc>
+    <credits>
+      <actor>Razvan si Dani</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/192/19236/_Neatza.jpg" />
+  </programme>
+  <programme start="20230722120000 +0300" stop="20230722140000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230722140000 +0300" stop="20230722170000 +0300" channel="Antena1.ro">
+    <title lang="ro">PROVOCAREA DESTINULUI</title>
+  </programme>
+  <programme start="20230722170000 +0300" stop="20230722180000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230722180000 +0300" stop="20230722190000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20230722190000 +0300" stop="20230722203000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230722203000 +0300" stop="20230723000000 +0300" channel="Antena1.ro">
+    <title lang="ro">TEMPTATION ISLAND - INSULA IUBIRII</title>
+    <sub-title lang="ro">Cupluri, ispite și o insulă plină de capcane, acestea sunt elementele cheie ale reality show-ului prezentat de Radu Vâlcan</sub-title>
+    <desc lang="ro">La final doar dragostea adevărată poate trece testul, iar cuplurile intrate în competiție vor afla dacă sunt legate.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/231/23126/Temptation_Island_Insula_iubirii.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723000000 +0300" stop="20230723030000 +0300" channel="Antena1.ro">
+    <title lang="ro">NARCOS EP. 10, 11, 12</title>
+    <desc lang="ro">Povestea adevărată a expansiunii și a creșterii influenței cartelurilor drogurilor în lume și de asemenea a eforturilor autorităților de a le ține piept în cadrul unui conflict sângeros.Serialul surprinde numeroasele forțe implicate în.(n)</desc>
+    <credits>
+      <director>Jose Padilha</director>
+      <director>Fernando Coimbra</director>
+      <director>Guillermo Navarro</director>
+      <actor>Pedro Pascal</actor>
+      <actor>Wagner Moura</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/196/19635/Narcos_ep_10_11_12.jpg" />
+    <rating system="RO">
+      <value>15</value>
+      <icon src="https://musor.tv/images/etc/pg_15.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723030000 +0300" stop="20230723040000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230723040000 +0300" stop="20230723050000 +0300" channel="Antena1.ro">
+    <title lang="ro">POVESTI DE FAMILIE</title>
+    <sub-title lang="ro">Povești de familie este o serie despre familia și societatea contemporană, care își propune în mod curajos nu doar să prezinte probleme cât se poate de actuale din realitatea de zi cu zi, ci și soluții realiste de rezolvare a lor</sub-title>
+    <desc lang="ro">Conceput.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/231/23127/Povesti_de_familie.jpg" />
+  </programme>
+  <programme start="20230723050000 +0300" stop="20230723060000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun.jpg" />
+  </programme>
+  <programme start="20230723060000 +0300" stop="20230723090000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230723090000 +0300" stop="20230723093000 +0300" channel="Antena1.ro">
+    <title lang="ro">ALPHA KIDS</title>
+  </programme>
+  <programme start="20230723093000 +0300" stop="20230723120000 +0300" channel="Antena1.ro">
+    <title lang="ro">O PRIETENIE CA-N POVESTI</title>
+    <title lang="ro">Le Loup Et Le Lion</title>
+    <desc lang="ro">După moartea bunicului ei, Alma, în vârstă de 20 de ani, decide să se întoarcă la casa ei din copilărie - o insulă mică în inima pădurii maiestuoase canadiene. În timp ce este acolo, ea salvează doi pui neajutorați: un lup și un leu.(n)</desc>
+    <credits>
+      <director>Gilles de Maistre</director>
+      <actor>Graham Greene</actor>
+      <actor>Molly Kunz</actor>
+    </credits>
+    <date>2021</date>
+    <icon src="https://program-tv.net/img/normal/236/23653/O_prietenie_ca_n_povesti.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20230723120000 +0300" stop="20230723130000 +0300" channel="Antena1.ro">
+    <title lang="ro">MEDICOOL (RE-RUN)</title>
+    <sub-title lang="ro">MediCOOL își propune să aducă mai aproape oamenii de medici, pentru a putea primi sfaturi de specialitate</sub-title>
+    <desc lang="ro">Alături de Dr. Mihail Pautov vor sta, în fiecare ediție, doctorii specialiști Alexandru Răzvan Meroiu, Elena Popa, Iulia Solomon şi.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/218/21820/MediCool_re_run_.jpg" />
+  </programme>
+  <programme start="20230723130000 +0300" stop="20230723133000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230723133000 +0300" stop="20230723190000 +0300" channel="Antena1.ro">
+    <title lang="ro">POFTIȚI PRIN ȚARĂ</title>
+  </programme>
+  <programme start="20230723190000 +0300" stop="20230723200000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230723200000 +0300" stop="20230724000000 +0300" channel="Antena1.ro">
+    <title lang="ro">TE CUNOSC DE UNDEVA (RE-RUN)</title>
+  </programme>
+  <programme start="20230724000000 +0300" stop="20230724020000 +0300" channel="Antena1.ro">
+    <title lang="ro">O PRIETENIE CA-N POVESTI</title>
+    <title lang="ro">Le Loup Et Le Lion</title>
+    <desc lang="ro">După moartea bunicului ei, Alma, în vârstă de 20 de ani, decide să se întoarcă la casa ei din copilărie - o insulă mică în inima pădurii maiestuoase canadiene. În timp ce este acolo, ea salvează doi pui neajutorați: un lup și un leu.(n)</desc>
+    <credits>
+      <director>Gilles de Maistre</director>
+      <actor>Graham Greene</actor>
+      <actor>Molly Kunz</actor>
+    </credits>
+    <date>2021</date>
+    <icon src="https://program-tv.net/img/normal/236/23653/O_prietenie_ca_n_povesti.jpg" />
+  </programme>
+  <programme start="20230724020000 +0300" stop="20230724030000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230724030000 +0300" stop="20230724060000 +0300" channel="Antena1.ro">
+    <title lang="ro">VEDETE LA APA ®</title>
+  </programme>
+  <programme start="20230724060000 +0300" stop="20230724090000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230724090000 +0300" stop="20230724130000 +0300" channel="Antena1.ro">
+    <title lang="ro">NEATZA DE WEEKEND</title>
+    <icon src="https://program-tv.net/img/normal/192/19236/Neatza_de_weekend.jpg" />
+  </programme>
+  <programme start="20230724130000 +0300" stop="20230724133000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230724133000 +0300" stop="20230724153000 +0300" channel="Antena1.ro">
+    <title lang="ro">POFTIȚI PRIN ȚARĂ</title>
+  </programme>
+  <programme start="20230724153000 +0300" stop="20230724190000 +0300" channel="Antena1.ro">
+    <title lang="ro">TE CUNOSC DE UNDEVA</title>
+    <icon src="https://program-tv.net/img/normal/191/19118/Te_cunosc_de_undeva.jpg" />
+  </programme>
+  <programme start="20230724190000 +0300" stop="20230724200000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230724200000 +0300" stop="20230724233000 +0300" channel="Antena1.ro">
+    <title lang="ro">CELEBRITY SPLASH: VEDETE LA APA (S04 EP 05) (RE-RUN)</title>
+  </programme>
+  <programme start="20230724233000 +0300" stop="20230725020000 +0300" channel="Antena1.ro">
+    <title lang="ro">STRIPTEASE PE WALL STREET</title>
+    <title lang="ro">Hustlers</title>
+    <desc lang="ro">Inspirată dintr-un articol publicat în revista New York Magazine care a devenit viral în 2016, acțiunea filmului Hustlers urmărește un grup de foste stripperițe care se ambiționează să se îmbogățească, folosind însă metode mai puțin.(n)</desc>
+    <credits>
+      <director>Lorene Scafaria</director>
+      <actor>Jennifer Lopez</actor>
+      <actor>Constance Wu</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Keke Palmer</actor>
+      <actor>Cardi B</actor>
+    </credits>
+    <date>2019</date>
+    <icon src="https://program-tv.net/img/normal/257/25793/Striptease_pe_Wall_Street.jpg" />
+    <rating system="RO">
+      <value>15</value>
+      <icon src="https://musor.tv/images/etc/pg_15.svg" />
+    </rating>
+  </programme>
+  <programme start="20230725020000 +0300" stop="20230725030000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230725030000 +0300" stop="20230725040000 +0300" channel="Antena1.ro">
+    <title lang="ro">MANGALITA</title>
+    <desc lang="ro">Serial.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18541/Mangalita.jpg" />
+  </programme>
+  <programme start="20230725040000 +0300" stop="20230725060000 +0300" channel="Antena1.ro">
+    <title lang="ro">STRIPTEASE PE WALL STREET</title>
+    <title lang="ro">Hustlers</title>
+    <desc lang="ro">Inspirată dintr-un articol publicat în revista New York Magazine care a devenit viral în 2016, acțiunea filmului Hustlers urmărește un grup de foste stripperițe care se ambiționează să se îmbogățească, folosind însă metode mai puțin.(n)</desc>
+    <credits>
+      <director>Lorene Scafaria</director>
+      <actor>Jennifer Lopez</actor>
+      <actor>Constance Wu</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Keke Palmer</actor>
+      <actor>Cardi B</actor>
+    </credits>
+    <date>2019</date>
+    <icon src="https://program-tv.net/img/normal/257/25793/Striptease_pe_Wall_Street.jpg" />
+    <rating system="RO">
+      <value>15</value>
+      <icon src="https://musor.tv/images/etc/pg_15.svg" />
+    </rating>
+  </programme>
+  <programme start="20230725060000 +0300" stop="20230725080000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230725080000 +0300" stop="20230725120000 +0300" channel="Antena1.ro">
+    <title lang="ro">'NEATZA</title>
+    <desc lang="ro">De luni până vineri, timp de patru ore, pe lângă invitaţii din studio şi reţetele lui Vladuț, Răzvan şi Dani, alături de Ramona, ne pun la curent cu cele mai interesante și de actualitate subiecte, dar şi cu starea vremii din diverse zon.(n)</desc>
+    <credits>
+      <actor>Razvan si Dani</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/192/19236/_Neatza.jpg" />
+  </programme>
+  <programme start="20230725120000 +0300" stop="20230725140000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230725140000 +0300" stop="20230725170000 +0300" channel="Antena1.ro">
+    <title lang="ro">PROVOCAREA DESTINULUI</title>
+  </programme>
+  <programme start="20230725170000 +0300" stop="20230725180000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator.jpg" />
+  </programme>
+  <programme start="20230725180000 +0300" stop="20230725190000 +0300" channel="Antena1.ro">
+    <title lang="ro">PRETUL CEL BUN - EPISOADE NOI</title>
+    <sub-title lang="ro">Prețul Cel Bun, prezentat de Liviu Vârciu și Andrei Ștefănescu, este o emisiune de divertisment, de tip concurs, unde câștigurile, distracția și voia bună sunt asigurate</sub-title>
+    <desc lang="ro">Participanții concurează, într-o serie de jocuri amuzante, probe i.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/215/21584/Pretul_cel_bun_episoade_noi.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20230725190000 +0300" stop="20230725203000 +0300" channel="Antena1.ro">
+    <title lang="ro">OBSERVATOR, SPORT, METEO</title>
+    <desc lang="ro">OBSERVATOR - Despre Oameni. Știrile așa cum trebuie să fie.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/187/18767/Observator_Sport_Meteo.jpg" />
+  </programme>
+  <programme start="20230725203000 +0300" stop="20230725233000 +0300" channel="Antena1.ro">
+    <title lang="ro">POFTIŢI PE LA NOI: POFTIȚI PRIN ȚARĂ (RE-RUN)</title>
+  </programme>
+  <programme start="20230725233000 +0300" stop="20230726003000 +0300" channel="Antena1.ro">
+    <title lang="ro">NARCOS</title>
+    <desc lang="ro">Povestea adevărată a expansiunii și a creșterii influenței cartelurilor drogurilor în lume și de asemenea a eforturilor autorităților de a le ține piept în cadrul unui conflict sângeros.Serialul surprinde numeroasele forțe implicate în.(n)</desc>
+    <credits>
+      <director>Jose Padilha</director>
+      <director>Fernando Coimbra</director>
+      <director>Guillermo Navarro</director>
+      <actor>Pedro Pascal</actor>
+      <actor>Wagner Moura</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/196/19635/Narcos_ep_13.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+    <premiere />
+    <rating system="RO">
+      <value>15</value>
+      <icon src="https://musor.tv/images/etc/pg_15.svg" />
+    </rating>
+  </programme>
+  <programme start="20230719000000 +0300" stop="20230719003000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230719003000 +0300" stop="20230719013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230719013000 +0300" stop="20230719023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230719023000 +0300" stop="20230719030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230719030000 +0300" stop="20230719040000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230719040000 +0300" stop="20230719060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 346, 347, 348, 349</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_346_347_348_349.jpg" />
+  </programme>
+  <programme start="20230719060000 +0300" stop="20230719070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20230719070000 +0300" stop="20230719073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230719073000 +0300" stop="20230719083000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 25, 26</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_25_26.jpg" />
+  </programme>
+  <programme start="20230719083000 +0300" stop="20230719093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20230719093000 +0300" stop="20230719103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 3, 4</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_3_4.jpg" />
+  </programme>
+  <programme start="20230719103000 +0300" stop="20230719113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 19, 20</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_19_20.jpg" />
+  </programme>
+  <programme start="20230719113000 +0300" stop="20230719123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 19, 20</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_19_20.jpg" />
+  </programme>
+  <programme start="20230719123000 +0300" stop="20230719130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230719130000 +0300" stop="20230719140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230719140000 +0300" stop="20230719150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 27, 28</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_27_28.jpg" />
+  </programme>
+  <programme start="20230719150000 +0300" stop="20230719160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20230719160000 +0300" stop="20230719170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 21, 22</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_21_22.jpg" />
+  </programme>
+  <programme start="20230719170000 +0300" stop="20230719180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 7, 8</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_7_8.jpg" />
+  </programme>
+  <programme start="20230719180000 +0300" stop="20230719190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 21, 22</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_21_22.jpg" />
+  </programme>
+  <programme start="20230719190000 +0300" stop="20230719200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 32, 33</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_32_33.jpg" />
+  </programme>
+  <programme start="20230719200000 +0300" stop="20230719210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20230719210000 +0300" stop="20230719220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230719220000 +0300" stop="20230719230000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230719230000 +0300" stop="20230720000000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 32, 33</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_32_33.jpg" />
+  </programme>
+  <programme start="20230720000000 +0300" stop="20230720003000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720000000 +0300" stop="20230720003000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720003000 +0300" stop="20230720013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720003000 +0300" stop="20230720013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720013000 +0300" stop="20230720023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720013000 +0300" stop="20230720023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720023000 +0300" stop="20230720030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720023000 +0300" stop="20230720030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720030000 +0300" stop="20230720040000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230720030000 +0300" stop="20230720040000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230720040000 +0300" stop="20230720060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 350, 351, 352, 353</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_350_351_352_353.jpg" />
+  </programme>
+  <programme start="20230720060000 +0300" stop="20230720070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20230720070000 +0300" stop="20230720073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720073000 +0300" stop="20230720083000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 27, 28</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_27_28.jpg" />
+  </programme>
+  <programme start="20230720083000 +0300" stop="20230720093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20230720093000 +0300" stop="20230720103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 5, 6</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_5_6.jpg" />
+  </programme>
+  <programme start="20230720103000 +0300" stop="20230720113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 21, 22</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_21_22.jpg" />
+  </programme>
+  <programme start="20230720113000 +0300" stop="20230720123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 21, 22</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_21_22.jpg" />
+  </programme>
+  <programme start="20230720123000 +0300" stop="20230720130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230720130000 +0300" stop="20230720140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230720140000 +0300" stop="20230720150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 29, 30</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_29_30.jpg" />
+  </programme>
+  <programme start="20230720150000 +0300" stop="20230720160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20230720160000 +0300" stop="20230720170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 7, 8</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_7_8.jpg" />
+  </programme>
+  <programme start="20230720170000 +0300" stop="20230720180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 2, 3</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_2_3.jpg" />
+  </programme>
+  <programme start="20230720180000 +0300" stop="20230720190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 23, 24</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_23_24.jpg" />
+  </programme>
+  <programme start="20230720190000 +0300" stop="20230720200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 34, 35</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_34_35.jpg" />
+  </programme>
+  <programme start="20230720200000 +0300" stop="20230720210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20230720210000 +0300" stop="20230720220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720220000 +0300" stop="20230720230000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_6.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230720230000 +0300" stop="20230721000000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 34, 35</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_34_35.jpg" />
+  </programme>
+  <programme start="20230721000000 +0300" stop="20230721003000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230721003000 +0300" stop="20230721013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230721013000 +0300" stop="20230721023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_6.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230721023000 +0300" stop="20230721030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230721030000 +0300" stop="20230721040000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230721040000 +0300" stop="20230721060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 354, 355, 356, 357</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_354_355_356_357.jpg" />
+  </programme>
+  <programme start="20230721060000 +0300" stop="20230721070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_4.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20230721070000 +0300" stop="20230721073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230721073000 +0300" stop="20230721083000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 29, 30</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_29_30.jpg" />
+  </programme>
+  <programme start="20230721083000 +0300" stop="20230721093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20230721093000 +0300" stop="20230721103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 7, 8</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_7_8.jpg" />
+  </programme>
+  <programme start="20230721103000 +0300" stop="20230721113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 2, 3</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_2_3.jpg" />
+  </programme>
+  <programme start="20230721113000 +0300" stop="20230721123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">PRINȚUL DIN BEL AIR EP. 23, 24</title>
+    <desc lang="ro">(THE FRESH PRINCE OF BEL-AIR; 1990).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/65/6516/Prin_ul_din_Bel_Air_ep_23_24.jpg" />
+  </programme>
+  <programme start="20230721123000 +0300" stop="20230721130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230721130000 +0300" stop="20230721140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230721140000 +0300" stop="20230721150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 31, 32</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_31_32.jpg" />
+  </programme>
+  <programme start="20230721150000 +0300" stop="20230721160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20230721160000 +0300" stop="20230721170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 9, 10</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_9_10.jpg" />
+  </programme>
+  <programme start="20230721170000 +0300" stop="20230721180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 2, 3</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_2_3.jpg" />
+  </programme>
+  <programme start="20230721180000 +0300" stop="20230721190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE EP. 1, 2</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_ep_1_2.jpg" />
+  </programme>
+  <programme start="20230721190000 +0300" stop="20230721200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 36, 37</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_36_37.jpg" />
+  </programme>
+  <programme start="20230721200000 +0300" stop="20230721210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20230721210000 +0300" stop="20230721220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230721220000 +0300" stop="20230721230000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_7.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230721230000 +0300" stop="20230722000000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI EP. 36, 37</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_36_37.jpg" />
+  </programme>
+  <programme start="20230722000000 +0300" stop="20230722003000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230722003000 +0300" stop="20230722013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <desc lang="ro">(MAGNUM P.I.; 2018).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_ep_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722013000 +0300" stop="20230722023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_ep_7.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722023000 +0300" stop="20230722030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230722030000 +0300" stop="20230722040000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230722040000 +0300" stop="20230722060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 358, 359, 360, 361</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_358_359_360_361.jpg" />
+  </programme>
+  <programme start="20230722060000 +0300" stop="20230722070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SURVIVOR: ÎN ARENĂ</title>
+    <desc lang="ro">reality, Serial.(n)</desc>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20230722070000 +0300" stop="20230722073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230722073000 +0300" stop="20230722093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII EP. 5, 6</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+  </programme>
+  <programme start="20230722093000 +0300" stop="20230722103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 9, 10</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_9_10.jpg" />
+  </programme>
+  <programme start="20230722103000 +0300" stop="20230722113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 2, 3</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_2_3.jpg" />
+  </programme>
+  <programme start="20230722113000 +0300" stop="20230722123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE EP. 1, 2</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_ep_1_2.jpg" />
+  </programme>
+  <programme start="20230722123000 +0300" stop="20230722130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230722130000 +0300" stop="20230722140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">APROPO TV</title>
+    <icon src="https://program-tv.net/img/normal/184/18465/Apropo_TV.jpg" />
+  </programme>
+  <programme start="20230722140000 +0300" stop="20230722150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CAMPIONATUL NAȚIONAL DE OFFROAD EP.3</title>
+  </programme>
+  <programme start="20230722150000 +0300" stop="20230722153000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230722153000 +0300" stop="20230722160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_36.jpg" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme start="20230722160000 +0300" stop="20230722170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 11, 12</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_11_12.jpg" />
+  </programme>
+  <programme start="20230722170000 +0300" stop="20230722180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 4, 5</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_4_5.jpg" />
+  </programme>
+  <programme start="20230722180000 +0300" stop="20230722190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE EP. 3, 4</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_ep_3_4.jpg" />
+  </programme>
+  <programme start="20230722190000 +0300" stop="20230722200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RED BULL CLIFF DIVING 2023 - EP.3 ITALIA</title>
+    <desc lang="ro">(RED BULL CLIFF DIVING 2023).(n)</desc>
+  </programme>
+  <programme start="20230722200000 +0300" stop="20230722210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SURVIVOR: ÎN ARENĂ</title>
+    <desc lang="ro">reality.(n)</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20230722210000 +0300" stop="20230722220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATLETICOTEXTILA</title>
+    <desc lang="ro">Plecând de la situații cât se poate de reale din lumea fotbalului, în fiecare episod, telespectatorii vor descoperi comica lume a fotbaliștilor de la Atletico Textila, în încercarea lor de a evita retrogradarea, de a avea bani și succes în a.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/211/21162/AtleticoTextila_ep_2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230722220000 +0300" stop="20230723010000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">UFC FIGHT NIGHT</title>
+    <desc lang="ro">Aspinall vs. Tybura.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/98/9867/UFC_Fight_Night.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723010000 +0300" stop="20230723013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230723013000 +0300" stop="20230723023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATLETICOTEXTILA</title>
+    <desc lang="ro">Plecând de la situații cât se poate de reale din lumea fotbalului, în fiecare episod, telespectatorii vor descoperi comica lume a fotbaliștilor de la Atletico Textila, în încercarea lor de a evita retrogradarea, de a avea bani și succes în a.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/211/21162/AtleticoTextila_ep_2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723023000 +0300" stop="20230723030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230723030000 +0300" stop="20230723060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 362, 363, 364, 365</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_362_363_364_365.jpg" />
+  </programme>
+  <programme start="20230723060000 +0300" stop="20230723070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SURVIVOR: ÎN ARENĂ</title>
+    <desc lang="ro">reality.(n)</desc>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20230723070000 +0300" stop="20230723073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230723073000 +0300" stop="20230723093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII EP. 7, 8</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+  </programme>
+  <programme start="20230723093000 +0300" stop="20230723103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 11, 12</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_11_12.jpg" />
+  </programme>
+  <programme start="20230723103000 +0300" stop="20230723113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 4, 5</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_4_5.jpg" />
+  </programme>
+  <programme start="20230723113000 +0300" stop="20230723123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE EP. 3, 4</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_ep_3_4.jpg" />
+  </programme>
+  <programme start="20230723123000 +0300" stop="20230723130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230723130000 +0300" stop="20230723133000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SUPERSPEED</title>
+    <desc lang="ro">Bratu si Giurgea testează super mașini la emisiunea Superspeed. Și așa cum ne-au obișnuit deja, cei doi vor răspunde cu argumente la întrebarea: ce mașină să-mi cumpăr? Vor fi mașini remarcabile în fiecare emisiune, teste cu tot ce se la.(n)</desc>
+  </programme>
+  <programme start="20230723133000 +0300" stop="20230723140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">I LIKE IT</title>
+    <desc lang="ro">Citește cele mai noi știri din domeniul IT! Fii la curent cu informațiile despre lansări de gadgeturi și giganții din domeniul IT, noutăți despre cele mai utile aplicații, cele mai tari jocuri, informații actualizate despre laptopuri sau ta.(n)</desc>
+  </programme>
+  <programme start="20230723140000 +0300" stop="20230723150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR EP. 29, 30</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_ep_29_30.jpg" />
+  </programme>
+  <programme start="20230723150000 +0300" stop="20230723153000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230723153000 +0300" stop="20230723160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_ep_37.jpg" />
+    <episode-num system="onscreen">E37</episode-num>
+  </programme>
+  <programme start="20230723160000 +0300" stop="20230723170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG EP. 13, 14</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <sub-title lang="ro">Creat de: Chuck Lorre, Bill Prady</sub-title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_ep_13_14.jpg" />
+  </programme>
+  <programme start="20230723170000 +0300" stop="20230723180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 EP. 6, 7</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_ep_6_7.jpg" />
+  </programme>
+  <programme start="20230723180000 +0300" stop="20230723190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE EP. 5, 6</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_ep_5_6.jpg" />
+  </programme>
+  <programme start="20230723190000 +0300" stop="20230723200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">PROVOCAREA SUPREMĂ EP. 17, 18</title>
+    <desc lang="ro">(ULTIMATE RUSH; 2011).(n)</desc>
+  </programme>
+  <programme start="20230723200000 +0300" stop="20230723210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SURVIVOR: ÎN ARENĂ</title>
+    <desc lang="ro">reality.(n)</desc>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20230723210000 +0300" stop="20230723220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATLETICOTEXTILA</title>
+    <desc lang="ro">Plecând de la situații cât se poate de reale din lumea fotbalului, în fiecare episod, telespectatorii vor descoperi comica lume a fotbaliștilor de la Atletico Textila, în încercarea lor de a evita retrogradarea, de a avea bani și succes în a.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/211/21162/AtleticoTextila_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723220000 +0300" stop="20230723230000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BOX MANIA</title>
+    <desc lang="ro">action.(n)</desc>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230723230000 +0300" stop="20230724000000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">UFC CLUB EP.48</title>
+    <desc lang="ro">action.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/98/9867/UFC_Club_ep_48.jpg" />
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724000000 +0300" stop="20230724003000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230724003000 +0300" stop="20230724013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CAMPIONATUL NAȚIONAL DE OFFROAD EP.2</title>
+  </programme>
+  <programme start="20230724013000 +0300" stop="20230724023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATLETICOTEXTILA</title>
+    <desc lang="ro">Plecând de la situații cât se poate de reale din lumea fotbalului, în fiecare episod, telespectatorii vor descoperi comica lume a fotbaliștilor de la Atletico Textila, în încercarea lor de a evita retrogradarea, de a avea bani și succes în a.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/211/21162/AtleticoTextila_ep_3.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724023000 +0300" stop="20230724030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230724030000 +0300" stop="20230724040000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">APROPO TV</title>
+    <icon src="https://program-tv.net/img/normal/184/18465/Apropo_TV.jpg" />
+  </programme>
+  <programme start="20230724040000 +0300" stop="20230724060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 366, 367, 368, 369</title>
+    <desc lang="ro">(2002).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_366_367_368_369.jpg" />
+  </programme>
+  <programme start="20230724060000 +0300" stop="20230724070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20230724070000 +0300" stop="20230724073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230724073000 +0300" stop="20230724083000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR S10 EP. 31, 32</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_s10_ep_31_32.jpg" />
+  </programme>
+  <programme start="20230724083000 +0300" stop="20230724093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">S26 E8</episode-num>
+  </programme>
+  <programme start="20230724093000 +0300" stop="20230724103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG S3 EP. 13, 14</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia lor este mereu testată de tabietur.(n)</desc>
+    <credits>
+      <director>Chuck Lorre</director>
+      <director>Bill Prady</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2009</date>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_s3_ep_13_14.jpg" />
+  </programme>
+  <programme start="20230724103000 +0300" stop="20230724113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 S4 EP. 6, 7</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_s4_ep_6_7.jpg" />
+  </programme>
+  <programme start="20230724113000 +0300" stop="20230724123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE S1 EP. 5, 6</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_s1_ep_5_6.jpg" />
+  </programme>
+  <programme start="20230724123000 +0300" stop="20230724130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230724130000 +0300" stop="20230724140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230724140000 +0300" stop="20230724150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR S10 EP. 33, 34</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_s10_ep_33_34.jpg" />
+  </programme>
+  <programme start="20230724150000 +0300" stop="20230724160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">S26 E9</episode-num>
+  </programme>
+  <programme start="20230724160000 +0300" stop="20230724170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG S3 EP. 15, 16</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia lor este mereu testată de tabietur.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_s3_ep_15_16.jpg" />
+  </programme>
+  <programme start="20230724170000 +0300" stop="20230724180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 S4 EP. 8, 9</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_s4_ep_8_9.jpg" />
+  </programme>
+  <programme start="20230724180000 +0300" stop="20230724190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE S1 EP. 7, 8</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_s1_ep_7_8.jpg" />
+  </programme>
+  <programme start="20230724190000 +0300" stop="20230724200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI S18 EP. 38, 39</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_s18_ep_38_39.jpg" />
+  </programme>
+  <programme start="20230724200000 +0300" stop="20230724210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_s1_ep_6.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20230724210000 +0300" stop="20230724220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <title lang="ro">Magnum P.i. Lie, Cheat, Steal, Kill</title>
+    <sub-title lang="ro">Minți, înșală, fură, ucide</sub-title>
+    <desc lang="ro">Magnum își oferă ajutorul după ce Abby constată că clientul pe care l-a apărat cu succes într-un proces pentru crimă, este de fapt vinovat.####Cu: Jay Hernandez, Perdita Weeks, Zachary Knig.(n)</desc>
+    <credits>
+      <actor>Jay Hernandez</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>Zachary Knighton</actor>
+    </credits>
+    <date>2019</date>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_s2_ep_6.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724220000 +0300" stop="20230724230000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <date>2015</date>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_s21_ep_8.jpg" />
+    <episode-num system="onscreen">S21 E8</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230724230000 +0300" stop="20230725000000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI S18 EP. 38, 39</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_s18_ep_38_39.jpg" />
+  </programme>
+  <programme start="20230725000000 +0300" stop="20230725003000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230725003000 +0300" stop="20230725013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <title lang="ro">Magnum P.i. Lie, Cheat, Steal, Kill</title>
+    <sub-title lang="ro">Minți, înșală, fură, ucide</sub-title>
+    <desc lang="ro">Magnum își oferă ajutorul după ce Abby constată că clientul pe care l-a apărat cu succes într-un proces pentru crimă, este de fapt vinovat.####Cu: Jay Hernandez, Perdita Weeks, Zachary Knig.(n)</desc>
+    <credits>
+      <actor>Jay Hernandez</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>Zachary Knighton</actor>
+    </credits>
+    <date>2019</date>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_s2_ep_6.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230725013000 +0300" stop="20230725033000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <date>2015</date>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_s21_ep_8.jpg" />
+    <episode-num system="onscreen">S21 E8</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230725033000 +0300" stop="20230725041500 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230725041500 +0300" stop="20230725060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">LA BLOC EP. 370, 371, 372, 373</title>
+    <sub-title lang="ro">Regia: Radu Dragomir, Razvan Savescu</sub-title>
+    <desc lang="ro">Cu: Dragos Mostenescu, Dana Rogoz, Mihai Coada, Alina Chivulescu, Emil Mitrache, Tudorel Filimon.(n)</desc>
+    <credits>
+      <director>Radu Dragomir</director>
+      <director>Razvan Savescu</director>
+      <actor>Dragos Mostenescu</actor>
+      <actor>Dana Rogoz</actor>
+      <actor>Mihai Coada</actor>
+      <actor>Alina Chivulescu</actor>
+      <actor>Emil Mitrache</actor>
+      <actor>Tudorel Filimon</actor>
+    </credits>
+    <date>2002</date>
+    <icon src="https://program-tv.net/img/normal/185/18501/La_Bloc_ep_370_371_372_373.jpg" />
+  </programme>
+  <programme start="20230725060000 +0300" stop="20230725070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_s1_ep_6.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20230725070000 +0300" stop="20230725073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230725073000 +0300" stop="20230725083000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR S10 EP. 33, 34</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_s10_ep_33_34.jpg" />
+  </programme>
+  <programme start="20230725083000 +0300" stop="20230725093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">S26 E9</episode-num>
+  </programme>
+  <programme start="20230725093000 +0300" stop="20230725103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG S3 EP. 15, 16</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia lor este mereu testată de tabietur.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_s3_ep_15_16.jpg" />
+  </programme>
+  <programme start="20230725103000 +0300" stop="20230725113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 S4 EP. 8, 9</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_s4_ep_8_9.jpg" />
+  </programme>
+  <programme start="20230725113000 +0300" stop="20230725123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE S1 EP. 7, 8</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_s1_ep_7_8.jpg" />
+  </programme>
+  <programme start="20230725123000 +0300" stop="20230725130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">STIRI SPORT.RO</title>
+  </programme>
+  <programme start="20230725130000 +0300" stop="20230725140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">CE SPUN ROMANII</title>
+    <desc lang="ro">Ce spun românii? este un quiz-show prezentat cu mult umor de Cabral, unde două familii se duelează pentru a ghici cele mai populare răspunsuri la o serie de întrebări adresate unui eșantion format din 100 de români. Pe parcursul celor șase r.(n)</desc>
+    <icon src="https://program-tv.net/img/normal/184/18464/Ce_spun_romanii.jpg" />
+  </programme>
+  <programme start="20230725140000 +0300" stop="20230725150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">RĂZBOAIELE DEPOZITELOR S10 EP. 35, 36</title>
+    <desc lang="ro">(STORAGE WARS 2010).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/44/Razboaiele_depozitelor_s10_ep_35_36.jpg" />
+  </programme>
+  <programme start="20230725150000 +0300" stop="20230725160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">DE RÂSUL LUMII</title>
+    <desc lang="ro">(AMERICA'S FUNNIEST HOME VIDEOS; 1989).(n)</desc>
+    <episode-num system="onscreen">S26 E10</episode-num>
+  </programme>
+  <programme start="20230725160000 +0300" stop="20230725170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">TEORIA BIG BANG S3 EP. 17, 18</title>
+    <title lang="ro">The Big Bang Theory</title>
+    <desc lang="ro">Leonard Hofstadter şi Sheldon Cooper sunt doi fizicieni geniali care lucrează la Cal Tech, în Pasadena, California. Sunt colegi, cei mai buni prieteni şi locuiesc în acelaşi apartament, deşi relaţia lor este mereu testată de tabietur.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://program-tv.net/img/normal/1/109/Teoria_Big_Bang_s3_ep_17_18.jpg" />
+  </programme>
+  <programme start="20230725170000 +0300" stop="20230725180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BROOKLYN 99 S4 EP. 10, 11</title>
+    <desc lang="ro">(BROOKLYN NINE-NINE; 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/988/Brooklyn_99_s4_ep_10_11.jpg" />
+  </programme>
+  <programme start="20230725180000 +0300" stop="20230725190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BARBAT IN MINORITATE S1 EP. 9, 10</title>
+    <title lang="ro">Last Man Standing</title>
+    <desc lang="ro">Mike Baxter (Tim Allen) este directorul de marketing al unui magazin de articole sportive foarte cunoscut. Iubeste mult provocarile intalnite in timp ce calatoreste in interes de serviciu. Daca la locul de munca Mike este cel mai bun s.(n)</desc>
+    <credits>
+      <director>John Pasquin</director>
+      <actor>Tim Allen</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Alexandra Krosney</actor>
+      <actor>Molly Ephraim</actor>
+      <actor>Kaitlyn Dever</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Joel David Moore</actor>
+    </credits>
+    <icon src="https://program-tv.net/img/normal/32/3234/Barbat_in_minoritate_s1_ep_9_10.jpg" />
+  </programme>
+  <programme start="20230725190000 +0300" stop="20230725200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">AŞII AMANETULUI S18 EP. 40, 41</title>
+    <desc lang="ro">(PAWN STARS 2009).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/0/39/Asii_amanetului_s18_ep_40_41.jpg" />
+  </programme>
+  <programme start="20230725200000 +0300" stop="20230725210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">ATELIERUL DE RESTAURARE</title>
+    <desc lang="ro">(RESTORATION GARAGE 2013).(n)</desc>
+    <icon src="https://program-tv.net/img/normal/9/902/Atelierul_de_Restaurare_s1_ep_7.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20230725210000 +0300" stop="20230725220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">MAGNUM, DETECTIV PARTICULAR</title>
+    <title lang="ro">Magnum P.i. The Man In The Secret Room</title>
+    <sub-title lang="ro">Omul din camera secretă</sub-title>
+    <desc lang="ro">Magnum investighează moartea unui oaspete dintr-un hotel care a fost aruncat din balconul camerei în timpul unei investigații secrete la care lucra.####Cu: Jay Hernandez, Perdita Weeks, Zac.(n)</desc>
+    <credits>
+      <actor>Jay Hernandez</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>Zachary Knighton</actor>
+    </credits>
+    <date>2019</date>
+    <icon src="https://program-tv.net/img/normal/160/16015/Magnum_detectiv_particular_s2_ep_7.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="RO">
+      <value>12</value>
+      <icon src="https://musor.tv/images/etc/pg_12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230725220000 +0300" stop="20230725230000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">COBRA 11 ÎN ALERTĂ</title>
+    <desc lang="ro">(ALARM FUR COBRA 11; 1996).(n)</desc>
+    <date>2015</date>
+    <icon src="https://program-tv.net/img/normal/1/189/Cobra_11_in_alerta_s21_ep_9.jpg" />
+    <episode-num system="onscreen">S21 E9</episode-num>
     <rating system="RO">
       <value>12</value>
       <icon src="https://musor.tv/images/etc/pg_12.svg" />
