@@ -4,6 +4,11 @@
     <display-name lang="ro">program24ro</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="ProTV HD">
+    <display-name lang="ro">orangelinro</display-name>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/channelicons/ProTV%20HD_m.png" />
+    <url>http://www.orange_ro</url>
+  </channel>
   <programme start="20230719190000 +0300" stop="20230719203000 +0300" channel="PRO TV">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
@@ -153,5 +158,638 @@
   </programme>
   <programme start="20230722223000 +0300" stop="20230723001500 +0300" channel="PRO TV">
     <title lang="ro">Mama răzbunării</title>
+  </programme>
+  <programme start="20230719150000 +0000" stop="20230719160000 +0000" channel="ProTV HD">
+    <title lang="ro">Ce spun romanii</title>
+    <desc lang="ro">Emisiune de tip concurs, inspirata dupa formatul american de succes "Family Feud", in care doua echipe se lupta in sase runde de intrebari, pentru marele premiu.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/666907l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230719160000 +0000" stop="20230719173000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230719173000 +0000" stop="20230719183000 +0000" channel="ProTV HD">
+    <title lang="ro">Las fierbinti</title>
+    <desc lang="ro">Actiunea se petrece in satul Fierbinti. Viceprimarul Vasile vrea sa ii ia locul actualului primar si se bazeaza pe sprijinul carciumarului Bobita si al prietenului acestuia, Giani, smecherasul tipic de provincie.(n)</desc>
+    <credits>
+      <director>Dragos Buliga</director>
+      <director>Constantin Popescu</director>
+      <director>Gabriel de Achim</director>
+      <actor>Mihai Bobonete</actor>
+      <actor>Gheorghe Ifrim</actor>
+      <actor>Anca Dumitra</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Seriale</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/las-fierbinti-578584l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230719183000 +0000" stop="20230719201500 +0000" channel="ProTV HD">
+    <title lang="ro">Fara egal</title>
+    <desc lang="ro">In urma cu zece ani, Monroe era un boxer in ascensiune. Intr-o noapte, intr-un acces de furie, comite o crima care-i aduce inchisoarea pe viata. Barbatul continua sa boxeze in inchisori, cu un record de 67 de victorii si nicio infrangere.(n)</desc>
+    <credits>
+      <director>Walter Hill</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Peter Falk</actor>
+    </credits>
+    <category lang="ro">Drama</category>
+    <category lang="ro">Film</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/undisputed-790280l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230719201500 +0000" stop="20230719204500 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230719204500 +0000" stop="20230719224500 +0000" channel="ProTV HD">
+    <title lang="ro">Norbit</title>
+    <desc lang="ro">Ai facut vreodata o greseala cu adevarat... mare? Norbit este un tanar blajin, pe care pune mana o femeie extrem de urata, enervanta si... mare. O veche dragoste reapare in viata lui Norbit, dar ce sa faca cu nevasta?(n)</desc>
+    <credits>
+      <director>Brian Robbins</director>
+      <actor>Thandiwe Newton</actor>
+      <actor>Terry Crews</actor>
+      <actor>Eddie Murphy</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/norbit-454854l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230719224500 +0000" stop="20230719233000 +0000" channel="ProTV HD">
+    <title lang="ro">Lectii de viata</title>
+    <desc lang="ro">O emisiune care prezinta diverse situatii inspirate din viata reala a familiilor, in care se va pune accent pe povesti de iubire, dorinta, lacomie, minciuna sau violenta. Fiecare episod va ilustra probleme si intamplari des intalnite in viata cotidiana. Acest program este o fictiune.(n)</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/537641l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230719233000 +0000" stop="20230720000000 +0000" channel="ProTV HD">
+    <title lang="ro">I Like IT</title>
+    <desc lang="ro">Emisiunea I like IT iti aduce cele mai noi informatii din domeniul tehnologiei si al internetului. Evenimentele din online, gadgeturi inovatoare, social media, aplicatii, toate aceste subiecte vor fi abordate in editiile I like IT.(n)</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/598533l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720000000 +0000" stop="20230720020000 +0000" channel="ProTV HD">
+    <title lang="ro">Vorbeste lumea</title>
+    <desc lang="ro">Emisiunea abordeaza intr-un ton vesel si optimist subiecte precum moda, frumusete, sanatate, cooking sau parenting. Fiecare emisiune aduce in platou invitati din lumea mondena, vedete si celebritati, artisti, dar si personalitati publice si din sfera medicala sau culturala.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/542901-119330l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720020000 +0000" stop="20230720030000 +0000" channel="ProTV HD">
+    <title lang="ro">Ce spun romanii</title>
+    <desc lang="ro">Emisiune de tip concurs, inspirata dupa formatul american de succes "Family Feud", in care doua echipe se lupta in sase runde de intrebari, pentru marele premiu.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/666907l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720030000 +0000" stop="20230720040000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720040000 +0000" stop="20230720073000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720073000 +0000" stop="20230720100000 +0000" channel="ProTV HD">
+    <title lang="ro">Vorbeste lumea</title>
+    <desc lang="ro">Emisiunea abordeaza intr-un ton vesel si optimist subiecte precum moda, frumusete, sanatate, cooking sau parenting. Fiecare emisiune aduce in platou invitati din lumea mondena, vedete si celebritati, artisti, dar si personalitati publice si din sfera medicala sau culturala.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/542901-119330l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720100000 +0000" stop="20230720110000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720110000 +0000" stop="20230720120000 +0000" channel="ProTV HD">
+    <title lang="ro">Lectii de viata</title>
+    <desc lang="ro">O emisiune care prezinta diverse situatii inspirate din viata reala a familiilor, in care se va pune accent pe povesti de iubire, dorinta, lacomie, minciuna sau violenta. Fiecare episod va ilustra probleme si intamplari des intalnite in viata cotidiana. Acest program este o fictiune.(n)</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/537641l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720120000 +0000" stop="20230720140000 +0000" channel="ProTV HD">
+    <title lang="ro">La Maruta</title>
+    <desc lang="ro">O emisiune de divertisment in care telespectatorii se pot delecta cu invitati din lumea mondena, vedete si celebritati, artisti, personalitati publice si nu numai. Nu lipsesc nici concursurile, competitiile si farsele, tonul emisiunii fiind unul vesel si energic.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/960705-452812l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720140000 +0000" stop="20230720150000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720150000 +0000" stop="20230720160000 +0000" channel="ProTV HD">
+    <title lang="ro">Ce spun romanii</title>
+    <desc lang="ro">Emisiune de tip concurs, inspirata dupa formatul american de succes "Family Feud", in care doua echipe se lupta in sase runde de intrebari, pentru marele premiu.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/666907l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720160000 +0000" stop="20230720173000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720173000 +0000" stop="20230720183000 +0000" channel="ProTV HD">
+    <title lang="ro">Las fierbinti</title>
+    <desc lang="ro">Actiunea se petrece in satul Fierbinti. Viceprimarul Vasile vrea sa ii ia locul actualului primar si se bazeaza pe sprijinul carciumarului Bobita si al prietenului acestuia, Giani, smecherasul tipic de provincie.(n)</desc>
+    <credits>
+      <director>Dragos Buliga</director>
+      <director>Constantin Popescu</director>
+      <director>Gabriel de Achim</director>
+      <actor>Mihai Bobonete</actor>
+      <actor>Gheorghe Ifrim</actor>
+      <actor>Anca Dumitra</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Seriale</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/las-fierbinti-578584l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720183000 +0000" stop="20230720204500 +0000" channel="ProTV HD">
+    <title lang="ro">Spioana</title>
+    <desc lang="ro">Susan Cooper este un analist CIA modest si eroul necunoscut din spatele celor mai periculoase misiuni ale agentiei. Dar cand partenerul ei iese din retea, ea se ofera voluntara sa se infiltreze in lumea unui dealer de arme mortale.(n)</desc>
+    <credits>
+      <director>Paul Feig</director>
+      <actor>Raad Rawi</actor>
+      <actor>Melissa McCarthy</actor>
+      <actor>Jude Law</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Film</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/spy-944637l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720204500 +0000" stop="20230720211500 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720211500 +0000" stop="20230720230000 +0000" channel="ProTV HD">
+    <title lang="ro">Imunitate</title>
+    <desc lang="ro">La un an si jumatate de la distrugerea civilizatiei din cauza unei epidemii virale, un fost agent FBI este nevoit sa protejeze o tanara femeie imuna la boala de un periculos lider de banda care o vaneaza.(n)</desc>
+    <credits>
+      <director>Jon Keeyes</director>
+      <actor>Jonathan Rhys Meyers</actor>
+      <actor>John Malkovich</actor>
+      <actor>Jenna Leigh Green</actor>
+    </credits>
+    <category lang="ro">Actiune</category>
+    <category lang="ro">Sf</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/the-survivalist-197949l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230720230000 +0000" stop="20230721000000 +0000" channel="ProTV HD">
+    <title lang="ro">Lectii de viata</title>
+    <desc lang="ro">O emisiune care prezinta diverse situatii inspirate din viata reala a familiilor, in care se va pune accent pe povesti de iubire, dorinta, lacomie, minciuna sau violenta. Fiecare episod va ilustra probleme si intamplari des intalnite in viata cotidiana. Acest program este o fictiune.(n)</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/537641l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721000000 +0000" stop="20230721020000 +0000" channel="ProTV HD">
+    <title lang="ro">Vorbeste lumea</title>
+    <desc lang="ro">Emisiunea abordeaza intr-un ton vesel si optimist subiecte precum moda, frumusete, sanatate, cooking sau parenting. Fiecare emisiune aduce in platou invitati din lumea mondena, vedete si celebritati, artisti, dar si personalitati publice si din sfera medicala sau culturala.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/542901-119330l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721020000 +0000" stop="20230721030000 +0000" channel="ProTV HD">
+    <title lang="ro">Ce spun romanii</title>
+    <desc lang="ro">Emisiune de tip concurs, inspirata dupa formatul american de succes "Family Feud", in care doua echipe se lupta in sase runde de intrebari, pentru marele premiu.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/666907l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721030000 +0000" stop="20230721040000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721040000 +0000" stop="20230721073000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721073000 +0000" stop="20230721100000 +0000" channel="ProTV HD">
+    <title lang="ro">Vorbeste lumea</title>
+    <desc lang="ro">Emisiunea abordeaza intr-un ton vesel si optimist subiecte precum moda, frumusete, sanatate, cooking sau parenting. Fiecare emisiune aduce in platou invitati din lumea mondena, vedete si celebritati, artisti, dar si personalitati publice si din sfera medicala sau culturala.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/542901-119330l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721100000 +0000" stop="20230721110000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721110000 +0000" stop="20230721120000 +0000" channel="ProTV HD">
+    <title lang="ro">Lectii de viata</title>
+    <desc lang="ro">O emisiune care prezinta diverse situatii inspirate din viata reala a familiilor, in care se va pune accent pe povesti de iubire, dorinta, lacomie, minciuna sau violenta. Fiecare episod va ilustra probleme si intamplari des intalnite in viata cotidiana. Acest program este o fictiune.(n)</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/537641l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721120000 +0000" stop="20230721140000 +0000" channel="ProTV HD">
+    <title lang="ro">La Maruta</title>
+    <desc lang="ro">O emisiune de divertisment in care telespectatorii se pot delecta cu invitati din lumea mondena, vedete si celebritati, artisti, personalitati publice si nu numai. Nu lipsesc nici concursurile, competitiile si farsele, tonul emisiunii fiind unul vesel si energic.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/960705-452812l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721140000 +0000" stop="20230721150000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721150000 +0000" stop="20230721160000 +0000" channel="ProTV HD">
+    <title lang="ro">Ce spun romanii</title>
+    <desc lang="ro">Emisiune de tip concurs, inspirata dupa formatul american de succes "Family Feud", in care doua echipe se lupta in sase runde de intrebari, pentru marele premiu.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/666907l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721160000 +0000" stop="20230721173000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721173000 +0000" stop="20230721183000 +0000" channel="ProTV HD">
+    <title lang="ro">Las fierbinti</title>
+    <desc lang="ro">Actiunea se petrece in satul Fierbinti. Viceprimarul Vasile vrea sa ii ia locul actualului primar si se bazeaza pe sprijinul carciumarului Bobita si al prietenului acestuia, Giani, smecherasul tipic de provincie.(n)</desc>
+    <credits>
+      <director>Dragos Buliga</director>
+      <director>Constantin Popescu</director>
+      <director>Gabriel de Achim</director>
+      <actor>Mihai Bobonete</actor>
+      <actor>Gheorghe Ifrim</actor>
+      <actor>Anca Dumitra</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Seriale</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/las-fierbinti-578584l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721183000 +0000" stop="20230721203000 +0000" channel="ProTV HD">
+    <title lang="ro">Misiune in forta</title>
+    <desc lang="ro">Jean-Claude este un soldat veteran al fortelor speciale care si-a petrecut ultimii 3 ani luptand in Afghanistan si Irak...(n)</desc>
+    <credits>
+      <director>Sheldon Lettich</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Razaaq Adoti</actor>
+      <actor>Vivica A. Fox</actor>
+    </credits>
+    <category lang="ro">Actiune</category>
+    <category lang="ro">Thriller</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/the-hard-corps-738865l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721203000 +0000" stop="20230721223000 +0000" channel="ProTV HD">
+    <title lang="ro">Omul cu pumni de fier</title>
+    <desc lang="ro">De la sosirea sa in Jungle Village, fierarul orasului a fost fortat de factiuni radicale sa creeze arme sofisticate. Cand razboiul izbucneste, el va reusi sa capteze o energie straveche si va trebui sa devina salvatorul poporului care l-a adoptat.(n)</desc>
+    <credits>
+      <director>RZA</director>
+      <actor>Dave Bautista</actor>
+      <actor>RZA</actor>
+      <actor>Russell Crowe</actor>
+    </credits>
+    <category lang="ro">Actiune</category>
+    <category lang="ro">Aventuri</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/the-man-with-the-iron-fists-854912l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230721223000 +0000" stop="20230722001500 +0000" channel="ProTV HD">
+    <title lang="ro">Fara egal</title>
+    <desc lang="ro">In urma cu zece ani, Monroe era un boxer in ascensiune. Intr-o noapte, intr-un acces de furie, comite o crima care-i aduce inchisoarea pe viata. Barbatul continua sa boxeze in inchisori, cu un record de 67 de victorii si nicio infrangere.(n)</desc>
+    <credits>
+      <director>Walter Hill</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Peter Falk</actor>
+    </credits>
+    <category lang="ro">Drama</category>
+    <category lang="ro">Film</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/undisputed-790280l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722001500 +0000" stop="20230722010000 +0000" channel="ProTV HD">
+    <title lang="ro">Las fierbinti</title>
+    <desc lang="ro">Actiunea se petrece in satul Fierbinti. Viceprimarul Vasile vrea sa ii ia locul actualului primar si se bazeaza pe sprijinul carciumarului Bobita si al prietenului acestuia, Giani, smecherasul tipic de provincie.(n)</desc>
+    <credits>
+      <director>Dragos Buliga</director>
+      <director>Constantin Popescu</director>
+      <director>Gabriel de Achim</director>
+      <actor>Mihai Bobonete</actor>
+      <actor>Gheorghe Ifrim</actor>
+      <actor>Anca Dumitra</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Seriale</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/las-fierbinti-578584l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722010000 +0000" stop="20230722030000 +0000" channel="ProTV HD">
+    <title lang="ro">Vorbeste lumea</title>
+    <desc lang="ro">Emisiunea abordeaza intr-un ton vesel si optimist subiecte precum moda, frumusete, sanatate, cooking sau parenting. Fiecare emisiune aduce in platou invitati din lumea mondena, vedete si celebritati, artisti, dar si personalitati publice si din sfera medicala sau culturala.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/542901-119330l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722030000 +0000" stop="20230722040000 +0000" channel="ProTV HD">
+    <title lang="ro">Lectii de viata</title>
+    <desc lang="ro">O emisiune care prezinta diverse situatii inspirate din viata reala a familiilor, in care se va pune accent pe povesti de iubire, dorinta, lacomie, minciuna sau violenta. Fiecare episod va ilustra probleme si intamplari des intalnite in viata cotidiana. Acest program este o fictiune.(n)</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/537641l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722040000 +0000" stop="20230722070000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722070000 +0000" stop="20230722090000 +0000" channel="ProTV HD">
+    <title lang="ro">Baschetii fermecati 2</title>
+    <desc lang="ro">Plin de umor, actiune la cote maxime, dar totusi sensibil si magic... intr-un joc complet nou! In continuarea filmului de mare succes Like Mike, acestui tanar ambitios i se materializeaza visurile de succes si faima.(n)</desc>
+    <credits>
+      <director>David Nelson</director>
+      <actor>Michael Beach</actor>
+      <actor>Jascha Washington</actor>
+      <actor>Enid-Raye Adams</actor>
+    </credits>
+    <category lang="ro">Familie</category>
+    <category lang="ro">Sport</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/like-mike-2-streetball-437757l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722090000 +0000" stop="20230722110000 +0000" channel="ProTV HD">
+    <title lang="ro">Nancy Drew</title>
+    <desc lang="ro">Nancy este o tanara care de-abia a intrat la colegiu. Ea este pasionata de tot ceea ce inseamna mister, asa ca nu sovaie nicio clipa cand descopera dovezi care ar putea elucida cazul nerezolvat de crima in care este implicat si un star de cinema.(n)</desc>
+    <credits>
+      <director>Andrew Fleming</director>
+      <actor>Emma Roberts</actor>
+      <actor>Craig Gellis</actor>
+      <actor>Rich Cooper</actor>
+    </credits>
+    <category lang="ro">Aventuri</category>
+    <category lang="ro">Comedie</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/nancy-drew-142078l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722110000 +0000" stop="20230722124500 +0000" channel="ProTV HD">
+    <title lang="ro">O minciuna gogonata</title>
+    <desc lang="ro">Dupa ce eseul unui tanar elev pica din greseala in mainile unui producator de la Hollywood, si este transformat intr-un film, elevul se duce la Hollywood pentru a-si revendica drepturile de autor.(n)</desc>
+    <credits>
+      <director>Shawn Levy</director>
+      <actor>Frankie Muniz</actor>
+      <actor>Amanda Bynes</actor>
+      <actor>Paul Giamatti</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Film</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/big-fat-liar-438389l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722124500 +0000" stop="20230722150000 +0000" channel="ProTV HD">
+    <title lang="ro">Spot</title>
+    <desc lang="ro">Gordon nu este neaparat un mare iubitor de caini. Poate din cauza ca e postas si intalneste deseori patrupede puse pe harta. Dar aventurile incep cu adevarat cand un caine politist, urmarit de oamenii unui mafiot, se refugiaza in masina lui de posta.(n)</desc>
+    <credits>
+      <director>John Whitesell</director>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>David Arquette</actor>
+      <actor>Fulvio Cecere</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Familie</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/see-spot-run-391340l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722150000 +0000" stop="20230722160000 +0000" channel="ProTV HD">
+    <title lang="ro">Sef sub acoperire</title>
+    <desc lang="ro">Te-ai gandit vreodata daca seful tau stie ce se intampla intr-o zi de munca sau daca ar fi in stare sa puna umarul la treaba si sa faca munca fizica pe care o faci chiar tu? Ar face treaba mai bine ca tine sau ar fi ca un incepator pe care trebuie sa-l inveti orice miscare? Emisiunea va aduce cate un director sub acoperire, care va experimenta mai multe job-uri in propria companie. In fiecare departament, un angajat ii va fi mentor si va incerca sa-l initieze pe sef in tainele companiei si ale job-ului respectiv.(n)</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/435810l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722160000 +0000" stop="20230722170000 +0000" channel="ProTV HD">
+    <title lang="ro">Stirile Pro Tv</title>
+    <desc lang="ro">Stiri de ultima ora din tara si externe. Urmareste transmisiuni live, breaking news, reportaje si anchete.(n)</desc>
+    <category lang="ro">Stiri</category>
+    <category lang="ro">Emisiune</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/271587-859266l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722170000 +0000" stop="20230722193000 +0000" channel="ProTV HD">
+    <title lang="ro">Sahara</title>
+    <desc lang="ro">1995, Egipt. Aflat in cautarea unei comori ascunse undeva, pe Nill, Dark Pitt impiedica asasinarea unei frumoase cercetatoare care studiaza o boala ce a impins mii de africani in bratele nebuniei, canibalismului si mortii.(n)</desc>
+    <credits>
+      <director>Breck Eisner</director>
+      <actor>Matthew McConaughey</actor>
+      <actor>Penelope Cruz</actor>
+      <actor>Steve Zahn</actor>
+    </credits>
+    <category lang="ro">Actiune</category>
+    <category lang="ro">Aventuri</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/sahara-289695l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722193000 +0000" stop="20230722211500 +0000" channel="ProTV HD">
+    <title lang="ro">Mama razbunarii</title>
+    <desc lang="ro">Dupa moartea tatalui ei, Shaun isi duce copiii la conacul din Malibu al acestuia, pentru a solutiona aspectele legate de mostenire si a intra in posesia averii. Dar patru raufacatori o asteapta cu intentia de-a gasi seiful raposatului.(n)</desc>
+    <credits>
+      <director>James McTeigue</director>
+      <actor>Gabrielle Union</actor>
+      <actor>Billy Burke</actor>
+      <actor>Richard Cabral</actor>
+    </credits>
+    <category lang="ro">Thriller</category>
+    <category lang="ro">Film</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/breaking-in-697106l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722211500 +0000" stop="20230722230000 +0000" channel="ProTV HD">
+    <title lang="ro">Casca ochii ca o-ncurci</title>
+    <desc lang="ro">Cam cum ar fi sa cazi "din lac in put". O excelenta comedie de actiune "impanata cu traficantii mexicani, agenti FBI, urmariri si bineinteles femei frumoase.(n)</desc>
+    <credits>
+      <director>George Gallo</director>
+      <actor>Orlando Jones</actor>
+      <actor>Eddie Griffin</actor>
+      <actor>Benny Nieves</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Film</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/double-take-149011l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme start="20230722230000 +0000" stop="20230723003000 +0000" channel="ProTV HD">
+    <title lang="ro">O minciuna gogonata</title>
+    <desc lang="ro">Dupa ce eseul unui tanar elev pica din greseala in mainile unui producator de la Hollywood, si este transformat intr-un film, elevul se duce la Hollywood pentru a-si revendica drepturile de autor.(n)</desc>
+    <credits>
+      <director>Shawn Levy</director>
+      <actor>Frankie Muniz</actor>
+      <actor>Amanda Bynes</actor>
+      <actor>Paul Giamatti</actor>
+    </credits>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Film</category>
+    <icon src="https://solst.solocoo.tv/solstiphone/mmchan/rcimages/big-fat-liar-438389l.jpg" />
+    <rating>
+      <value>AL</value>
+    </rating>
   </programme>
 </tv>
