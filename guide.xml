@@ -6,12 +6,12 @@
     <url>http://www.cinemagia.ro</url>
   </channel>
   <channel id="KanalD2.ro">
-    <display-name lang="ro">KANALD2</display-name>
+    <display-name lang="ro">kanal-d2</display-name>
     <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d2.jpg" />
     <url>http://www.cinemagia.ro</url>
   </channel>
   <channel id="ProTV.ro">
-    <display-name lang="ro">PRO TV (HD)</display-name>
+    <display-name lang="ro">PRO_TV</display-name>
     <icon src="https://program-tv.net/images/pro_tv.svg" />
     <url>http://www.program-tv.net</url>
   </channel>
@@ -21,7 +21,7 @@
     <url>http://www.cinemagia.ro</url>
   </channel>
   <channel id="Antena1.ro">
-    <display-name lang="ro">Antena 1 (HD)</display-name>
+    <display-name lang="ro">ANTENA1</display-name>
     <icon src="https://program-tv.net/images/antena1_hd.svg" />
     <url>http://www.program-tv.net</url>
   </channel>
@@ -51,7 +51,7 @@
     <url>http://www.cinemagia.ro</url>
   </channel>
   <channel id="Pro Arena.ro">
-    <display-name lang="ro">PRO ARENA</display-name>
+    <display-name lang="ro">PRO_ARENA</display-name>
     <icon src="https://program-tv.net/images/pro_arena.svg" />
     <url>http://www.program-tv.net</url>
   </channel>
@@ -71,7 +71,7 @@
     <url>http://www.cinemagia.ro</url>
   </channel>
   <channel id="AcasaGold.ro">
-    <display-name lang="ro">ACASA_GOLD</display-name>
+    <display-name lang="ro">acasa-gold-hd</display-name>
     <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa-gold-hd.jpg" />
     <url>http://www.cinemagia.ro</url>
   </channel>
