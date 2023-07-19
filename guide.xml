@@ -1,775 +1,738 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="PRO TV">
-    <display-name lang="ro">focussatro</display-name>
-    <icon src="https://m7cz.solocoo.tv/m7cziphone/mmchan/channelicons/PRO%20TV_w84.png" />
-    <url>http://www.focussat.ro</url>
+  <channel id="PRO TV HD">
+    <display-name lang="ro">telekomtv.ro</display-name>
+    <icon src="http://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/attachments/PROTVHD.png" />
+    <url>http://www.telekomtv.ro</url>
   </channel>
-  <programme start="20230719140000 +0000" stop="20230719150000 +0000" channel="PRO TV">
+  <programme start="20230719160000 +0000" stop="20230719173000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Monica Dascălu vine în fiecare zi, de luni până vineri, începând cu ora 17:00, la pupitrul Ştirilor Pro TV pentru a coordona un tur de forţă prin toate colţurile României, de oriunde apar fulgerător cele mai spectaculoase şi incitante informaţii. Realitatea în toate formele ei curge pe frecvenţa Pro TV, reportajele explozive şi mărturiile unor oameni prinşi în mijlocul evenimentelor se revarsă la ştiri, toate sub bagheta Monicăi Dascălu. Destine intersectate abrupt de situaţii limită nasc poveşti dure, dar incitante şi obiectiv împachetate, care îşi găsesc povestitorul la Ştirile de la ora 17:00. Monica Dascălu adună segmente din spectacolul vieţii din toate colţurile ţării. Prezentatoarea Ştirilor de la ora 17:00 intră în legătură cu staţiile locale pentru a lua pulsul tuturor regiunilor, pentru a surprinde poveşti reale cu farmec local, dar cu o istorie şi personaje incredibile.(n)</desc>
-    <credits>
-      <presenter>Monica Dascălu</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/yIT12b0N0wWO7SqZHTk1pg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">În fiecare seară a săptămânii, de luni până vineri, de la ora 19:00, Andreea Esca aduce cele mai importante evenimente ale zilei, abordate cu mult profesionalism.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/805ac2ee88f876db3e7df20a70f6489aef77eee6_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230719150000 +0000" stop="20230719160000 +0000" channel="PRO TV">
-    <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale. Atmosfera din platou este una destinsă, plină de energie, iar familiile împreună cu gazda emisiunii se vor distra şi vor aduce zâmbetul pe buze tuturor telespectatorilor. În urma unui sondaj realizat anterior, pe un eşantion de 100 de persoane alese aleatoriu, s-au obţinut cele mai populare răspunsuri ale unor întrebări gândite special pentru Ce spun românii. Familiile participante vor răspunde la şapte runde de întrebări, fiecare dintre acestea în încercarea de a alege răspunsurile care sunt cât mai apropiate de opinia majoritară a celor 100 de persoane care au participat la sondaj. Fiecare întrebare din primele şase runde poate aduce puncte familiilor, care vor fi valorificate în bani.(n)</desc>
-    <credits>
-      <presenter>Cabral Ibacka</presenter>
-    </credits>
-    <category lang="ro">Quiz</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/fPfJ8EEtnu6AZ9A2GPpXtg.jpg" />
-    <rating>
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme start="20230719160000 +0000" stop="20230719173000 +0000" channel="PRO TV">
-    <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Andreea Esca vine în fiecare seară, de luni până vineri, începând cu ora 19:00, la pupitrul Ştirilor Pro TV pentru a prezenta principalele subiecte ale zilei. Realitatea în toate formele ei curge pe frecvenţa Pro TV, reportajele explozive şi mărturiile unor oameni prinşi în mijlocul evenimentelor se revarsă la ştiri, toate sub bagheta Andreei Esca.(n)</desc>
-    <credits>
-      <presenter>Andreea Esca</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/aoD1b42CrsldAJ2oAZQV0A.jpg" />
-    <rating>
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme start="20230719173000 +0000" stop="20230719183000 +0000" channel="PRO TV">
+  <programme start="20230719173000 +0000" stop="20230719183000 +0000" channel="PRO TV HD">
     <title lang="ro">Las Fierbinţi</title>
-    <desc lang="ro">Acţiunea se petrece în satul Fierbinţi, acolo unde existenţa locuitorilor se desfăşoară lent, într-un paradis rural care s-a adaptat, în stil pur românesc, la vremurile moderne. Viceprimarul Vasile (Gheorghe Ifrim) vrea să-i ia locul actualului primar şi se bazează pe sprijinul cârciumarului Bobiţă (Mihai Bobonete) şi al prietenului acestuia Giani (Costi Diţă), şmecheraşul tipic de provincie. Robi (Leonid Doni) este şeful de post, Dorel (Mihai Rait Dragomir) este fratele lui Bobiţă, Doru (Iulian Postelnicu) este învăţătorul satului, prieten din copilărie cu Bobiţă şi Giani, iar Celentano (Adrian Văncică), Firicel al lu' Cimpoaie (Toma Cuzin), Ardiles (Mihai Mărgineanu) şi Moş Peleuş (Horaţiu Mălăele), beţivii satului, sunt apariţii colorate şi pline de umor. Filmat într-un sat real, din apropierea Bucureştiului, "Las Fierbinţi" are toate ingredientele unui succes, cu întâmplări haioase, o muzică aparte compusă special de Mihai Mărgineanu şi situaţii care promit să devină iar bancuri.(n)</desc>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/U6aecHwAvelVbA3Lawfp8w.jpg" />
-    <rating>
+    <desc lang="ro">Povestea fascinantă a fierbinţenilor se scrie în acelaşi ton, cu mult umor şi bună dispoziţie, cu răsturnări de situaţie şi conjuncturi nebănuite.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ee0c1e9940c3a79c5a2cc6cc0e4e91e09faacd6f_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230719183000 +0000" stop="20230719201500 +0000" channel="PRO TV">
+  <programme start="20230719183000 +0000" stop="20230719201500 +0000" channel="PRO TV HD">
     <title lang="ro">Runda finală</title>
+    <title lang="xx">Undisputed</title>
     <desc lang="ro">Un boxer în plină ascensiune comite o crimă şi e condamnat pe viaţă. În închisoare continuă să boxeze în campionatele organizate intern.Şi, poate că soarta îi mai rezervă o surpriză.(n)</desc>
     <credits>
       <director>Walter Hill</director>
-      <actor role="Monroe Hutchen">Wesley Snipes</actor>
-      <actor role="James Chambers">Ving Rhames</actor>
-      <actor role="Emmanuel 'Mendy' Ripstein">Peter Falk</actor>
-      <actor role="A.J. Mercker">Michael Rooker</actor>
-      <actor role="Jesus 'Chuy' Campos">Jon Seda</actor>
-      <producer>David Giler</producer>
-      <producer>Walter Hill</producer>
-      <producer>Brad Krevoy</producer>
+      <actor>Peter Falk</actor>
+      <actor>Rose Rollins</actor>
+      <actor>Fisher Stevens</actor>
+      <actor>Wesley Snipes</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Wes Studi</actor>
+      <actor>Michael Rooker</actor>
+      <actor>Denis Arndt</actor>
+      <writer>Walter Hill</writer>
+      <writer>David Giler</writer>
+      <producer>Boaz Davidson</producer>
+      <producer>Wesley Snipes</producer>
       <composer>Stanley Clarke</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/ZDDa9oQ_GIbi2zVddgM8kA.jpg" />
-    <rating>
+    <date>2002</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/10ed31fae28b5f3bdca3d3619923548886f6dce8_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230719201500 +0000" stop="20230719204500 +0000" channel="PRO TV">
+  <programme start="20230719201500 +0000" stop="20230719204500 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Echipa de jurnalişti de la "Ştirile PRO TV" aduce în fiecare zi, în principalele jurnale, cele mai importante subiecte ale zilei, abordate cu mult profesionalism. Telespectatorii au acces la informaţii de calitate, anchete şi reportaje, documentate şi realizate de cei mai buni jurnalişti din România.(n)</desc>
-    <credits>
-      <presenter>Cristian Leonte</presenter>
-      <presenter>Amalia Enache</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <category lang="ro">Local</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/ef38kKXfLeDIFBma82Fdbg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Ultimile ştiri ale serii sunt prezentate de Amalia Enache şi Cristian Leonte. Cei doi jurnalişti fac în fiecare seară sinteza celor mai importante evenimente ale zilei.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/8c214ce3cb6a8a28dbb07594e699785648c0faac_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230719204500 +0000" stop="20230719224500 +0000" channel="PRO TV">
+  <programme start="20230719204500 +0000" stop="20230719224500 +0000" channel="PRO TV HD">
     <title lang="ro">Norbit</title>
-    <desc lang="ro">În 1967, pe cînd era doar un copil, Norbit a fost abandonat de părinţi. Domnul Wong, proprietarul unui orfelinat, l-a crescut pe Norbit aşa cum a ştiut mai bine şi în tot acest timp copilul se împrieteneşte cu Kate, o fetiţă cu aceeaşi soartă. În momentul în care ea este adoptată, Norbit se simte singur, dar este protejat de Rasputia, o persoană cu multe kilograme în plus. La maturitate, Rasputia devine un adevărat monstru de grăsime, dar Norbit se căsătoreşte cu ea. În momentul în care Kate revine în oraş pentru a cumpăra orfelinatul, Norbit îşi aminteşte de clipele frumoase petrecute împreună şi se îndrăgosteşte de ea, ceea ce, bineînţeles, îi complică viaţa.(n)</desc>
+    <desc lang="ro">În 1967, pe cînd era doar un copil, Norbit a fost abandonat de părinţi. Domnul Wong, proprietarul unui orfelinat, l-a crescut pe Norbit aşa cum a ştiut mai bine.(n)</desc>
     <credits>
       <director>Brian Robbins</director>
-      <actor role="Mr. Wong / Rasputia / Norbit">Eddie Murphy</actor>
-      <actor role="Kate Thomas">Thandiwe Newton</actor>
-      <actor role="Big Jack Latimore">Terry Crews</actor>
-      <actor role="Earl Latimore">Clifton Powell</actor>
-      <actor role="Blue Latimore">Lester Speight</actor>
-      <producer>John Davis</producer>
+      <actor>Michael Colyar</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Marlon Wayans</actor>
+      <actor>Terry Crews</actor>
+      <actor>Khamani Griffin</actor>
+      <actor>Clifton Powell</actor>
+      <actor>Cuba Gooding Jr.</actor>
+      <writer>Eddie Murphy</writer>
+      <writer>Jay Scherick</writer>
+      <producer>Brian Robbins</producer>
       <producer>Eddie Murphy</producer>
-      <producer>David B. Householter</producer>
       <composer>David Newman</composer>
     </credits>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Romantic</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/BOuw9NEM3IdCBOeztBmIpA.jpg" />
-    <rating>
+    <date>2007</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/95cca94412714d881ce7342ae42c2f7099980fd0_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230719224500 +0000" stop="20230719233000 +0000" channel="PRO TV">
+  <programme start="20230719224500 +0000" stop="20230719233000 +0000" channel="PRO TV HD">
     <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor. Sunt prezentate diverse situaţii inspirate din viaţa reală a familiilor, punându-se accent pe poveşti de iubire, dorinţă, lăcomie, minciună sau violenţă.(n)</desc>
-    <category lang="ro">Viaţă de familie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/-q0EP1YLqr-4L2rCj9zAGg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ffc2b4e0961117ba5cdf82143e610b812fcff1b5_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230719233000 +0000" stop="20230720000000 +0000" channel="PRO TV">
+  <programme start="20230719233000 +0000" stop="20230720000000 +0000" channel="PRO TV HD">
     <title lang="ro">I Like IT</title>
-    <desc lang="ro">Emisiunea traduce IT-ul în limba română cu umor inteligent şi poftă de show, iar Iulia Ionescu face ca noutăţile din Internet şi tehnologie să nu mai pară complicate şi inaccesibile. Tot ea vânează şi prezintă cele mai noi smartphone-uri, tablete şi alte dispozitive sau gadgeturi care să ne facă viaţa mai uşoară.(n)</desc>
-    <credits>
-      <presenter>Iulia Ionescu</presenter>
-    </credits>
-    <category lang="ro">IT</category>
-    <category lang="ro">Tehnologie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/4GQXLCQAxhaP2vREN0gElw.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Emisiunea traduce IT-ul în limba română cu umor inteligent şi poftă de show, iar Iulia Ionescu face ca noutăţile din Internet şi tehnologie să nu mai pară complicate şi inaccesibile.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/a9b32eeabaddc110431bc76ba16662b1abbd0090_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230720000000 +0000" stop="20230720020000 +0000" channel="PRO TV">
+  <programme start="20230720000000 +0000" stop="20230720020000 +0000" channel="PRO TV HD">
     <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct. Aceștia vor aduce cele mai tari provocări, cele mai fresh informații mondene sau din mediul online, antrenamente de sport matinale și, împreună, vor completa tabloul unei dimineți perfecte.(n)</desc>
-    <credits>
-      <presenter>Emily Burghelea</presenter>
-      <presenter>Majda Aboulumosha</presenter>
-      <presenter>Cosmina Păsărin</presenter>
-    </credits>
-    <category lang="ro">Stil de viață</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/LWbVAKAteeTb9Wh88xZAyw.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct, de luni până vineri.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/53f93bf13cc23a374efa136fd551ddf59f212340_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230720020000 +0000" stop="20230720030000 +0000" channel="PRO TV">
+  <programme start="20230720020000 +0000" stop="20230720030000 +0000" channel="PRO TV HD">
     <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale. Atmosfera din platou este una destinsă, plină de energie, iar familiile împreună cu gazda emisiunii se vor distra şi vor aduce zâmbetul pe buze tuturor telespectatorilor. În urma unui sondaj realizat anterior, pe un eşantion de 100 de persoane alese aleatoriu, s-au obţinut cele mai populare răspunsuri ale unor întrebări gândite special pentru Ce spun românii. Familiile participante vor răspunde la şapte runde de întrebări, fiecare dintre acestea în încercarea de a alege răspunsurile care sunt cât mai apropiate de opinia majoritară a celor 100 de persoane care au participat la sondaj. Fiecare întrebare din primele şase runde poate aduce puncte familiilor, care vor fi valorificate în bani.(n)</desc>
-    <credits>
-      <presenter>Cabral Ibacka</presenter>
-    </credits>
-    <category lang="ro">Quiz</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/fPfJ8EEtnu6AZ9A2GPpXtg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/22a6cd53ddd41483d08061e899531b84f9f4e877_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230720030000 +0000" stop="20230720073000 +0000" channel="PRO TV">
+  <programme start="20230720030000 +0000" stop="20230720070000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Ziua începe când Mihai Dedu şi Lavinia Petrea/Andreea Marinescu dau trezirea, Neti Sandu descrie şansele ca speranţele să prindă viaţă, când Florin Busuioc aduce soarele sau gerul şi cu lecţiile de educaţie medicală ale Oanei Cuzino. Ştirile sportive sunt prezentate în fiecare dimineaţă de Raluca Arvat, Corina Caragea sau Vladimir Vîjeu. De luni până vineri, de la 6:00 dimineaţa, cel mai lung jurnal de ştiri al zilei curge în cascade, cu informaţii adunate după miezul nopţii, cu reportaje realizate în zori sau cu o serie de repere ale zilei în curs.(n)</desc>
-    <credits>
-      <presenter>Mihai Dedu</presenter>
-      <presenter>Lavinia Petrea</presenter>
-      <presenter>Andreea Marinescu</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/yIT12b0N0wWO7SqZHTk1pg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">De luni până vineri, jurnalul de ştiri de dimineaţă curge în cascade, cu informaţii adunate după miezul nopţii, cu reportaje realizate în zori sau cu o serie de repere ale zilei în curs.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/67c333f76becc42dfb41a299a71cf2c3c123d420_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230720073000 +0000" stop="20230720100000 +0000" channel="PRO TV">
+  <programme start="20230720070000 +0000" stop="20230720073000 +0000" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro TV</title>
+    <desc lang="ro">De luni până vineri, jurnalul de ştiri de dimineaţă curge în cascade, cu informaţii adunate după miezul nopţii, cu reportaje realizate în zori sau cu o serie de repere ale zilei în curs.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/67c333f76becc42dfb41a299a71cf2c3c123d420_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20230720073000 +0000" stop="20230720100000 +0000" channel="PRO TV HD">
     <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct. Aceștia vor aduce cele mai tari provocări, cele mai fresh informații mondene sau din mediul online, antrenamente de sport matinale și, împreună, vor completa tabloul unei dimineți perfecte.(n)</desc>
-    <credits>
-      <presenter>Emily Burghelea</presenter>
-      <presenter>Majda Aboulumosha</presenter>
-      <presenter>Cosmina Păsărin</presenter>
-    </credits>
-    <category lang="ro">Stil de viață</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/LWbVAKAteeTb9Wh88xZAyw.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct, de luni până vineri.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/53f93bf13cc23a374efa136fd551ddf59f212340_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230720100000 +0000" stop="20230720110000 +0000" channel="PRO TV">
+  <programme start="20230720100000 +0000" stop="20230720110000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">În mijlocul zilei şi din mijlocul evenimentelor, reporterii transmit cele mai noi şi complete informaţii pentru Ştirile de la ora 13:00. Nevoia oamenilor de a fi mereu informaţi a determinat apariţia dinamică a acestui jurnal, care a crescut de la zi la zi şi a fixat ora 13:00 ca o bornă importantă în orarul publicului de Ştiri. De la Ştirile Pro TV nu lipsesc subiectele externe de mare interes şi corespondenţele din centrul evenimentelor importante desfăşurate pe glob, la fel ca şi cele mai importante repere ale zilei în curs.(n)</desc>
-    <credits>
-      <presenter>Diana Enache</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/aoD1b42CrsldAJ2oAZQV0A.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">În mijlocul zilei şi din mijlocul evenimentelor, reporterii transmit cele mai noi şi complete informaţii pentru Ştirile de la ora 13:00.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/72a3ac7384750ca18e6291658bf6b64254990192_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230720110000 +0000" stop="20230720120000 +0000" channel="PRO TV">
+  <programme start="20230720110000 +0000" stop="20230720120000 +0000" channel="PRO TV HD">
     <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor. Sunt prezentate diverse situaţii inspirate din viaţa reală a familiilor, punându-se accent pe poveşti de iubire, dorinţă, lăcomie, minciună sau violenţă.(n)</desc>
-    <category lang="ro">Viaţă de familie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/-q0EP1YLqr-4L2rCj9zAGg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ffc2b4e0961117ba5cdf82143e610b812fcff1b5_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230720120000 +0000" stop="20230720140000 +0000" channel="PRO TV">
+  <programme start="20230720120000 +0000" stop="20230720140000 +0000" channel="PRO TV HD">
     <title lang="ro">La Măruţă</title>
-    <desc lang="ro">Cătălin Măruţă a pregătit împreună cu echipa sa rubrici noi, filmări inedite, invitaţi cu poveşti surprinzătoare, dar şi subiecte ale momentului, exclusivităţi şi un decor reîmprospătat. Campionul în divertisment transmite cele mai proaspete ştiri din lumea mondenă şi lansează noi trend-uri în show-biz-ul românesc. Vedetele vor avea parte de multe întâmplări neaşteptate şi, vrând, nevrând, vor fi din nou subiectul unor farse curajoase şi extrem de amuzante. Happylică rămâne şi el locul unde persoanele publice aduc cele mai tari poveşti, fac cele mai emoţionante mărturisiri sau cele mai şocante declaraţii. Neobositul Măruţă este hotărât să revină la linia de start şi, ca un adevărat campion al divertismentului, să facă şi mai mult.(n)</desc>
-    <credits>
-      <presenter>Cătălin Măruţă</presenter>
-    </credits>
-    <category lang="ro">Divertisment</category>
-    <category lang="ro">Oameni</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/84OF5xISwFwiwCIsTL6WuA.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Cătălin Măruţă a pregătit împreună cu echipa sa rubrici noi, filmări inedite, invitaţi cu poveşti surprinzătoare, dar şi subiecte ale momentului, exclusivităţi şi un decor reîmprospătat.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/f3a70e76d4f1bde7604931548988dd1e538e14dd_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230720140000 +0000" stop="20230720150000 +0000" channel="PRO TV">
+  <programme start="20230720140000 +0000" stop="20230720150000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Monica Dascălu vine în fiecare zi, de luni până vineri, începând cu ora 17:00, la pupitrul Ştirilor Pro TV pentru a coordona un tur de forţă prin toate colţurile României, de oriunde apar fulgerător cele mai spectaculoase şi incitante informaţii. Realitatea în toate formele ei curge pe frecvenţa Pro TV, reportajele explozive şi mărturiile unor oameni prinşi în mijlocul evenimentelor se revarsă la ştiri, toate sub bagheta Monicăi Dascălu. Destine intersectate abrupt de situaţii limită nasc poveşti dure, dar incitante şi obiectiv împachetate, care îşi găsesc povestitorul la Ştirile de la ora 17:00. Monica Dascălu adună segmente din spectacolul vieţii din toate colţurile ţării. Prezentatoarea Ştirilor de la ora 17:00 intră în legătură cu staţiile locale pentru a lua pulsul tuturor regiunilor, pentru a surprinde poveşti reale cu farmec local, dar cu o istorie şi personaje incredibile.(n)</desc>
-    <credits>
-      <presenter>Monica Dascălu</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/yIT12b0N0wWO7SqZHTk1pg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Monica Dascălu, prezentatoarea Ştirilor de la ora 17:00 intră în legătură cu staţiile locale pentru a lua pulsul tuturor regiunilor, pentru a surprinde poveşti reale cu farmec local.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/4f0a39f900e6480a51e08bf4d16410cccdd970fa_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230720150000 +0000" stop="20230720160000 +0000" channel="PRO TV">
+  <programme start="20230720150000 +0000" stop="20230720160000 +0000" channel="PRO TV HD">
     <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale. Atmosfera din platou este una destinsă, plină de energie, iar familiile împreună cu gazda emisiunii se vor distra şi vor aduce zâmbetul pe buze tuturor telespectatorilor. În urma unui sondaj realizat anterior, pe un eşantion de 100 de persoane alese aleatoriu, s-au obţinut cele mai populare răspunsuri ale unor întrebări gândite special pentru Ce spun românii. Familiile participante vor răspunde la şapte runde de întrebări, fiecare dintre acestea în încercarea de a alege răspunsurile care sunt cât mai apropiate de opinia majoritară a celor 100 de persoane care au participat la sondaj. Fiecare întrebare din primele şase runde poate aduce puncte familiilor, care vor fi valorificate în bani.(n)</desc>
-    <credits>
-      <presenter>Cabral Ibacka</presenter>
-    </credits>
-    <category lang="ro">Quiz</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/fPfJ8EEtnu6AZ9A2GPpXtg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/4a70ca4a14941f2cdb79d97826f2e0d3ab50f219_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230720160000 +0000" stop="20230720173000 +0000" channel="PRO TV">
+  <programme start="20230720160000 +0000" stop="20230720173000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Andreea Esca vine în fiecare seară, de luni până vineri, începând cu ora 19:00, la pupitrul Ştirilor Pro TV pentru a prezenta principalele subiecte ale zilei. Realitatea în toate formele ei curge pe frecvenţa Pro TV, reportajele explozive şi mărturiile unor oameni prinşi în mijlocul evenimentelor se revarsă la ştiri, toate sub bagheta Andreei Esca.(n)</desc>
-    <credits>
-      <presenter>Andreea Esca</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/aoD1b42CrsldAJ2oAZQV0A.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">În fiecare seară a săptămânii, de luni până vineri, de la ora 19:00, Andreea Esca aduce cele mai importante evenimente ale zilei, abordate cu mult profesionalism.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/805ac2ee88f876db3e7df20a70f6489aef77eee6_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230720173000 +0000" stop="20230720183000 +0000" channel="PRO TV">
+  <programme start="20230720173000 +0000" stop="20230720183000 +0000" channel="PRO TV HD">
     <title lang="ro">Las Fierbinţi</title>
-    <desc lang="ro">Acţiunea se petrece în satul Fierbinţi, acolo unde existenţa locuitorilor se desfăşoară lent, într-un paradis rural care s-a adaptat, în stil pur românesc, la vremurile moderne. Viceprimarul Vasile (Gheorghe Ifrim) vrea să-i ia locul actualului primar şi se bazează pe sprijinul cârciumarului Bobiţă (Mihai Bobonete) şi al prietenului acestuia Giani (Costi Diţă), şmecheraşul tipic de provincie. Robi (Leonid Doni) este şeful de post, Dorel (Mihai Rait Dragomir) este fratele lui Bobiţă, Doru (Iulian Postelnicu) este învăţătorul satului, prieten din copilărie cu Bobiţă şi Giani, iar Celentano (Adrian Văncică), Firicel al lu' Cimpoaie (Toma Cuzin), Ardiles (Mihai Mărgineanu) şi Moş Peleuş (Horaţiu Mălăele), beţivii satului, sunt apariţii colorate şi pline de umor. Filmat într-un sat real, din apropierea Bucureştiului, "Las Fierbinţi" are toate ingredientele unui succes, cu întâmplări haioase, o muzică aparte compusă special de Mihai Mărgineanu şi situaţii care promit să devină iar bancuri.(n)</desc>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/U6aecHwAvelVbA3Lawfp8w.jpg" />
-    <rating>
+    <desc lang="ro">Povestea fascinantă a fierbinţenilor se scrie în acelaşi ton, cu mult umor şi bună dispoziţie, cu răsturnări de situaţie şi conjuncturi nebănuite.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ee0c1e9940c3a79c5a2cc6cc0e4e91e09faacd6f_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230720183000 +0000" stop="20230720204500 +0000" channel="PRO TV">
+  <programme start="20230720183000 +0000" stop="20230720204500 +0000" channel="PRO TV HD">
     <title lang="ro">Spioana</title>
-    <desc lang="ro">Munca de birou o ţine departe de adrenalină pe Susan Cooper, un analist al CIA. O şansă neaşteptată se iveşte atunci când trebuie aflat un secret despre dezamorsarea unei bombe de la o traficantă de arme care îi ştie pe toţi agenţii CIA. Susan primeşte o identitate nouă şi e trimisă să se infiltreze în lumea periculoasă a traficanţilor de arme.(n)</desc>
+    <title lang="xx">Spy</title>
+    <desc lang="ro">Munca de birou o ţine departe de adrenalină pe Susan Cooper, un analist al CIA. O şansă neaşteptată se iveşte atunci când trebuie aflat un secret despre dezamorsarea unei bombe de la o traficantă de arme care îi ştie pe toţi agenţii CIA.(n)</desc>
     <credits>
       <director>Paul Feig</director>
-      <actor role="Susan Cooper">Melissa McCarthy</actor>
-      <actor role="Raina Boyanov">Rose Byrne</actor>
-      <actor role="Bradley Fine">Jude Law</actor>
-      <actor role="Rick Ford">Jason Statham</actor>
-      <actor role="Nancy">Miranda Hart</actor>
+      <actor>Jude Law</actor>
+      <actor>Will Yun Lee</actor>
+      <actor>Melissa McCarthy</actor>
+      <actor>Katie Dippold</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Richard Brake</actor>
+      <actor>Raad Rawi</actor>
+      <actor>Bobby Cannavale</actor>
+      <writer>Paul Feig</writer>
       <producer>Peter Chernin</producer>
       <producer>Paul Feig</producer>
-      <producer>Jessie Henderson</producer>
       <composer>Theodore Shapiro</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/6tixQZViwJ_eZcbqb8BKFA.jpg" />
-    <rating>
+    <date>2015</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/0145a7c40334cffcf3ead6393b7c2c3fa301f612_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230720204500 +0000" stop="20230720211500 +0000" channel="PRO TV">
+  <programme start="20230720204500 +0000" stop="20230720211500 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Echipa de jurnalişti de la "Ştirile PRO TV" aduce în fiecare zi, în principalele jurnale, cele mai importante subiecte ale zilei, abordate cu mult profesionalism. Telespectatorii au acces la informaţii de calitate, anchete şi reportaje, documentate şi realizate de cei mai buni jurnalişti din România.(n)</desc>
-    <credits>
-      <presenter>Cristian Leonte</presenter>
-      <presenter>Amalia Enache</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <category lang="ro">Local</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/ef38kKXfLeDIFBma82Fdbg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Ultimile ştiri ale serii sunt prezentate de Amalia Enache şi Cristian Leonte. Cei doi jurnalişti fac în fiecare seară sinteza celor mai importante evenimente ale zilei.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/8c214ce3cb6a8a28dbb07594e699785648c0faac_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230720211500 +0000" stop="20230720230000 +0000" channel="PRO TV">
+  <programme start="20230720211500 +0000" stop="20230720230000 +0000" channel="PRO TV HD">
     <title lang="ro">Imunitate</title>
+    <title lang="xx">The Survivalist</title>
     <credits>
       <director>Jon Keeyes</director>
-      <actor role="Ben">Jonathan Rhys Meyers</actor>
-      <actor role="Aaron Ramsey">John Malkovich</actor>
-      <actor role="Sarah">Ruby Modine</actor>
-      <actor role="Marley">Jenna Leigh Green</actor>
-      <actor role="Heath">Julian Sands</actor>
-      <producer>Jordan Beckerman</producer>
+      <actor>John Malkovich</actor>
+      <actor>Obi Abili</actor>
+      <actor>Julian Sands</actor>
+      <actor>Jenna Leigh Green</actor>
+      <actor>Lori Petty</actor>
+      <actor>Jonathan Rhys Meyers</actor>
+      <actor>Simon Phillips</actor>
+      <actor>Charlie Sara</actor>
+      <writer>Matthew Rogers</writer>
       <producer>Jon Keeyes</producer>
-      <producer>Jordan Yale Levine</producer>
-      <producer>Ben Weinman</producer>
-      <producer>Roman Viaris-de-Lesegno</producer>
-      <producer>Richard Switzer</producer>
-      <producer>Morty Barnett</producer>
-      <producer>Crystal Hill</producer>
+      <producer>Joel Michaely</producer>
       <composer>Ben Weinman</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/2JFAnylKeqUM8c-D90lHgg.jpg" />
-    <rating>
+    <date>2021</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/5afd505c33484e2705e40a3294c9f89113ddbb93_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
       <value>15</value>
     </rating>
   </programme>
-  <programme start="20230720230000 +0000" stop="20230721000000 +0000" channel="PRO TV">
+  <programme start="20230720230000 +0000" stop="20230721000000 +0000" channel="PRO TV HD">
     <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor. Sunt prezentate diverse situaţii inspirate din viaţa reală a familiilor, punându-se accent pe poveşti de iubire, dorinţă, lăcomie, minciună sau violenţă.(n)</desc>
-    <category lang="ro">Viaţă de familie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/-q0EP1YLqr-4L2rCj9zAGg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/83a1d105ea280d3131cdd02c8b0b2d9729b51d9c_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230721000000 +0000" stop="20230721020000 +0000" channel="PRO TV">
+  <programme start="20230721000000 +0000" stop="20230721020000 +0000" channel="PRO TV HD">
     <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct. Aceștia vor aduce cele mai tari provocări, cele mai fresh informații mondene sau din mediul online, antrenamente de sport matinale și, împreună, vor completa tabloul unei dimineți perfecte.(n)</desc>
-    <credits>
-      <presenter>Emily Burghelea</presenter>
-      <presenter>Majda Aboulumosha</presenter>
-      <presenter>Cosmina Păsărin</presenter>
-    </credits>
-    <category lang="ro">Stil de viață</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/LWbVAKAteeTb9Wh88xZAyw.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct, de luni până vineri.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/53f93bf13cc23a374efa136fd551ddf59f212340_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230721020000 +0000" stop="20230721030000 +0000" channel="PRO TV">
+  <programme start="20230721020000 +0000" stop="20230721030000 +0000" channel="PRO TV HD">
     <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale. Atmosfera din platou este una destinsă, plină de energie, iar familiile împreună cu gazda emisiunii se vor distra şi vor aduce zâmbetul pe buze tuturor telespectatorilor. În urma unui sondaj realizat anterior, pe un eşantion de 100 de persoane alese aleatoriu, s-au obţinut cele mai populare răspunsuri ale unor întrebări gândite special pentru Ce spun românii. Familiile participante vor răspunde la şapte runde de întrebări, fiecare dintre acestea în încercarea de a alege răspunsurile care sunt cât mai apropiate de opinia majoritară a celor 100 de persoane care au participat la sondaj. Fiecare întrebare din primele şase runde poate aduce puncte familiilor, care vor fi valorificate în bani.(n)</desc>
-    <credits>
-      <presenter>Cabral Ibacka</presenter>
-    </credits>
-    <category lang="ro">Quiz</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/fPfJ8EEtnu6AZ9A2GPpXtg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/22a6cd53ddd41483d08061e899531b84f9f4e877_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230721030000 +0000" stop="20230721073000 +0000" channel="PRO TV">
+  <programme start="20230721030000 +0000" stop="20230721070000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Ziua începe când Mihai Dedu şi Lavinia Petrea/Andreea Marinescu dau trezirea, Neti Sandu descrie şansele ca speranţele să prindă viaţă, când Florin Busuioc aduce soarele sau gerul şi cu lecţiile de educaţie medicală ale Oanei Cuzino. Ştirile sportive sunt prezentate în fiecare dimineaţă de Raluca Arvat, Corina Caragea sau Vladimir Vîjeu. De luni până vineri, de la 6:00 dimineaţa, cel mai lung jurnal de ştiri al zilei curge în cascade, cu informaţii adunate după miezul nopţii, cu reportaje realizate în zori sau cu o serie de repere ale zilei în curs.(n)</desc>
-    <credits>
-      <presenter>Mihai Dedu</presenter>
-      <presenter>Lavinia Petrea</presenter>
-      <presenter>Andreea Marinescu</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/yIT12b0N0wWO7SqZHTk1pg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">De luni până vineri, jurnalul de ştiri de dimineaţă curge în cascade, cu informaţii adunate după miezul nopţii, cu reportaje realizate în zori sau cu o serie de repere ale zilei în curs.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/67c333f76becc42dfb41a299a71cf2c3c123d420_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230721073000 +0000" stop="20230721100000 +0000" channel="PRO TV">
+  <programme start="20230721070000 +0000" stop="20230721073000 +0000" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro TV</title>
+    <desc lang="ro">De luni până vineri, jurnalul de ştiri de dimineaţă curge în cascade, cu informaţii adunate după miezul nopţii, cu reportaje realizate în zori sau cu o serie de repere ale zilei în curs.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/67c333f76becc42dfb41a299a71cf2c3c123d420_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20230721073000 +0000" stop="20230721100000 +0000" channel="PRO TV HD">
     <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct. Aceștia vor aduce cele mai tari provocări, cele mai fresh informații mondene sau din mediul online, antrenamente de sport matinale și, împreună, vor completa tabloul unei dimineți perfecte.(n)</desc>
-    <credits>
-      <presenter>Emily Burghelea</presenter>
-      <presenter>Majda Aboulumosha</presenter>
-      <presenter>Cosmina Păsărin</presenter>
-    </credits>
-    <category lang="ro">Stil de viață</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/LWbVAKAteeTb9Wh88xZAyw.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct, de luni până vineri.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/53f93bf13cc23a374efa136fd551ddf59f212340_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230721100000 +0000" stop="20230721110000 +0000" channel="PRO TV">
+  <programme start="20230721100000 +0000" stop="20230721110000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">În mijlocul zilei şi din mijlocul evenimentelor, reporterii transmit cele mai noi şi complete informaţii pentru Ştirile de la ora 13:00. Nevoia oamenilor de a fi mereu informaţi a determinat apariţia dinamică a acestui jurnal, care a crescut de la zi la zi şi a fixat ora 13:00 ca o bornă importantă în orarul publicului de Ştiri. De la Ştirile Pro TV nu lipsesc subiectele externe de mare interes şi corespondenţele din centrul evenimentelor importante desfăşurate pe glob, la fel ca şi cele mai importante repere ale zilei în curs.(n)</desc>
-    <credits>
-      <presenter>Diana Enache</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/aoD1b42CrsldAJ2oAZQV0A.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">În mijlocul zilei şi din mijlocul evenimentelor, reporterii transmit cele mai noi şi complete informaţii pentru Ştirile de la ora 13:00.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/72a3ac7384750ca18e6291658bf6b64254990192_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230721110000 +0000" stop="20230721120000 +0000" channel="PRO TV">
+  <programme start="20230721110000 +0000" stop="20230721120000 +0000" channel="PRO TV HD">
     <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor. Sunt prezentate diverse situaţii inspirate din viaţa reală a familiilor, punându-se accent pe poveşti de iubire, dorinţă, lăcomie, minciună sau violenţă.(n)</desc>
-    <category lang="ro">Viaţă de familie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/-q0EP1YLqr-4L2rCj9zAGg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ffc2b4e0961117ba5cdf82143e610b812fcff1b5_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230721120000 +0000" stop="20230721140000 +0000" channel="PRO TV">
+  <programme start="20230721120000 +0000" stop="20230721140000 +0000" channel="PRO TV HD">
     <title lang="ro">La Măruţă</title>
-    <desc lang="ro">Cătălin Măruţă a pregătit împreună cu echipa sa rubrici noi, filmări inedite, invitaţi cu poveşti surprinzătoare, dar şi subiecte ale momentului, exclusivităţi şi un decor reîmprospătat. Campionul în divertisment transmite cele mai proaspete ştiri din lumea mondenă şi lansează noi trend-uri în show-biz-ul românesc. Vedetele vor avea parte de multe întâmplări neaşteptate şi, vrând, nevrând, vor fi din nou subiectul unor farse curajoase şi extrem de amuzante. Happylică rămâne şi el locul unde persoanele publice aduc cele mai tari poveşti, fac cele mai emoţionante mărturisiri sau cele mai şocante declaraţii. Neobositul Măruţă este hotărât să revină la linia de start şi, ca un adevărat campion al divertismentului, să facă şi mai mult.(n)</desc>
-    <credits>
-      <presenter>Cătălin Măruţă</presenter>
-    </credits>
-    <category lang="ro">Divertisment</category>
-    <category lang="ro">Oameni</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/84OF5xISwFwiwCIsTL6WuA.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Cătălin Măruţă a pregătit împreună cu echipa sa rubrici noi, filmări inedite, invitaţi cu poveşti surprinzătoare, dar şi subiecte ale momentului, exclusivităţi şi un decor reîmprospătat.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/f3a70e76d4f1bde7604931548988dd1e538e14dd_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230721140000 +0000" stop="20230721150000 +0000" channel="PRO TV">
+  <programme start="20230721140000 +0000" stop="20230721150000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Monica Dascălu vine în fiecare zi, de luni până vineri, începând cu ora 17:00, la pupitrul Ştirilor Pro TV pentru a coordona un tur de forţă prin toate colţurile României, de oriunde apar fulgerător cele mai spectaculoase şi incitante informaţii. Realitatea în toate formele ei curge pe frecvenţa Pro TV, reportajele explozive şi mărturiile unor oameni prinşi în mijlocul evenimentelor se revarsă la ştiri, toate sub bagheta Monicăi Dascălu. Destine intersectate abrupt de situaţii limită nasc poveşti dure, dar incitante şi obiectiv împachetate, care îşi găsesc povestitorul la Ştirile de la ora 17:00. Monica Dascălu adună segmente din spectacolul vieţii din toate colţurile ţării. Prezentatoarea Ştirilor de la ora 17:00 intră în legătură cu staţiile locale pentru a lua pulsul tuturor regiunilor, pentru a surprinde poveşti reale cu farmec local, dar cu o istorie şi personaje incredibile.(n)</desc>
-    <credits>
-      <presenter>Monica Dascălu</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/yIT12b0N0wWO7SqZHTk1pg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Monica Dascălu, prezentatoarea Ştirilor de la ora 17:00 intră în legătură cu staţiile locale pentru a lua pulsul tuturor regiunilor, pentru a surprinde poveşti reale cu farmec local.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/4f0a39f900e6480a51e08bf4d16410cccdd970fa_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230721150000 +0000" stop="20230721160000 +0000" channel="PRO TV">
+  <programme start="20230721150000 +0000" stop="20230721160000 +0000" channel="PRO TV HD">
     <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale. Atmosfera din platou este una destinsă, plină de energie, iar familiile împreună cu gazda emisiunii se vor distra şi vor aduce zâmbetul pe buze tuturor telespectatorilor. În urma unui sondaj realizat anterior, pe un eşantion de 100 de persoane alese aleatoriu, s-au obţinut cele mai populare răspunsuri ale unor întrebări gândite special pentru Ce spun românii. Familiile participante vor răspunde la şapte runde de întrebări, fiecare dintre acestea în încercarea de a alege răspunsurile care sunt cât mai apropiate de opinia majoritară a celor 100 de persoane care au participat la sondaj. Fiecare întrebare din primele şase runde poate aduce puncte familiilor, care vor fi valorificate în bani.(n)</desc>
-    <credits>
-      <presenter>Cabral Ibacka</presenter>
-    </credits>
-    <category lang="ro">Quiz</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/fPfJ8EEtnu6AZ9A2GPpXtg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Emisiunea prezentată de Cabral Ibacka este o competiţie amuzantă între două familii, care concurează pentru a câştiga premii substanţiale.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/4a70ca4a14941f2cdb79d97826f2e0d3ab50f219_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230721160000 +0000" stop="20230721173000 +0000" channel="PRO TV">
+  <programme start="20230721160000 +0000" stop="20230721173000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Andreea Esca vine în fiecare seară, de luni până vineri, începând cu ora 19:00, la pupitrul Ştirilor Pro TV pentru a prezenta principalele subiecte ale zilei. Realitatea în toate formele ei curge pe frecvenţa Pro TV, reportajele explozive şi mărturiile unor oameni prinşi în mijlocul evenimentelor se revarsă la ştiri, toate sub bagheta Andreei Esca.(n)</desc>
-    <credits>
-      <presenter>Andreea Esca</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/aoD1b42CrsldAJ2oAZQV0A.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">În fiecare seară a săptămânii, de luni până vineri, de la ora 19:00, Andreea Esca aduce cele mai importante evenimente ale zilei, abordate cu mult profesionalism.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/805ac2ee88f876db3e7df20a70f6489aef77eee6_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230721173000 +0000" stop="20230721183000 +0000" channel="PRO TV">
+  <programme start="20230721173000 +0000" stop="20230721183000 +0000" channel="PRO TV HD">
     <title lang="ro">Las Fierbinţi</title>
-    <desc lang="ro">Acţiunea se petrece în satul Fierbinţi, acolo unde existenţa locuitorilor se desfăşoară lent, într-un paradis rural care s-a adaptat, în stil pur românesc, la vremurile moderne. Viceprimarul Vasile (Gheorghe Ifrim) vrea să-i ia locul actualului primar şi se bazează pe sprijinul cârciumarului Bobiţă (Mihai Bobonete) şi al prietenului acestuia Giani (Costi Diţă), şmecheraşul tipic de provincie. Robi (Leonid Doni) este şeful de post, Dorel (Mihai Rait Dragomir) este fratele lui Bobiţă, Doru (Iulian Postelnicu) este învăţătorul satului, prieten din copilărie cu Bobiţă şi Giani, iar Celentano (Adrian Văncică), Firicel al lu' Cimpoaie (Toma Cuzin), Ardiles (Mihai Mărgineanu) şi Moş Peleuş (Horaţiu Mălăele), beţivii satului, sunt apariţii colorate şi pline de umor. Filmat într-un sat real, din apropierea Bucureştiului, "Las Fierbinţi" are toate ingredientele unui succes, cu întâmplări haioase, o muzică aparte compusă special de Mihai Mărgineanu şi situaţii care promit să devină iar bancuri.(n)</desc>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/U6aecHwAvelVbA3Lawfp8w.jpg" />
-    <rating>
+    <desc lang="ro">Povestea fascinantă a fierbinţenilor se scrie în acelaşi ton, cu mult umor şi bună dispoziţie, cu răsturnări de situaţie şi conjuncturi nebănuite.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ee0c1e9940c3a79c5a2cc6cc0e4e91e09faacd6f_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230721183000 +0000" stop="20230721203000 +0000" channel="PRO TV">
+  <programme start="20230721183000 +0000" stop="20230721203000 +0000" channel="PRO TV HD">
     <title lang="ro">Misiune în forţă</title>
-    <desc lang="ro">După ce şi-a petrecut ultimii ani în Afganistan şi Irak, Phillippe Sauvage (Jean-Claude Van Damme) primeşte misiunea de a-l păzi pe Wayne Barclay (Razaaq Adoti), un campion la box. Sauvage trebuie să îl apere pe el şi pe familia acestuia de Terrell Singletery, care vrea să se răzbune.(n)</desc>
+    <title lang="xx">The Hard Corps</title>
+    <desc lang="ro">După ce şi-a petrecut ultimii ani în Afganistan şi Irak, Phillippe Sauvage (Jean-Claude Van Damme) primeşte misiunea de a-l păzi pe Wayne Barclay (Razaaq Adoti), un campion la box.(n)</desc>
     <credits>
       <director>Sheldon Lettich</director>
-      <actor role="Phillip Sauvage">Jean-Claude Van Damme</actor>
-      <actor role="Tamara Barclay">Vivica A. Fox</actor>
-      <actor role="Wayne Barclay">Razaaq Adoti</actor>
-      <actor role="Terrell Singletery">Viv Leacock</actor>
-      <actor role="Kendall Mullins">Peter Bryant</actor>
+      <actor>Adrian Holmes</actor>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Vivica A. Fox</actor>
+      <actor>Michael McDonald</actor>
+      <actor>Razaaq Adoti</actor>
+      <actor>Ed Anders</actor>
+      <actor>Aaron Craven</actor>
+      <actor>Randi Lynne</actor>
+      <writer>Sheldon Lettich</writer>
+      <writer>George Saunders</writer>
       <producer>Pierre Spengler</producer>
-      <producer>Brad Krevoy</producer>
       <producer>Donald Kushner</producer>
       <composer>Joseph Metcalfe</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Thriller</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/u1DFwepUOWApi-325sPmwQ.jpg" />
-    <rating>
+    <date>2006</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/751632346328af2d6e496cbf7b067f2528eae533_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230721203000 +0000" stop="20230721223000 +0000" channel="PRO TV">
+  <programme start="20230721203000 +0000" stop="20230721223000 +0000" channel="PRO TV HD">
     <title lang="ro">Omul cu pumni de fier</title>
-    <desc lang="ro">Filmul prezintă povestea unor războinici asasini, precum şi a unui erou singuratic din China secolului al 19-lea, care trebuie să facă front comun pentru a distruge un clan de trădători. De la sosirea sa în satul Jungle din China, fierarul oraşului (RZA) a fost forţat să creeze arme de distrugere sofisticate. Când războiul care mocnea intre clanurile locale începe, fierarul va reuşi să capteze o energie străveche pentru a se transforma într-o armă umană. Un singur om trebuie să devină salvatorul poporului care l-a adoptat, luptând alături de eroi de legendă împotriva unor asasini diabolici.(n)</desc>
+    <title lang="xx">The Man with the Iron Fists</title>
+    <desc lang="ro">De la sosirea sa în Jungle Village, fierarul oraşului (RZA) a fost forţat de facţiuni tribale radicale să creeze arme de distrugere foasrte sofisticate. Când războiul începe, el însuşi devine o armă.(n)</desc>
     <credits>
-      <actor role="Fierarul">RZA</actor>
-      <actor role="Jack Knife">Russell Crowe</actor>
-      <actor role="Madam Blossom">Lucy Liu</actor>
-      <actor role="Bronze Lion">Cung Le</actor>
-      <actor role="Jane">Pam Grier</actor>
-      <producer>Eli Roth</producer>
-      <producer>Eric Newman</producer>
+      <director>RZA</director>
+      <actor>Jamie Chung</actor>
+      <actor>RZA</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Byron Mann</actor>
+      <actor>Daniel Wu</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Cung Le</actor>
+      <actor>Dave Bautista</actor>
+      <writer>RZA</writer>
+      <writer>Eli Roth</writer>
       <producer>Marc Abraham</producer>
+      <producer>Eric Newman</producer>
+      <composer>RZA</composer>
       <composer>Howard Drossin</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/SVrvUn63Xxy5kezfWVlxXg.jpg" />
-    <rating>
-      <value>18</value>
+    <date>2012</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/b43b267425e3eef8eebafb4f9bdbdc4360231f28_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
+      <value>15</value>
     </rating>
   </programme>
-  <programme start="20230721223000 +0000" stop="20230722001500 +0000" channel="PRO TV">
+  <programme start="20230721223000 +0000" stop="20230722001500 +0000" channel="PRO TV HD">
     <title lang="ro">Runda finală</title>
+    <title lang="xx">Undisputed</title>
     <desc lang="ro">Un boxer în plină ascensiune comite o crimă şi e condamnat pe viaţă. În închisoare continuă să boxeze în campionatele organizate intern.Şi, poate că soarta îi mai rezervă o surpriză.(n)</desc>
     <credits>
       <director>Walter Hill</director>
-      <actor role="Monroe Hutchen">Wesley Snipes</actor>
-      <actor role="James Chambers">Ving Rhames</actor>
-      <actor role="Emmanuel 'Mendy' Ripstein">Peter Falk</actor>
-      <actor role="A.J. Mercker">Michael Rooker</actor>
-      <actor role="Jesus 'Chuy' Campos">Jon Seda</actor>
-      <producer>David Giler</producer>
-      <producer>Walter Hill</producer>
-      <producer>Brad Krevoy</producer>
+      <actor>Peter Falk</actor>
+      <actor>Rose Rollins</actor>
+      <actor>Fisher Stevens</actor>
+      <actor>Wesley Snipes</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Wes Studi</actor>
+      <actor>Michael Rooker</actor>
+      <actor>Denis Arndt</actor>
+      <writer>Walter Hill</writer>
+      <writer>David Giler</writer>
+      <producer>Boaz Davidson</producer>
+      <producer>Wesley Snipes</producer>
       <composer>Stanley Clarke</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/ZDDa9oQ_GIbi2zVddgM8kA.jpg" />
-    <rating>
+    <date>2002</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/e4d39498237c1a9c9a05f6a2cc7d7dfec994709f_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230722001500 +0000" stop="20230722010000 +0000" channel="PRO TV">
+  <programme start="20230722001500 +0000" stop="20230722010000 +0000" channel="PRO TV HD">
     <title lang="ro">Las Fierbinţi</title>
-    <desc lang="ro">Acţiunea se petrece în satul Fierbinţi, acolo unde existenţa locuitorilor se desfăşoară lent, într-un paradis rural care s-a adaptat, în stil pur românesc, la vremurile moderne. Viceprimarul Vasile (Gheorghe Ifrim) vrea să-i ia locul actualului primar şi se bazează pe sprijinul cârciumarului Bobiţă (Mihai Bobonete) şi al prietenului acestuia Giani (Costi Diţă), şmecheraşul tipic de provincie. Robi (Leonid Doni) este şeful de post, Dorel (Mihai Rait Dragomir) este fratele lui Bobiţă, Doru (Iulian Postelnicu) este învăţătorul satului, prieten din copilărie cu Bobiţă şi Giani, iar Celentano (Adrian Văncică), Firicel al lu' Cimpoaie (Toma Cuzin), Ardiles (Mihai Mărgineanu) şi Moş Peleuş (Horaţiu Mălăele), beţivii satului, sunt apariţii colorate şi pline de umor. Filmat într-un sat real, din apropierea Bucureştiului, "Las Fierbinţi" are toate ingredientele unui succes, cu întâmplări haioase, o muzică aparte compusă special de Mihai Mărgineanu şi situaţii care promit să devină iar bancuri.(n)</desc>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/U6aecHwAvelVbA3Lawfp8w.jpg" />
-    <rating>
+    <desc lang="ro">Povestea fascinantă a fierbinţenilor se scrie în acelaşi ton, cu mult umor şi bună dispoziţie, cu răsturnări de situaţie şi conjuncturi nebănuite.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ee0c1e9940c3a79c5a2cc6cc0e4e91e09faacd6f_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230722010000 +0000" stop="20230722030000 +0000" channel="PRO TV">
+  <programme start="20230722010000 +0000" stop="20230722030000 +0000" channel="PRO TV HD">
     <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct. Aceștia vor aduce cele mai tari provocări, cele mai fresh informații mondene sau din mediul online, antrenamente de sport matinale și, împreună, vor completa tabloul unei dimineți perfecte.(n)</desc>
-    <credits>
-      <presenter>Emily Burghelea</presenter>
-      <presenter>Majda Aboulumosha</presenter>
-      <presenter>Cosmina Păsărin</presenter>
-    </credits>
-    <category lang="ro">Stil de viață</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/LWbVAKAteeTb9Wh88xZAyw.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Vorbeşte lumea" a pregătit subiecte interesante, pe care prezentatorii emisiunii, Shurubel, Bogdan Ciudoiu şi Lili Sandu, le vor dezbate în direct, de luni până vineri.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/53f93bf13cc23a374efa136fd551ddf59f212340_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230722030000 +0000" stop="20230722040000 +0000" channel="PRO TV">
+  <programme start="20230722030000 +0000" stop="20230722040000 +0000" channel="PRO TV HD">
     <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor. Sunt prezentate diverse situaţii inspirate din viaţa reală a familiilor, punându-se accent pe poveşti de iubire, dorinţă, lăcomie, minciună sau violenţă.(n)</desc>
-    <category lang="ro">Viaţă de familie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/-q0EP1YLqr-4L2rCj9zAGg.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">"Lecţii de viaţă" este o producţie de tip ficţiune, bazată pe situaţii şi întâmplări reale, din viaţa cotidiană a familiilor.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/83a1d105ea280d3131cdd02c8b0b2d9729b51d9c_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230722040000 +0000" stop="20230722070000 +0000" channel="PRO TV">
+  <programme start="20230722040000 +0000" stop="20230722070000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile PRO TV</title>
-    <desc lang="ro">La fiecare final de săptămână, Cosmin Stan va face cuplu cu Andreea Marinescu sau Lavinia Petrea şi împreună le vor aduce telespectatorilor cele mai importante ştiri ale zilei încă de la primele ore ale dimineţii.(n)</desc>
-    <credits>
-      <presenter>Cosmin Stan</presenter>
-      <presenter>Roxana Hulpe</presenter>
-      <presenter>Lavinia Petrea</presenter>
-      <presenter>Andreea Marinescu</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/5RtSCaRTVwxV5nz9ns8HBQ.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">La fiecare final de săptămână, Cosmin Stan va face cuplu cu Andreea Marinescu sau Lavinia Petrea şi împreună le vor aduce telespectatorilor cele mai importante ştiri ale zilei.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/72a3ac7384750ca18e6291658bf6b64254990192_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230722070000 +0000" stop="20230722090000 +0000" channel="PRO TV">
+  <programme start="20230722070000 +0000" stop="20230722090000 +0000" channel="PRO TV HD">
     <title lang="ro">Bascheţii fermecaţi 2</title>
-    <desc lang="ro">Jerome Jenkins Jr. nu este deloc complexat de înălţimea lui şi se visează un mare jucător de baschet. Nu doar că înălţimea nu-l ajută nicicum, dar nici cu viteza sau coordonarea nu stă mai bine, aşa că nu e de mirare că Jerome nu reuşeşte să câştige respectul colegilor săi de pe teren. Lucrurile se schimbă radical în momentul în care băiatul găseşte o pereche de bascheţi care îl ajută să-şi vadă visurile devenite realitate.(n)</desc>
+    <title lang="xx">Like Mike 2: Street Ball</title>
+    <desc lang="ro">Jerome Jenkins Jr. are 12 ani şi vrea să fie regele terenului de basket. Din păcate nici mama natură, nici genetica nu l-au prea înzestrat cu calităţile potrivite.(n)</desc>
     <credits>
       <director>David Nelson</director>
-      <actor role="Jerome">Jascha Washington</actor>
-      <actor role="Ray">Kel Mitchell</actor>
-      <actor role="Senior">Michael Beach</actor>
-      <actor role="Rodney">Brett Kelly</actor>
-      <actor role="Nathan">Micah Williams</actor>
+      <actor>Michael Beach</actor>
+      <actor>Enuka Okuma</actor>
+      <actor>Adrian Holmes</actor>
+      <actor>Daniel Bacon</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Blu Mankuma</actor>
+      <actor>Jascha Washington</actor>
+      <actor>Mark Cuban</actor>
+      <writer>Keith Mitchell</writer>
+      <writer>Allie Dvorin</writer>
       <producer>David Bixler</producer>
       <composer>Stanley Clarke</composer>
     </credits>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/0bxv0jX_A0tiFn_ZrvDe9A.jpg" />
-    <rating>
-      <value>AL</value>
+    <date>2006</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/099c125d3a25e9b8b3a8fe5bbe3581204c188b9a_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230722090000 +0000" stop="20230722110000 +0000" channel="PRO TV">
+  <programme start="20230722090000 +0000" stop="20230722110000 +0000" channel="PRO TV HD">
     <title lang="ro">Nancy Drew</title>
+    <desc lang="ro">Nancy Drew, adolescenta detectiv, îl însoţeşte pe tatăl ei într-o călătorie de afaceri la Los Angeles, unde găseşte indicii despre un caz misterios de crimă, în care e implicat un star de cinema.(n)</desc>
     <credits>
       <director>Andrew Fleming</director>
-      <actor role="Nancy Drew">Emma Roberts</actor>
-      <actor role="Corky">Josh Flitter</actor>
-      <actor role="Ned Nickerson">Max Thieriot</actor>
-      <actor role="Jane Brighton">Rachael Leigh Cook</actor>
-      <actor role="Carson Drew">Tate Donovan</actor>
-      <producer>Jerry Weintraub</producer>
-      <producer>Susan Ekins</producer>
+      <actor>Tate Donovan</actor>
+      <actor>Emma Roberts</actor>
+      <actor>Rachael Leigh Cook</actor>
+      <actor>Daniella Monet</actor>
+      <actor>Adam Goldberg</actor>
+      <actor>Kay Panabaker</actor>
+      <actor>Barry Bostwick</actor>
+      <actor>Ahna O'Reilly</actor>
+      <writer>Andrew Fleming</writer>
+      <writer>Tiffany Paulsen</writer>
       <producer>Mark Vahradian</producer>
+      <producer>Jerry Weintraub</producer>
       <composer>Ralph Sall</composer>
     </credits>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/LzsQdgJcEyrseFXKr0DNKw.jpg" />
-    <rating>
-      <value>AL</value>
+    <date>2007</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ef4606c13521638e26e696c9c7607f02c544cb2a_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230722110000 +0000" stop="20230722124500 +0000" channel="PRO TV">
+  <programme start="20230722110000 +0000" stop="20230722124500 +0000" channel="PRO TV HD">
     <title lang="ro">O minciună gogonată</title>
-    <desc lang="ro">Doi prieteni au de gând să tragă Hollywood-ul la răspundere.Aceasta este povestea lui Jason Shephard (Frankie Muniz), un puşti de 14 ani. Pe băiat nimic nu pare să-l distreze mai mult decât "livrarea" de minciuni. Însă, Jason pierde una dintre scrierile sale, de fapt tema pentru acasă, o lucrare numită "O minciună gogonată" în limuzina lui Marty Wolf (Paul Giamatti), un producător de filme, iar acesta o ecranizează. În clipa în care văd o avanpremieră a filmului, puştiul şi cea mai bună prietenă a acestuia, Kaylee (Amanda Bynes), pornesc spre Los Angeles pentru a-l face pe Wolf să mărturisească faptul că i-a furat povestea. Cea mai mare probelmă a lui Jason este că toată lumea îl ştie cât este de inventiv când vine vorba să scornească ceva, aşa că acum, când spune în sfârşit adevărul, nimeni nu îl ia în serios.(n)</desc>
+    <title lang="xx">Big Fat Liar</title>
+    <desc lang="ro">O comedie delicioasă despre Hollywoodul văzut din interior. Producătorul Marty (foarte bun Paul Giamatti) fură ideea unui puşti (Frankie Muniz), face film şi are succes. Dar tânărul are o soluţie.(n)</desc>
     <credits>
       <director>Shawn Levy</director>
-      <actor role="Jason Shepherd">Frankie Muniz</actor>
-      <actor role="Marty Wolf">Paul Giamatti</actor>
-      <actor role="Kaylee">Amanda Bynes</actor>
-      <actor role="Monty Kirkham">Amanda Detmer</actor>
-      <actor role="Frank Jackson">Donald Faison</actor>
-      <producer>Michael Tollin</producer>
+      <actor>John Cho</actor>
+      <actor>Taran Killam</actor>
+      <actor>Lee Majors</actor>
+      <actor>Frankie Muniz</actor>
+      <actor>Marisa Petroro</actor>
+      <actor>Sandra Oh</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>John Gatins</actor>
+      <writer>Brian Robbins</writer>
+      <writer>Dan Schneider</writer>
       <producer>Brian Robbins</producer>
-      <producer>Michael Goldman</producer>
+      <producer>Michael Tollin</producer>
       <composer>Christophe Beck</composer>
     </credits>
-    <category lang="ro">Aventură</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/LS-ZoXIkf-Rd5dvEpEUyTQ.jpg" />
-    <rating>
-      <value>12</value>
+    <date>2002</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/025b3e368e6498facfb98e1678979ac2060f8486_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230722124500 +0000" stop="20230722150000 +0000" channel="PRO TV">
+  <programme start="20230722124500 +0000" stop="20230722150000 +0000" channel="PRO TV HD">
     <title lang="ro">Spot</title>
-    <desc lang="ro">Gordon Smith (David Arquette), este un poştaş care nu se poate lăuda că este un mare iubitor de animale. El aspiră doar la graţiile frumoasei sale vecine Stephenie. Astfel, când aceasta îl roagă să îl supravegheze pe fiul ei James, Gordon acceptă fericit, sperând ca în schimb să obţină favoruri sentimentale. În acelaşi timp, în cealaltă parte a oraşului, agentul FBI Murdoch încearcă să-şi recupereze partenerul canin care, sătul de restricţiile programului de protecţie a martorilor, a evadat, înfruntând ameninţările cu moartea care vin din partea unei căpetenii mafiote locale. Când drumurile poştaşului şi ale căţelului detectiv se întâlnesc, Gordon are senzaţia că nimic nu mai merge aşa cum trebuie. Însă căţelul este adoptat imediat de fiul lui Stephanie şi botezat pe loc Spot. Vrea nu vrea, Gordon trebuie să accepte faptul că Spot şi-a ales ca locuinţă chiar camioneta cu care el transportă zi de zi scrisorile.(n)</desc>
+    <title lang="xx">See Spot Run</title>
+    <desc lang="ro">Gordon (David Arquette), un poştaş care nu se poate lăuda că este un mare iubitor de animale, aspiră doar la graţiile frumoasei sale vecine. Comedie cu Angus T. Jones, puştiul din "Doi bărbaţi 1/2".(n)</desc>
     <credits>
       <director>John Whitesell</director>
-      <actor role="Gordon">David Arquette</actor>
-      <actor role="James">Angus T. Jones</actor>
-      <actor role="Murdoch">Michael Clarke Duncan</actor>
-      <actor role="Sonny Talia">Paul Sorvino</actor>
-      <actor role="Stephanie">Leslie Bibb</actor>
+      <actor>Paul Sorvino</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Fiona Hogan</actor>
+      <actor>David Arquette</actor>
+      <actor>Joe Viterelli</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Fulvio Cecere</actor>
+      <actor>Angus T. Jones</actor>
+      <writer>Gregory Poirier</writer>
+      <writer>George Gallo</writer>
       <producer>Robert Simonds</producer>
-      <producer>Andrew Deane</producer>
       <producer>Tracey Trench</producer>
       <composer>John Debney</composer>
     </credits>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Acţiune</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/XNTJRqbblUWQdQ3WExfzmQ.jpg" />
-    <rating>
-      <value>AL</value>
+    <date>2001</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/01b6a956185a72997a4fa0f1e7c59c2ce244f24f_1.jpg" />
+    <country lang="ro">AUS</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
-  <programme start="20230722150000 +0000" stop="20230722160000 +0000" channel="PRO TV">
+  <programme start="20230722150000 +0000" stop="20230722160000 +0000" channel="PRO TV HD">
     <title lang="ro">Şef sub acoperire</title>
-    <desc lang="ro">Te-ai gândit vreodată dacă şeful tău ştie ce se întâmplă într-o zi de muncă? Dacă ştie ce presupun multe dintre slujbele din companie sau dacă ar fi în stare să pună umărul la treabă şi să facă munca fizică pe care o faci chiar tu? Ar face treaba mai bine ca tine sau ar fi ca un începător pe care trebuie să-l înveţi orice mişcare? Dacă ai avea posibilitatea de a-ţi angaja şeful fără să ştii, de fapt, că e şeful, ai face-o sau i-ai spune că mai bine se duce să-şi caute un alt drum în viaţă? Fiecare persoană a avut cel puţin un moment în viaţă când şi-a pus una dintre întrebările de mai sus. PRO TV aduce răspunsul, în emisiunea care va captiva toţi românii: "Şef sub acoperire"! Săptămânal, noua emisiune va duce câte un director sub acoperire, care va experimenta mai multe job-uri în propria companie. În fiecare departament, un angajat îi va fi mentor şi va încerca să-l iniţieze pe şef în tainele companiei şi ale job-ului respectiv.(n)</desc>
-    <category lang="ro">Sub acoperire</category>
-    <category lang="ro">Schimb de locuri de muncă</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/4tTr_o_KQ0M-l7uaaY1wGQ.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">În emisiunea "Şef sub acoperire", directori de companii cunoscute în ţară, cu sute sau chiar mii de angajaţi, trec prin testul suprem: se pot descurca în rolul de simplu angajat în propria firmă?(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/22e64572f332a4ef6017383d3f522640cea667b4_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230722160000 +0000" stop="20230722170000 +0000" channel="PRO TV">
+  <programme start="20230722160000 +0000" stop="20230722170000 +0000" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro TV</title>
-    <desc lang="ro">Echipa de jurnalişti de la "Ştirile PRO TV" aduce în fiecare zi, în principalele jurnale, cele mai importante subiecte ale zilei, abordate cu mult profesionalism. Telespectatorii au acces la informaţii de calitate, anchete şi reportaje, documentate şi realizate de cei mai buni jurnalişti din România.(n)</desc>
-    <credits>
-      <presenter>Oana Andoni</presenter>
-    </credits>
-    <category lang="ro">Actualitate</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/aoD1b42CrsldAJ2oAZQV0A.jpg" />
-    <rating>
-      <value>AL</value>
+    <desc lang="ro">Amalia Enache şi Cristian Leonte prezintă principalul jurnal al zilei, aducând în atenţia telespectatorilor cele mai importante evenimente ale zilei, abordate cu mult profesionalism.(n)</desc>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/8c214ce3cb6a8a28dbb07594e699785648c0faac_1.jpg" />
+    <country lang="ro">ROM</country>
+    <rating system="CNC">
+      <value>AG</value>
     </rating>
   </programme>
-  <programme start="20230722170000 +0000" stop="20230722193000 +0000" channel="PRO TV">
+  <programme start="20230722170000 +0000" stop="20230722193000 +0000" channel="PRO TV HD">
     <title lang="ro">Sahara</title>
-    <desc lang="ro">Atunci când exploratorul Dirk Pitt (Matthew McConaughey) găseşte o monedă legendară, care face referire la o poveste antică, porneşte în aventura vieţii sale, încercând să găsească o comoară într-una dintre cele mai periculoase regiuni din Africa de Vest. Căutând ceea ce localnicii numesc "Vaporul morţii" - care ascunde o încărcătură secretă - Dirk şi însoţitorul său, Al Giordino (Steve Zahn), o întâlnesc pe Dr. Eva Rojas (Penelope Cruz), o superbă şi inteligentă doctoriţă, care este de părere că această comoară ascunsă ar putea fi o ameninţare la adresa lumii întregi.Încercând să găsească o navă pe care toţi o cred doar o iluzie, Dirk, Al şi Eva trebuie să se bazeze pe inteligenţă şi pe forţele proprii pentru a scăpa de mafioţi periculoşi, a supravieţui mediului ameninţător şi a găsi cheia misterelor.(n)</desc>
+    <desc lang="ro">Atunci când exploratorul Dirk Pitt (Matthew McConaughey) găseşte o monedă legendară, care face referire la o poveste antică, porneşte în aventura vieţii sale. Cu Dr. Rojas (Penelope Cruz).(n)</desc>
     <credits>
       <director>Breck Eisner</director>
-      <actor role="Eva Rojas">Penélope Cruz</actor>
-      <actor role="Al Giordino">Steve Zahn</actor>
-      <actor role="Dirk Pitt">Matthew McConaughey</actor>
-      <actor role="Yves Massarde">Lambert Wilson</actor>
-      <actor role="Admiral Jim Sandecker">William H. Macy</actor>
-      <producer>Howard Baldwin</producer>
+      <actor>Francis Magee</actor>
+      <actor>Patrick Malahide</actor>
+      <actor>Penélope Cruz</actor>
+      <actor>William H. Macy</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Lambert Wilson</actor>
+      <actor>Matthew McConaughey</actor>
+      <writer>James V. Hart</writer>
+      <writer>John C. Richards</writer>
+      <producer>Matthew McConaughey</producer>
       <producer>Mace Neufeld</producer>
-      <producer>Stephanie Austin</producer>
       <composer>Clint Mansell</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/wLRc2is9kPvi7vC0U9BdKA.jpg" />
-    <rating>
+    <date>2005</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/1d8b29fdfaa2fe20b45b5ee3b9edb8e5cc8a4ffc_1.jpg" />
+    <country lang="ro">ENGL</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230722193000 +0000" stop="20230722211500 +0000" channel="PRO TV">
+  <programme start="20230722193000 +0000" stop="20230722211500 +0000" channel="PRO TV HD">
     <title lang="ro">Mama răzbunării</title>
+    <title lang="xx">Breaking In</title>
     <credits>
       <director>James McTeigue</director>
-      <actor role="Shaun Russell">Gabrielle Union</actor>
-      <actor role="Eddie">Billy Burke</actor>
-      <actor role="Duncan">Richard Cabral</actor>
-      <actor role="Jasmine Russell">Ajiona Alexus</actor>
-      <actor role="Sam">Levi Meaden</actor>
-      <producer>James Lopez</producer>
-      <producer>Will Packer</producer>
+      <actor>Gabrielle Union</actor>
+      <actor>Jason George</actor>
+      <actor>Christa Miller</actor>
+      <actor>Billy Burke</actor>
+      <actor>Richard Cabral</actor>
+      <actor>Damien Leake</actor>
+      <actor>Ajiona Alexus</actor>
+      <actor>Seth Carr</actor>
+      <writer>Ryan Engle</writer>
+      <producer>Gabrielle Union</producer>
       <producer>Craig Perry</producer>
       <composer>Johnny Klimek</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Crimă</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/oaCyMUpbAV_9N3CAyj9uug.jpg" />
-    <rating>
-      <value>12</value>
+    <date>2018</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/132fbd5b4478d0d77d2046aa19213754360c578a_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
+      <value>15</value>
     </rating>
   </programme>
-  <programme start="20230722211500 +0000" stop="20230722230000 +0000" channel="PRO TV">
+  <programme start="20230722211500 +0000" stop="20230722230000 +0000" channel="PRO TV HD">
     <title lang="ro">Cască ochii sau o-ncurci</title>
-    <desc lang="ro">Lui Daryl Chase (Orlando Jones), un tânăr investitor bancar, viaţa i- a rezervat un loc aparte. Are un post bun şi o soţie iubitoare şi frumoasă. Dar totul se schimbă brusc într- o zi, când i se înscenează un jaf pentru că avea legătură, fără să ştie cu banii "spălaţi" ai unui cartel mexican de droguri. Căutat de CIA şi de FBI, Daryl îşi schimbă identitatea cu Freddy Tiffany (Eddie Girffin), un poliţist travestit, cu ajutorul căruia fuge peste graniţă în Mexic, unde încearcă să- şi lămurească situaţia. Dar din rău ajunge în şi mai rău, totul devine un haos când mexicanii îl vânează şi ei pentru omorârea senatorului Quintana.Când crede că nu mai este nimic de făcut, traficanţii sunt prinşi şi toţi ceilalţi din jurul său îşi dezvăluie adevărata identitate.(n)</desc>
+    <title lang="xx">Double Take</title>
+    <desc lang="ro">Lui Daryl, un tânăr investitor bancar, viaţa i- a rezervat un loc aparte. Are un post bun şi o soţie iubitoare şi frumoasă. Dar totul se schimbă brusc într- o zi, când i se înscenează un jaf.(n)</desc>
     <credits>
       <director>George Gallo</director>
-      <actor role="Daryl Chase">Orlando Jones</actor>
-      <actor role="Freddy Tiffany">Eddie Griffin</actor>
-      <actor role="Timothy Jarrett McCready">Gary Grubbs</actor>
-      <actor role="Quintana Driver">Raul Julia-Levy</actor>
-      <actor role="agentul Norville">Daniel Roebuck</actor>
-      <producer>Barry Bernardi</producer>
-      <producer>Alyss Dixson</producer>
-      <producer>Raul Julia-Levy</producer>
+      <actor>Eddie Griffin</actor>
+      <actor>Gary Grubbs</actor>
+      <actor>Daniel Roebuck</actor>
+      <actor>Sterling Macer Jr.</actor>
+      <actor>Orlando Jones</actor>
+      <actor>Edward Herrmann</actor>
+      <actor>Brent Briscoe</actor>
+      <actor>Garcelle Beauvais</actor>
+      <writer>Graham Greene</writer>
+      <writer>George Gallo</writer>
+      <producer>Michael Rotenberg</producer>
+      <producer>Brett Ratner</producer>
       <composer>Graeme Revell</composer>
     </credits>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/beN3_qPdbDMBFujS4ET4tw.jpg" />
-    <rating>
+    <date>2001</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/ac98a431970ff0aa6114a4652feedc9b73255b26_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230722230000 +0000" stop="20230723003000 +0000" channel="PRO TV">
+  <programme start="20230722230000 +0000" stop="20230723003000 +0000" channel="PRO TV HD">
     <title lang="ro">O minciună gogonată</title>
-    <desc lang="ro">Doi prieteni au de gând să tragă Hollywood-ul la răspundere.Aceasta este povestea lui Jason Shephard (Frankie Muniz), un puşti de 14 ani. Pe băiat nimic nu pare să-l distreze mai mult decât "livrarea" de minciuni. Însă, Jason pierde una dintre scrierile sale, de fapt tema pentru acasă, o lucrare numită "O minciună gogonată" în limuzina lui Marty Wolf (Paul Giamatti), un producător de filme, iar acesta o ecranizează. În clipa în care văd o avanpremieră a filmului, puştiul şi cea mai bună prietenă a acestuia, Kaylee (Amanda Bynes), pornesc spre Los Angeles pentru a-l face pe Wolf să mărturisească faptul că i-a furat povestea. Cea mai mare probelmă a lui Jason este că toată lumea îl ştie cât este de inventiv când vine vorba să scornească ceva, aşa că acum, când spune în sfârşit adevărul, nimeni nu îl ia în serios.(n)</desc>
+    <title lang="xx">Big Fat Liar</title>
+    <desc lang="ro">O comedie delicioasă despre Hollywoodul văzut din interior. Producătorul Marty (foarte bun Paul Giamatti) fură ideea unui puşti (Frankie Muniz), face film şi are succes. Dar tânărul are o soluţie.(n)</desc>
     <credits>
       <director>Shawn Levy</director>
-      <actor role="Jason Shepherd">Frankie Muniz</actor>
-      <actor role="Marty Wolf">Paul Giamatti</actor>
-      <actor role="Kaylee">Amanda Bynes</actor>
-      <actor role="Monty Kirkham">Amanda Detmer</actor>
-      <actor role="Frank Jackson">Donald Faison</actor>
-      <producer>Michael Tollin</producer>
+      <actor>John Cho</actor>
+      <actor>Taran Killam</actor>
+      <actor>Lee Majors</actor>
+      <actor>Frankie Muniz</actor>
+      <actor>Marisa Petroro</actor>
+      <actor>Sandra Oh</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>John Gatins</actor>
+      <writer>Brian Robbins</writer>
+      <writer>Dan Schneider</writer>
       <producer>Brian Robbins</producer>
-      <producer>Michael Goldman</producer>
+      <producer>Michael Tollin</producer>
       <composer>Christophe Beck</composer>
     </credits>
-    <category lang="ro">Aventură</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://m7cz.solocoo.tv/mmchan/mpimages/447x251/LS-ZoXIkf-Rd5dvEpEUyTQ.jpg" />
-    <rating>
-      <value>12</value>
+    <date>2002</date>
+    <icon src="https://apps.tvconnect.orange.ro/RTEFacade_RIGHTV/images/data/ebc/output/025b3e368e6498facfb98e1678979ac2060f8486_1.jpg" />
+    <country lang="ro">SUA</country>
+    <rating system="CNC">
+      <value>AP</value>
     </rating>
   </programme>
 </tv>
