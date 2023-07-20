@@ -2,15 +2,15 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="ProTV.ro">
     <display-name lang="ro">PRO TV</display-name>
-    <url>http://www.programetv.program24.ro</url>
+    <url>http://www.program24.ro</url>
   </channel>
   <channel id="Antena1.ro">
     <display-name lang="ro">Antena 1</display-name>
-    <url>http://www.programetv.program24.ro</url>
+    <url>http://www.program24.ro</url>
   </channel>
   <channel id="Pro Arena.ro">
     <display-name lang="ro">PRO ARENA</display-name>
-    <url>http://www.programetv.program24.ro</url>
+    <url>http://www.program24.ro</url>
   </channel>
   <programme start="20230720103000 +0300" stop="20230720130000 +0300" channel="ProTV.ro">
     <title lang="ro">Vorbeşte lumea</title>
