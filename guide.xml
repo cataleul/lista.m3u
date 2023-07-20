@@ -2,545 +2,560 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="ProTV.ro">
     <display-name lang="ro">PRO TV</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv_station/pro-tv-hd.jpg" />
-    <url>http://www.programetv.ro</url>
+    <url>http://www.programetv.program24.ro</url>
   </channel>
   <channel id="Antena1.ro">
     <display-name lang="ro">Antena 1</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv_station/antena-1-hd.jpg" />
-    <url>http://www.programetv.ro</url>
+    <url>http://www.programetv.program24.ro</url>
   </channel>
   <channel id="Pro Arena.ro">
     <display-name lang="ro">PRO ARENA</display-name>
-    <icon src="https://static.cinemagia.ro/img/tv_station/pro-arena-hd.jpg" />
-    <url>http://www.programetv.ro</url>
+    <url>http://www.programetv.program24.ro</url>
   </channel>
-  <programme start="20230720070000 +0000" stop="20230720102959 +0000" channel="ProTV.ro">
-    <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
-  </programme>
-  <programme start="20230720103000 +0000" stop="20230720125959 +0000" channel="ProTV.ro">
+  <programme start="20230720103000 +0300" stop="20230720130000 +0300" channel="ProTV.ro">
     <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/c6/81/vorbeste-lumea.jpg" />
   </programme>
-  <programme start="20230720130000 +0000" stop="20230720135959 +0000" channel="ProTV.ro">
+  <programme start="20230720130000 +0300" stop="20230720140000 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230720140000 +0000" stop="20230720145959 +0000" channel="ProTV.ro">
+  <programme start="20230720140000 +0300" stop="20230720150000 +0300" channel="ProTV.ro">
     <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
-    <category lang="ro">Diverse</category>
-    <icon src="https://www.programetv.ro/img/shows/8d/35/lectii-de-viata.png" />
   </programme>
-  <programme start="20230720150000 +0000" stop="20230720165959 +0000" channel="ProTV.ro">
+  <programme start="20230720150000 +0300" stop="20230720170000 +0300" channel="ProTV.ro">
     <title lang="ro">La Maruţă</title>
-    <desc lang="ro">O emisiune de divertisment în care telespectatorii se pot delecta cu invitați din lumea mondenă, vedete și celebrități, artiști, personalități publice și nu numai. Nu lipsesc nici concursurile, competițiile și farsele, tonul emisiunii fiind unul vesel și energic.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/2a/19/la-maruta.jpg" />
   </programme>
-  <programme start="20230720170000 +0000" stop="20230720175959 +0000" channel="ProTV.ro">
+  <programme start="20230720170000 +0300" stop="20230720180000 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230720180000 +0000" stop="20230720185959 +0000" channel="ProTV.ro">
+  <programme start="20230720180000 +0300" stop="20230720190000 +0300" channel="ProTV.ro">
     <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/73/9e/ce-spun-romanii.jpg" />
   </programme>
-  <programme start="20230720190000 +0000" stop="20230720202959 +0000" channel="ProTV.ro">
+  <programme start="20230720190000 +0300" stop="20230720203000 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230720203000 +0000" stop="20230720212959 +0000" channel="ProTV.ro">
+  <programme start="20230720203000 +0300" stop="20230720213000 +0300" channel="ProTV.ro">
     <title lang="ro">Las fierbinți</title>
-    <desc lang="ro">Acțiunea se petrece în satul Fierbinți. Viceprimarul Vasile vrea să îi ia locul actualului primar și se bazează pe sprijinul cârciumarului Bobiță și al prietenului acestuia, Giani, șmecherașul tipic de provincie.(n)</desc>
-    <credits>
-      <director>Dragoș Buliga</director>
-      <director>Constantin Popescu</director>
-      <director>Gabriel de Achim</director>
-      <actor>Mihai Bobonete</actor>
-      <actor>Gheorghe Ifrim</actor>
-      <actor>Anca Dumitra</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/75/33/las-fierbinti.jpg" />
-    <country lang="ro">Romania</country>
-    <rating>
-      <value>12</value>
-    </rating>
-    <star-rating system="IMDb">
-      <value>8.70</value>
-    </star-rating>
   </programme>
-  <programme start="20230720213000 +0000" stop="20230720234459 +0000" channel="ProTV.ro">
+  <programme start="20230720213000 +0300" stop="20230720234500 +0300" channel="ProTV.ro">
     <title lang="ro">Spioana</title>
-    <title lang="en">Spy</title>
-    <desc lang="ro">Susan Cooper este un analist CIA modest şi eroul necunoscut din spatele celor mai periculoase misiuni ale agenției. Dar când partenerul ei iese din rețea, ea se oferă voluntară să se infiltreze în lumea unui dealer de arme mortale.(n)</desc>
-    <credits>
-      <director>Paul Feig</director>
-      <actor>Raad Rawi</actor>
-      <actor>Melissa McCarthy</actor>
-      <actor>Jude Law</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="ro">Film</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/b2/18/spioana.jpg" />
-    <country lang="ro">SUA</country>
-    <rating>
-      <value>12</value>
-    </rating>
-    <star-rating system="IMDb">
-      <value>7.00</value>
-    </star-rating>
   </programme>
-  <programme start="20230720234500 +0000" stop="20230721001459 +0000" channel="ProTV.ro">
+  <programme start="20230720234500 +0300" stop="20230721001500 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230721001500 +0000" stop="20230721015959 +0000" channel="ProTV.ro">
+  <programme start="20230721001500 +0300" stop="20230721020000 +0300" channel="ProTV.ro">
     <title lang="ro">Imunitate</title>
-    <title lang="en">The Survivalist</title>
-    <desc lang="ro">La un an și jumătate de la distrugerea civilizației din cauza unei epidemii virale, un fost agent FBI este nevoit să protejeze o tânără femeie imună la boală de un periculos lider de bandă care o vânează.(n)</desc>
-    <credits>
-      <director>Jon Keeyes</director>
-      <actor>Jonathan Rhys Meyers</actor>
-      <actor>John Malkovich</actor>
-      <actor>Jenna Leigh Green</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="ro">Film</category>
-    <category lang="ro">Acţiune</category>
-    <icon src="https://www.programetv.ro/img/shows/88/dc/imunitate.jpg" />
-    <country lang="ro">SUA</country>
-    <rating>
-      <value>15</value>
-    </rating>
-    <star-rating system="IMDb">
-      <value>3.50</value>
-    </star-rating>
   </programme>
-  <programme start="20230721020000 +0000" stop="20230721025959 +0000" channel="ProTV.ro">
+  <programme start="20230721020000 +0300" stop="20230721030000 +0300" channel="ProTV.ro">
     <title lang="ro">Lecţii de viaţă</title>
-    <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
-    <category lang="ro">Diverse</category>
-    <icon src="https://www.programetv.ro/img/shows/8d/35/lectii-de-viata.png" />
   </programme>
-  <programme start="20230721030000 +0000" stop="20230721045959 +0000" channel="ProTV.ro">
+  <programme start="20230721030000 +0300" stop="20230721050000 +0300" channel="ProTV.ro">
     <title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/c6/81/vorbeste-lumea.jpg" />
   </programme>
-  <programme start="20230721050000 +0000" stop="20230721055959 +0000" channel="ProTV.ro">
+  <programme start="20230721050000 +0300" stop="20230721060000 +0300" channel="ProTV.ro">
     <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/73/9e/ce-spun-romanii.jpg" />
   </programme>
-  <programme start="20230721060000 +0000" stop="20230721065959 +0000" channel="ProTV.ro">
+  <programme start="20230721060000 +0300" stop="20230721070000 +0300" channel="ProTV.ro">
     <title lang="ro">Ştirile Pro Tv</title>
-    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/0e/6c/stirile-pro-tv.jpg" />
   </programme>
-  <programme start="20230720080000 +0000" stop="20230720115959 +0000" channel="Antena1.ro">
+  <programme start="20230721070000 +0300" stop="20230721103000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20230721103000 +0300" stop="20230721130000 +0300" channel="ProTV.ro">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20230721130000 +0300" stop="20230721140000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20230721140000 +0300" stop="20230721150000 +0300" channel="ProTV.ro">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20230721150000 +0300" stop="20230721170000 +0300" channel="ProTV.ro">
+    <title lang="ro">La Maruţă</title>
+  </programme>
+  <programme start="20230721170000 +0300" stop="20230721180000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20230721180000 +0300" stop="20230721190000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20230721190000 +0300" stop="20230721203000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20230721203000 +0300" stop="20230721213000 +0300" channel="ProTV.ro">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20230721213000 +0300" stop="20230721233000 +0300" channel="ProTV.ro">
+    <title lang="ro">Misiune în forță</title>
+  </programme>
+  <programme start="20230721233000 +0300" stop="20230722013000 +0300" channel="ProTV.ro">
+    <title lang="ro">Omul cu pumni de fier</title>
+  </programme>
+  <programme start="20230722013000 +0300" stop="20230722031500 +0300" channel="ProTV.ro">
+    <title lang="ro">Fără egal</title>
+  </programme>
+  <programme start="20230722031500 +0300" stop="20230722040000 +0300" channel="ProTV.ro">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20230722040000 +0300" stop="20230722060000 +0300" channel="ProTV.ro">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20230722060000 +0300" stop="20230722070000 +0300" channel="ProTV.ro">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20230722070000 +0300" stop="20230722100000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20230722100000 +0300" stop="20230722120000 +0300" channel="ProTV.ro">
+    <title lang="ro">Baschetii fermecati 2</title>
+  </programme>
+  <programme start="20230722120000 +0300" stop="20230722140000 +0300" channel="ProTV.ro">
+    <title lang="ro">Nancy Drew</title>
+  </programme>
+  <programme start="20230722140000 +0300" stop="20230722154500 +0300" channel="ProTV.ro">
+    <title lang="ro">O minciună gogonată</title>
+  </programme>
+  <programme start="20230722154500 +0300" stop="20230722180000 +0300" channel="ProTV.ro">
+    <title lang="ro">Spot</title>
+  </programme>
+  <programme start="20230722180000 +0300" stop="20230722190000 +0300" channel="ProTV.ro">
+    <title lang="ro">Şef sub acoperire</title>
+  </programme>
+  <programme start="20230722190000 +0300" stop="20230722200000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20230722200000 +0300" stop="20230722223000 +0300" channel="ProTV.ro">
+    <title lang="ro">Sahara</title>
+  </programme>
+  <programme start="20230722223000 +0300" stop="20230723001500 +0300" channel="ProTV.ro">
+    <title lang="ro">Mama răzbunării</title>
+  </programme>
+  <programme start="20230723001500 +0300" stop="20230723020000 +0300" channel="ProTV.ro">
+    <title lang="ro">Cască ochii că o-ncurci</title>
+  </programme>
+  <programme start="20230723020000 +0300" stop="20230723033000 +0300" channel="ProTV.ro">
+    <title lang="ro">O minciună gogonată</title>
+  </programme>
+  <programme start="20230723033000 +0300" stop="20230723041500 +0300" channel="ProTV.ro">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20230723041500 +0300" stop="20230723060000 +0300" channel="ProTV.ro">
+    <title lang="ro">Baschetii fermecati 2</title>
+  </programme>
+  <programme start="20230723060000 +0300" stop="20230723070000 +0300" channel="ProTV.ro">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20230723070000 +0300" stop="20230723100000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20230723100000 +0300" stop="20230723120000 +0300" channel="ProTV.ro">
+    <title lang="ro">Dr. Dolittle 3</title>
+  </programme>
+  <programme start="20230723120000 +0300" stop="20230723140000 +0300" channel="ProTV.ro">
+    <title lang="ro">Spot</title>
+  </programme>
+  <programme start="20230723140000 +0300" stop="20230723163000 +0300" channel="ProTV.ro">
+    <title lang="ro">Câini şi oamenii lor</title>
+  </programme>
+  <programme start="20230723163000 +0300" stop="20230723190000 +0300" channel="ProTV.ro">
+    <title lang="ro">Miss Agent Secret 2: Înarmată și seducătoare</title>
+  </programme>
+  <programme start="20230723190000 +0300" stop="20230723200000 +0300" channel="ProTV.ro">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20230723200000 +0300" stop="20230723221500 +0300" channel="ProTV.ro">
+    <title lang="ro">Greu de pensionat</title>
+  </programme>
+  <programme start="20230723221500 +0300" stop="20230724001500 +0300" channel="ProTV.ro">
+    <title lang="ro">Agenţii Vanguard</title>
+  </programme>
+  <programme start="20230720080000 +0300" stop="20230720120000 +0300" channel="Antena1.ro">
     <title lang="ro">Neatza cu Răzvan şi Dani</title>
-    <desc lang="ro">Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/c2/af/neatza-cu-razvan-si-dani.jpg" />
   </programme>
-  <programme start="20230720120000 +0000" stop="20230720135959 +0000" channel="Antena1.ro">
+  <programme start="20230720120000 +0300" stop="20230720140000 +0300" channel="Antena1.ro">
     <title lang="ro">Observator</title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg" />
   </programme>
-  <programme start="20230720140000 +0000" stop="20230720165959 +0000" channel="Antena1.ro">
+  <programme start="20230720140000 +0300" stop="20230720170000 +0300" channel="Antena1.ro">
     <title lang="ro">Provocarea destinului</title>
-    <desc lang="ro">Provocarea destinului este singurul reality show din România dedicat poveștilor de dragoste care se pot înfiripa între protagoniști cu experiență de viață, gata să ia totul de la capăt, lăsând în urmă orice dezamăgire, relație nefastă sau ajunsă la sfârșit de drum. Aceasta este provocarea lansată în noua emisiune, care va fi prezentată de Dianna Rotaru, din 11 iulie, la Antena 1.(n)</desc>
-    <category lang="ro">Diverse</category>
-    <icon src="https://www.programetv.ro/img/shows/a5/9e/provocarea-destinului.jpg" />
   </programme>
-  <programme start="20230720170000 +0000" stop="20230720175959 +0000" channel="Antena1.ro">
+  <programme start="20230720170000 +0300" stop="20230720180000 +0300" channel="Antena1.ro">
     <title lang="ro">Observator</title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg" />
   </programme>
-  <programme start="20230720180000 +0000" stop="20230720185959 +0000" channel="Antena1.ro">
+  <programme start="20230720180000 +0300" stop="20230720190000 +0300" channel="Antena1.ro">
     <title lang="ro">Prețul cel bun</title>
-    <desc lang="ro">Prețul cel bun este o emisiune de divertisment, de tip concurs, în care participanții concurează pentru a câștiga premii în bani și produse, aproximând sau ghicind exact prețul unor produse prezentate.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/7c/46/pretul-cel-bun.jpg" />
   </programme>
-  <programme start="20230720190000 +0000" stop="20230720202959 +0000" channel="Antena1.ro">
+  <programme start="20230720190000 +0300" stop="20230720203000 +0300" channel="Antena1.ro">
     <title lang="ro">Observator</title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg" />
   </programme>
-  <programme start="20230720203000 +0000" stop="20230720235959 +0000" channel="Antena1.ro">
+  <programme start="20230720203000 +0300" stop="20230721000000 +0300" channel="Antena1.ro">
     <title lang="ro">Temptation Island - Insula iubirii</title>
-    <desc lang="ro">Cupluri ce au relaţii de lungă durată, însă nu au decis încă să facă marele pas îşi vor putea testa relaţia prin intermediul acestui reality-show şi vor afla astfel dacă cel/cea alături de care au petrecut atâţia ani este cu adevărat jumătatea lor.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/8d/4b/temptation-island-insula-iubirii.jpg" />
   </programme>
-  <programme start="20230721000000 +0000" stop="20230721002959 +0000" channel="Antena1.ro">
+  <programme start="20230721000000 +0300" stop="20230721003000 +0300" channel="Antena1.ro">
     <title lang="ro">Observator</title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg" />
   </programme>
-  <programme start="20230721003000 +0000" stop="20230721025959 +0000" channel="Antena1.ro">
+  <programme start="20230721003000 +0300" stop="20230721030000 +0300" channel="Antena1.ro">
     <title lang="ro">Stand Up Revolution</title>
-    <desc lang="ro">Ilona Brezoianu și Șerban Copoț prezintă show-ul Stand-up Revolution.\n\nStand-up Revolution este prima emisiune televizată de stand-up în care patru nume cu greutate plănuiesc să descopere viitoarea mare senzație din domeniu.\n\nTeo, Costel, Dan Badea și Vio fac parte din juriul show-ului.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/76/72/stand-up-revolution.jpg" />
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
-  <programme start="20230721030000 +0000" stop="20230721035959 +0000" channel="Antena1.ro">
+  <programme start="20230721030000 +0300" stop="20230721040000 +0300" channel="Antena1.ro">
     <title lang="ro">Observator</title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg" />
   </programme>
-  <programme start="20230721040000 +0000" stop="20230721045959 +0000" channel="Antena1.ro">
+  <programme start="20230721040000 +0300" stop="20230721050000 +0300" channel="Antena1.ro">
     <title lang="ro">Povești de familie</title>
-    <desc lang="ro">Povești de familie este o serie despre familia și societatea contemporană, care își propune în mod curajos nu doar să prezinte probleme cât se poate de actuale din realitatea de zi cu zi, ci și soluții realiste de rezolvare a lor.(n)</desc>
-    <category lang="ro">Serial</category>
-    <icon src="https://www.programetv.ro/img/shows/96/86/povesti-de-familie.jpg" />
   </programme>
-  <programme start="20230721050000 +0000" stop="20230721055959 +0000" channel="Antena1.ro">
+  <programme start="20230721050000 +0300" stop="20230721060000 +0300" channel="Antena1.ro">
     <title lang="ro">Prețul cel bun</title>
-    <desc lang="ro">Prețul cel bun este o emisiune de divertisment, de tip concurs, în care participanții concurează pentru a câștiga premii în bani și produse, aproximând sau ghicind exact prețul unor produse prezentate.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/7c/46/pretul-cel-bun.jpg" />
   </programme>
-  <programme start="20230721060000 +0000" stop="20230721075959 +0000" channel="Antena1.ro">
+  <programme start="20230721060000 +0300" stop="20230721080000 +0300" channel="Antena1.ro">
     <title lang="ro">Observator</title>
-    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
-    <category lang="ro">Ştiri</category>
-    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg" />
   </programme>
-  <programme start="20230720070000 +0000" stop="20230720072959 +0000" channel="Pro Arena.ro">
-    <title lang="ro">Stiri Sport.ro</title>
-    <category lang="ro">Ştiri</category>
+  <programme start="20230721080000 +0300" stop="20230721120000 +0300" channel="Antena1.ro">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
   </programme>
-  <programme start="20230720073000 +0000" stop="20230720082959 +0000" channel="Pro Arena.ro">
-    <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.\n\nUn serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-    <category lang="ro">Documentar</category>
-    <icon src="https://www.programetv.ro/img/shows/10/1e/razboiul-depozitelor.jpg" />
+  <programme start="20230721120000 +0300" stop="20230721140000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
   </programme>
-  <programme start="20230720083000 +0000" stop="20230720092959 +0000" channel="Pro Arena.ro">
-    <title lang="ro">De râsul lumii /s26</title>
-    <category lang="ro">Divertisment</category>
+  <programme start="20230721140000 +0300" stop="20230721170000 +0300" channel="Antena1.ro">
+    <title lang="ro">Provocarea destinului</title>
   </programme>
-  <programme start="20230720093000 +0000" stop="20230720102959 +0000" channel="Pro Arena.ro">
-    <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">O frumoasă şi tânără femeie le arată lui Leonard şi Sheldon, doi geniali fizicieni, cât de puţine ştiu despre viaţă.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <director>Peter Chakos</director>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/ed/a6/teoria-big-bang.jpg" />
-    <country lang="ro">SUA</country>
-    <star-rating system="IMDb">
-      <value>8.20</value>
-    </star-rating>
+  <programme start="20230721170000 +0300" stop="20230721180000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
   </programme>
-  <programme start="20230720103000 +0000" stop="20230720112959 +0000" channel="Pro Arena.ro">
+  <programme start="20230721180000 +0300" stop="20230721190000 +0300" channel="Antena1.ro">
+    <title lang="ro">Prețul cel bun</title>
+  </programme>
+  <programme start="20230721190000 +0300" stop="20230721203000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230721203000 +0300" stop="20230722000000 +0300" channel="Antena1.ro">
+    <title lang="ro">Temptation Island - Insula iubirii</title>
+  </programme>
+  <programme start="20230722000000 +0300" stop="20230722030000 +0300" channel="Antena1.ro">
+    <title lang="ro">Narcos</title>
+  </programme>
+  <programme start="20230722030000 +0300" stop="20230722040000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230722040000 +0300" stop="20230722050000 +0300" channel="Antena1.ro">
+    <title lang="ro">Povești de familie</title>
+  </programme>
+  <programme start="20230722050000 +0300" stop="20230722060000 +0300" channel="Antena1.ro">
+    <title lang="ro">Prețul cel bun</title>
+  </programme>
+  <programme start="20230722060000 +0300" stop="20230722090000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230722090000 +0300" stop="20230722093000 +0300" channel="Antena1.ro">
+    <title lang="ro">Alpha Kids</title>
+  </programme>
+  <programme start="20230722093000 +0300" stop="20230722120000 +0300" channel="Antena1.ro">
+    <title lang="ro">Lupul și leul: O prietenie ca-n povești</title>
+  </programme>
+  <programme start="20230722120000 +0300" stop="20230722130000 +0300" channel="Antena1.ro">
+    <title lang="ro">Medicool</title>
+  </programme>
+  <programme start="20230722130000 +0300" stop="20230722133000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230722133000 +0300" stop="20230722190000 +0300" channel="Antena1.ro">
+    <title lang="ro">Poftiți pe la noi: Poftiți prin țară</title>
+  </programme>
+  <programme start="20230722190000 +0300" stop="20230722200000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230722200000 +0300" stop="20230723000000 +0300" channel="Antena1.ro">
+    <title lang="ro">Te cunosc de undeva</title>
+  </programme>
+  <programme start="20230723000000 +0300" stop="20230723020000 +0300" channel="Antena1.ro">
+    <title lang="ro">Lupul și leul: O prietenie ca-n povești</title>
+  </programme>
+  <programme start="20230723020000 +0300" stop="20230723030000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230723030000 +0300" stop="20230723060000 +0300" channel="Antena1.ro">
+    <title lang="ro">Celebrity Splash: Vedete la apă</title>
+  </programme>
+  <programme start="20230723060000 +0300" stop="20230723090000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230723090000 +0300" stop="20230723130000 +0300" channel="Antena1.ro">
+    <title lang="ro">Neatza de weekend</title>
+  </programme>
+  <programme start="20230723130000 +0300" stop="20230723133000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230723133000 +0300" stop="20230723153000 +0300" channel="Antena1.ro">
+    <title lang="ro">Poftiți pe la noi: Poftiți prin țară</title>
+  </programme>
+  <programme start="20230723153000 +0300" stop="20230723190000 +0300" channel="Antena1.ro">
+    <title lang="ro">Te cunosc de undeva</title>
+  </programme>
+  <programme start="20230723190000 +0300" stop="20230723200000 +0300" channel="Antena1.ro">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20230723200000 +0300" stop="20230723233000 +0300" channel="Antena1.ro">
+    <title lang="ro">Celebrity Splash: Vedete la apă</title>
+  </programme>
+  <programme start="20230723233000 +0300" stop="20230724020000 +0300" channel="Antena1.ro">
+    <title lang="ro">Hustlers: Striptease pe Wall Street</title>
+  </programme>
+  <programme start="20230720103000 +0300" stop="20230720113000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <director>Christopher Miller</director>
-      <director>Jason Ensler</director>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Stephanie Beatriz</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/64/4c/brooklyn-99.jpg" />
-    <country lang="ro">SUA</country>
-    <star-rating system="IMDb">
-      <value>8.40</value>
-    </star-rating>
   </programme>
-  <programme start="20230720113000 +0000" stop="20230720122959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720113000 +0300" stop="20230720123000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri.(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <director>Jeff Melman</director>
-      <director>Ellen Falcon</director>
-      <actor>Will Smith</actor>
-      <actor>James Avery</actor>
-      <actor>Alfonso Ribeiro</actor>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/20/ce/printul-din-bel-air.jpg" />
-    <country lang="ro">SUA</country>
-    <star-rating system="IMDb">
-      <value>7.90</value>
-    </star-rating>
   </programme>
-  <programme start="20230720123000 +0000" stop="20230720125959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720123000 +0300" stop="20230720130000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Stiri Sport.ro</title>
-    <category lang="ro">Ştiri</category>
   </programme>
-  <programme start="20230720130000 +0000" stop="20230720135959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720130000 +0300" stop="20230720140000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/73/9e/ce-spun-romanii.jpg" />
   </programme>
-  <programme start="20230720140000 +0000" stop="20230720145959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720140000 +0300" stop="20230720150000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Războiul depozitelor</title>
-    <desc lang="ro">Spiritele se încing la depozitele din Montebello. Jarod şi Brandi părăsesc licitaţia, regretând că au venit.\n\nUn serial care prezintă o echipă de experți în antichități care cumpără la licitație obiectele aflate în depozite părăsite. Când se deschid ușile, în spatele lor se vor afla comori sau fleacuri fără valoare?(n)</desc>
-    <category lang="ro">Documentar</category>
-    <icon src="https://www.programetv.ro/img/shows/10/1e/razboiul-depozitelor.jpg" />
   </programme>
-  <programme start="20230720150000 +0000" stop="20230720155959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720150000 +0300" stop="20230720160000 +0300" channel="Pro Arena.ro">
     <title lang="ro">De râsul lumii /s26</title>
-    <category lang="ro">Divertisment</category>
   </programme>
-  <programme start="20230720160000 +0000" stop="20230720165959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720160000 +0300" stop="20230720170000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Teoria Big Bang</title>
-    <title lang="en">The Big Bang Theory</title>
-    <desc lang="ro">O frumoasă şi tânără femeie le arată lui Leonard şi Sheldon, doi geniali fizicieni, cât de puţine ştiu despre viaţă.(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <director>Peter Chakos</director>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/ed/a6/teoria-big-bang.jpg" />
-    <country lang="ro">SUA</country>
-    <star-rating system="IMDb">
-      <value>8.20</value>
-    </star-rating>
   </programme>
-  <programme start="20230720170000 +0000" stop="20230720175959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720170000 +0300" stop="20230720180000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Brooklyn 99</title>
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="ro">Strălucitul, dar imaturul detectiv din Brooklyn Jake Peralta trebuie să învețe să respecte regulile și să lucreze în echipă după ce la secție sosește un căpitan sever.(n)</desc>
-    <credits>
-      <director>Phil Lord</director>
-      <director>Christopher Miller</director>
-      <director>Jason Ensler</director>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Stephanie Beatriz</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/64/4c/brooklyn-99.jpg" />
-    <country lang="ro">SUA</country>
-    <star-rating system="IMDb">
-      <value>8.40</value>
-    </star-rating>
   </programme>
-  <programme start="20230720180000 +0000" stop="20230720185959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720180000 +0300" stop="20230720190000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Prințul din Bel Air</title>
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="ro">Familia Banks, o familie foarte respectată din California, ia în gazdă o rudă, pe Will Smith, un adolescent crescut pe străzile din Philadelphia. Ideea este de a face din el un om respectabil, responsabil și matur, dar Will are alte planuri.(n)</desc>
-    <credits>
-      <director>Shelley Jensen</director>
-      <director>Jeff Melman</director>
-      <director>Ellen Falcon</director>
-      <actor>Will Smith</actor>
-      <actor>James Avery</actor>
-      <actor>Alfonso Ribeiro</actor>
-    </credits>
-    <date>1990</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/20/ce/printul-din-bel-air.jpg" />
-    <country lang="ro">SUA</country>
-    <star-rating system="IMDb">
-      <value>7.90</value>
-    </star-rating>
   </programme>
-  <programme start="20230720190000 +0000" stop="20230720195959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720190000 +0300" stop="20230720200000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
-    <category lang="ro">Documentar</category>
-    <icon src="https://www.programetv.ro/img/shows/26/35/asii-amanetului.jpg" />
   </programme>
-  <programme start="20230720200000 +0000" stop="20230720205959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720200000 +0300" stop="20230720210000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Atelierul de Restaurare /s1</title>
-    <category lang="ro">Diverse</category>
   </programme>
-  <programme start="20230720210000 +0000" stop="20230720215959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720210000 +0300" stop="20230720220000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Magnum, detectiv particular</title>
-    <title lang="en">Magnum P.I.</title>
-    <desc lang="ro">Thomas Magnum, fost pușcaș marin, revine acasă din Afganistan și își folosește abilitățile și cunoștințele militare pentru a deveni investigator particular în Hawaii.(n)</desc>
-    <credits>
-      <director>Justin Lin</director>
-      <actor>Jay Hernandez</actor>
-      <actor>Perdita Weeks</actor>
-      <actor>Zachary Knighton</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <icon src="https://www.programetv.ro/img/shows/82/b0/magnum-detectiv-particular.jpg" />
-    <country lang="ro">SUA</country>
-    <rating>
-      <value>12</value>
-    </rating>
-    <star-rating system="IMDb">
-      <value>6.20</value>
-    </star-rating>
   </programme>
-  <programme start="20230720220000 +0000" stop="20230720225959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720220000 +0300" stop="20230720230000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Cobra 11 în alertă</title>
-    <title lang="en">Alarm für Cobra 11 - Die Autobahnpolizei</title>
-    <credits>
-      <director>Arend Agthe</director>
-      <director>Raoul W. Heimrich</director>
-      <director>Carmen Kurz</director>
-      <actor>Erdogan Atalay</actor>
-      <actor>Gottfried Vollmer</actor>
-      <actor>René Steinke</actor>
-    </credits>
-    <date>1996</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <icon src="https://www.programetv.ro/img/shows/9e/85/cobra-11-in-alerta.jpg" />
-    <country lang="ro">Germania</country>
-    <rating>
-      <value>12</value>
-    </rating>
-    <star-rating system="IMDb">
-      <value>6.30</value>
-    </star-rating>
   </programme>
-  <programme start="20230720230000 +0000" stop="20230720235959 +0000" channel="Pro Arena.ro">
+  <programme start="20230720230000 +0300" stop="20230721000000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?(n)</desc>
-    <category lang="ro">Documentar</category>
-    <icon src="https://www.programetv.ro/img/shows/26/35/asii-amanetului.jpg" />
   </programme>
-  <programme start="20230721000000 +0000" stop="20230721002959 +0000" channel="Pro Arena.ro">
+  <programme start="20230721000000 +0300" stop="20230721003000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Stiri Sport.ro</title>
-    <category lang="ro">Ştiri</category>
   </programme>
-  <programme start="20230721003000 +0000" stop="20230721012959 +0000" channel="Pro Arena.ro">
+  <programme start="20230721003000 +0300" stop="20230721013000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Magnum, detectiv particular</title>
-    <title lang="en">Magnum P.I.</title>
-    <desc lang="ro">Thomas Magnum, fost pușcaș marin, revine acasă din Afganistan și își folosește abilitățile și cunoștințele militare pentru a deveni investigator particular în Hawaii.(n)</desc>
-    <credits>
-      <director>Justin Lin</director>
-      <actor>Jay Hernandez</actor>
-      <actor>Perdita Weeks</actor>
-      <actor>Zachary Knighton</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <icon src="https://www.programetv.ro/img/shows/82/b0/magnum-detectiv-particular.jpg" />
-    <country lang="ro">SUA</country>
-    <rating>
-      <value>12</value>
-    </rating>
-    <star-rating system="IMDb">
-      <value>6.20</value>
-    </star-rating>
   </programme>
-  <programme start="20230721013000 +0000" stop="20230721022959 +0000" channel="Pro Arena.ro">
+  <programme start="20230721013000 +0300" stop="20230721023000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Cobra 11 în alertă</title>
-    <title lang="en">Alarm für Cobra 11 - Die Autobahnpolizei</title>
-    <credits>
-      <director>Arend Agthe</director>
-      <director>Raoul W. Heimrich</director>
-      <director>Carmen Kurz</director>
-      <actor>Erdogan Atalay</actor>
-      <actor>Gottfried Vollmer</actor>
-      <actor>René Steinke</actor>
-    </credits>
-    <date>1996</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <icon src="https://www.programetv.ro/img/shows/9e/85/cobra-11-in-alerta.jpg" />
-    <country lang="ro">Germania</country>
-    <rating>
-      <value>12</value>
-    </rating>
-    <star-rating system="IMDb">
-      <value>6.30</value>
-    </star-rating>
   </programme>
-  <programme start="20230721023000 +0000" stop="20230721025959 +0000" channel="Pro Arena.ro">
+  <programme start="20230721023000 +0300" stop="20230721030000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Stiri Sport.ro</title>
-    <category lang="ro">Ştiri</category>
   </programme>
-  <programme start="20230721030000 +0000" stop="20230721035959 +0000" channel="Pro Arena.ro">
+  <programme start="20230721030000 +0300" stop="20230721040000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Ce spun românii</title>
-    <desc lang="ro">Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.(n)</desc>
-    <category lang="ro">Divertisment</category>
-    <icon src="https://www.programetv.ro/img/shows/73/9e/ce-spun-romanii.jpg" />
   </programme>
-  <programme start="20230721040000 +0000" stop="20230721055959 +0000" channel="Pro Arena.ro">
+  <programme start="20230721040000 +0300" stop="20230721060000 +0300" channel="Pro Arena.ro">
     <title lang="ro">La bloc</title>
-    <desc lang="ro">De-a lungul celor 16 ani de căsnicie, Suzi şi Nelu adunaseră ceva bănuţi şi îşi doreau o viaţă nouă într-o locuinţă nouă. Aşa că, împreună cu fiica lor, aceştia se mută într-un nou apartament, recomandat de prietenul lui Nelu, Costel Jurcă.(n)</desc>
-    <credits>
-      <director>Radu Dragomir</director>
-      <director>Răzvan Săvescu</director>
-      <director>Daniel Sandu</director>
-      <actor>Dragos Mostenescu</actor>
-      <actor>Dana Rogoz</actor>
-      <actor>Mihai Coada</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <icon src="https://www.programetv.ro/img/shows/26/e0/la-bloc.jpg" />
-    <country lang="ro">Romania</country>
-    <star-rating system="IMDb">
-      <value>6.00</value>
-    </star-rating>
   </programme>
-  <programme start="20230721060000 +0000" stop="20230721065959 +0000" channel="Pro Arena.ro">
+  <programme start="20230721060000 +0300" stop="20230721070000 +0300" channel="Pro Arena.ro">
     <title lang="ro">Atelierul de Restaurare /s1</title>
-    <category lang="ro">Diverse</category>
+  </programme>
+  <programme start="20230721070000 +0300" stop="20230721073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230721073000 +0300" stop="20230721083000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Războiul depozitelor</title>
+  </programme>
+  <programme start="20230721083000 +0300" stop="20230721093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">De râsul lumii /s26</title>
+  </programme>
+  <programme start="20230721093000 +0300" stop="20230721103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20230721103000 +0300" stop="20230721113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Brooklyn 99</title>
+  </programme>
+  <programme start="20230721113000 +0300" stop="20230721123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Prințul din Bel Air</title>
+  </programme>
+  <programme start="20230721123000 +0300" stop="20230721130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230721130000 +0300" stop="20230721140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20230721140000 +0300" stop="20230721150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Războiul depozitelor</title>
+  </programme>
+  <programme start="20230721150000 +0300" stop="20230721160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">De râsul lumii /s26</title>
+  </programme>
+  <programme start="20230721160000 +0300" stop="20230721170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20230721170000 +0300" stop="20230721180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Brooklyn 99</title>
+  </programme>
+  <programme start="20230721180000 +0300" stop="20230721190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Bărbat în minoritate</title>
+  </programme>
+  <programme start="20230721190000 +0300" stop="20230721200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Aşii amanetului</title>
+  </programme>
+  <programme start="20230721200000 +0300" stop="20230721210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Atelierul de Restaurare / s1</title>
+  </programme>
+  <programme start="20230721210000 +0300" stop="20230721220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Magnum, detectiv particular</title>
+  </programme>
+  <programme start="20230721220000 +0300" stop="20230721230000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Cobra 11 în alertă</title>
+  </programme>
+  <programme start="20230721230000 +0300" stop="20230722000000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Aşii amanetului</title>
+  </programme>
+  <programme start="20230722000000 +0300" stop="20230722003000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230722003000 +0300" stop="20230722013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Magnum, detectiv particular</title>
+  </programme>
+  <programme start="20230722013000 +0300" stop="20230722023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Cobra 11 în alertă</title>
+  </programme>
+  <programme start="20230722023000 +0300" stop="20230722030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230722030000 +0300" stop="20230722040000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20230722040000 +0300" stop="20230722060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">La bloc</title>
+  </programme>
+  <programme start="20230722060000 +0300" stop="20230722070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SURVIVOR: În Arenă</title>
+  </programme>
+  <programme start="20230722070000 +0300" stop="20230722073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230722073000 +0300" stop="20230722093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">De râsul lumii /s26</title>
+  </programme>
+  <programme start="20230722093000 +0300" stop="20230722103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20230722103000 +0300" stop="20230722113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Brooklyn 99</title>
+  </programme>
+  <programme start="20230722113000 +0300" stop="20230722123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Bărbat în minoritate</title>
+  </programme>
+  <programme start="20230722123000 +0300" stop="20230722130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230722130000 +0300" stop="20230722140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Apropo Tv</title>
+  </programme>
+  <programme start="20230722140000 +0300" stop="20230722150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Campionatul Național de Offroad</title>
+  </programme>
+  <programme start="20230722150000 +0300" stop="20230722153000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230722153000 +0300" stop="20230722160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Aşii amanetului</title>
+  </programme>
+  <programme start="20230722160000 +0300" stop="20230722170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20230722170000 +0300" stop="20230722180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Brooklyn 99</title>
+  </programme>
+  <programme start="20230722180000 +0300" stop="20230722190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Bărbat în minoritate</title>
+  </programme>
+  <programme start="20230722190000 +0300" stop="20230722200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Red Bull Cliff Diving 2023   -  Italia</title>
+  </programme>
+  <programme start="20230722200000 +0300" stop="20230722210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SURVIVOR: În Arenă</title>
+  </programme>
+  <programme start="20230722210000 +0300" stop="20230722220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Atletico Textila</title>
+  </programme>
+  <programme start="20230722220000 +0300" stop="20230723010000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">UFC Fight Night: Aspinall vs. Tybura</title>
+  </programme>
+  <programme start="20230723010000 +0300" stop="20230723013000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230723013000 +0300" stop="20230723023000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Atletico Textila</title>
+  </programme>
+  <programme start="20230723023000 +0300" stop="20230723030000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230723030000 +0300" stop="20230723060000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">La bloc</title>
+  </programme>
+  <programme start="20230723060000 +0300" stop="20230723070000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SURVIVOR: În Arenă</title>
+  </programme>
+  <programme start="20230723070000 +0300" stop="20230723073000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230723073000 +0300" stop="20230723093000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">De râsul lumii /s26</title>
+  </programme>
+  <programme start="20230723093000 +0300" stop="20230723103000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20230723103000 +0300" stop="20230723113000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Brooklyn 99</title>
+  </programme>
+  <programme start="20230723113000 +0300" stop="20230723123000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Bărbat în minoritate</title>
+  </programme>
+  <programme start="20230723123000 +0300" stop="20230723130000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230723130000 +0300" stop="20230723133000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Superspeed</title>
+  </programme>
+  <programme start="20230723133000 +0300" stop="20230723140000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">I Like IT</title>
+  </programme>
+  <programme start="20230723140000 +0300" stop="20230723150000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Războiul depozitelor</title>
+  </programme>
+  <programme start="20230723150000 +0300" stop="20230723153000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20230723153000 +0300" stop="20230723160000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Aşii amanetului</title>
+  </programme>
+  <programme start="20230723160000 +0300" stop="20230723170000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20230723170000 +0300" stop="20230723180000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Brooklyn 99</title>
+  </programme>
+  <programme start="20230723180000 +0300" stop="20230723190000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Bărbat în minoritate</title>
+  </programme>
+  <programme start="20230723190000 +0300" stop="20230723200000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Provocarea supremă /s2</title>
+  </programme>
+  <programme start="20230723200000 +0300" stop="20230723210000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">SURVIVOR: În Arenă</title>
+  </programme>
+  <programme start="20230723210000 +0300" stop="20230723220000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">Atletico Textila</title>
+  </programme>
+  <programme start="20230723220000 +0300" stop="20230723230000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">BOX Mania</title>
+  </programme>
+  <programme start="20230723230000 +0300" stop="20230724000000 +0300" channel="Pro Arena.ro">
+    <title lang="ro">UFC Club</title>
   </programme>
 </tv>
